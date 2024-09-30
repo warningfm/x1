@@ -1,6 +1,6 @@
 [
 	{
-		"origin": "ABC Australia",
+		"origin": "ABC.id",
 		"channel_name": "ID: ABC Australia",
 		"channel_id": "ABCAustralia.au.id"
 	},
@@ -10,12 +10,12 @@
 		"channel_id": "AlJazeera.qa.id"
 	},
 	{
-		"origin": "Al Jazeera International",
+		"origin": "Aljazeera.id",
 		"channel_name": "ID: Al Jazeera English",
 		"channel_id": "AlJazeeraEnglish.qa.id"
 	},
 	{
-		"origin": "Al Quran Al Kareem",
+		"origin": "Al Quran Al Kareem.id",
 		"channel_name": "ID: Al-Qur'an Al-Kareem TV",
 		"channel_id": "AlQuranAlKareemTV.sa.id"
 	},
@@ -25,17 +25,17 @@
 		"channel_id": "AnimalPlanetSoutheastAsia.sg.id"
 	},
 	{
-		"origin": "Animax",
+		"origin": "Animax.id",
 		"channel_name": "ID: Animax",
 		"channel_id": "AnimaxAsia.sg.id"
 	},
 	{
-		"origin": "ANTV",
+		"origin": "ANTV.id",
 		"channel_name": "ID: ANTV",
 		"channel_id": "ANTV.id"
 	},
 	{
-		"origin": "Arirang",
+		"origin": "Arirang.id",
 		"channel_name": "ID: Arirang TV",
 		"channel_id": "ArirangTV.kr.id"
 	},
