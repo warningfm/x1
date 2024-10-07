@@ -295,7 +295,7 @@
 	},
 	{
 		"origin": "Discovery Channel (HD).sg",
-		"channel_name": "Discovery Ch",
+		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
@@ -310,8 +310,8 @@
 	},
 	{
 		"origin": "DreamWorks (HD).sg",
-		"channel_name": "DreamWorks Channel",
-		"channel_id": "DreamWorksChannel.id"
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "Deutsche Welle (English).sg",
