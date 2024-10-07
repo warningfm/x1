@@ -191,7 +191,7 @@
 	{
 		"origin": "CGTN-Documentary.sg",
 		"channel_name": "CGTN Documentary",
-		"channel_id": "CGTNDocumentary.cn.sg"
+		"channel_id": "CGTNDocumentary.id"
 	},
 	{
 		"origin": "Ch 5 (HD).sg",
@@ -230,7 +230,7 @@
 	},
 	{
 		"origin": "CinemaWorld (HD).sg",
-		"channel_name": "CinemaWorld",
+		"channel_name": "Cinema World",
 		"channel_id": "CinemaWorld.id"
 	},
 	{
