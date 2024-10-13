@@ -161,7 +161,7 @@
 	},
 	{
 		"origin": "IDX",
-		"channel_name": "IDX Channel",
+		"channel_name": "IDX",
 		"channel_id": "IDXChannel.id"
 	},
 	{
@@ -257,7 +257,7 @@
 	{
 		"origin": "Net.",
 		"channel_name": "NET.",
-		"channel_id": "Net.id"
+		"channel_id": "NET.id"
 	},
 	{
 		"origin": "News Asia",
