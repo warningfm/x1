@@ -111,8 +111,18 @@
 	},
 	{
 		"origin": "Discovery Channel",
-		"channel_name": "Discovery Ch",
-		"channel_id": "DiscoveryChannel.sg"
+		"channel_name": "Discovery Channel",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "Dunia anak",
+		"channel_name": "Dunia anak",
+		"channel_id": "DuniaAnak.id"
+	},
+	{
+		"origin": "Dunia Lain",
+		"channel_name": "Dunia Lain",
+		"channel_id": "DuniaLain.id"
 	},
 	{
 		"origin": "Euronews",
