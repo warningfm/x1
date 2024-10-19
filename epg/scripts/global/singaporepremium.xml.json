@@ -90,8 +90,8 @@
 	},
 	{
 		"origin": "BBC Earth (HD).sg",
-		"channel_name": "BBC Earth",
-		"channel_id": "BBCEarthAsia.uk.sg"
+		"channel_name": "BBC Earth (v+)",
+		"channel_id": "BBCEarth.id"
 	},
 	{
 		"origin": "BBC Lifestyle (HD).sg",
@@ -101,7 +101,7 @@
 	{
 		"origin": "BBC News.sg",
 		"channel_name": "BBC World News",
-		"channel_id": "BBCWorldNewsAsiaPacific.uk.sg"
+		"channel_id": "BBCWorldNews.id"
 	},
 	{
 		"origin": "beIN SPORTS 2 (HD).sg",
