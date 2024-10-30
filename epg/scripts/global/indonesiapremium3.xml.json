@@ -115,6 +115,16 @@
 		"channel_id": "CNNInternational.id"
 	},
 	{
+		"origin": "Crime Investigation",
+		"channel_name": "Crime Investigation",
+		"channel_id": "CrimePlusInvestigation.id"
+	},
+	{
+		"origin": "CTI Asia",
+		"channel_name": "CTI Asia",
+		"channel_id": "CTIAsia.id"
+	},
+	{
 		"origin": "Daai TV",
 		"channel_name": "DAAITV",
 		"channel_id": "DAAITV.id"
