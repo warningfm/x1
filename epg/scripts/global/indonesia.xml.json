@@ -115,6 +115,11 @@
 		"channel_id": "CelestialMovies.id"
 	},
 	{
+		"origin": "Celebrities TV - [Channel 96].id",
+		"channel_name": "Celebrities TV",
+		"channel_id": "CelebritiesTV.id"
+	},
+	{
 		"origin": "CGTN - [Channel 353].id",
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
@@ -315,11 +320,6 @@
 		"channel_id": "iNews.id"
 	},
 	{
-		"origin": "Celebrities TV - [Channel 96].id",
-		"channel_name": "Celebrities TV",
-		"channel_id": "CelebritiesTV.id"
-	},
-	{
 		"origin": "JAKTV - [Channel 113].id",
 		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
@@ -378,6 +378,21 @@
 		"origin": "MTV 90s - [Channel 149].id",
 		"channel_name": "MTV 90s",
 		"channel_id": "MTV90s.id"
+	},
+	{
+		"origin": "Music TV HD - [Channel 444].id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Music TV - [Channel 111].id",
+		"channel_name": "Music TV",
+		"channel_id": "MusicTV.id"
+	},
+	{
+		"origin": "Muslim TV - [Channel 92].id",
+		"channel_name": "Muslim TV",
+		"channel_id": "MuslimTV.id"
 	},
 	{
 		"origin": "NET TV - [Channel 116].id",
