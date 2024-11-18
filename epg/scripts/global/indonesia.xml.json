@@ -395,6 +395,16 @@
 		"channel_id": "SindoNews.id"
 	},
 	{
+		"origin": "Soccer Channel - [Channel 101].id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
+	},
+	{
+		"origin": "Soccer Channel HD - [Channel 420].id",
+		"channel_name": "Soccer Channel",
+		"channel_id": "SoccerChannel.id"
+	},
+	{
 		"origin": "Sportstars - [Channel 102].id",
 		"channel_name": "SportStars",
 		"channel_id": "SportStars.id"
