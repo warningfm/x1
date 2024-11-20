@@ -46,8 +46,8 @@ https://www.bevy.be/bevyfiles/hongkongpremium.xml
 india.xml
 https://www.bevy.be/bevyfiles/india.xml
 
-indiapremium1.xml
-https://www.bevy.be/bevyfiles/indiapremium1.xml
+india1.xml
+https://www.bevy.be/bevyfiles/india1.xml
 
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
