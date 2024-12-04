@@ -1,5 +1,10 @@
 [
 	{
+		"origin": "ABC Australia.id",
+		"channel_name": "ABC Australia",
+		"channel_id": "ABCAustralia.id"
+	},
+	{
 		"origin": "AJWA TV.id",
 		"channel_name": "Ajwa TV",
 		"channel_id": "AjwaTV.id"
