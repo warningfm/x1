@@ -10,6 +10,11 @@
 		"channel_id": "AlJazeeraEnglish.id"
 	},
 	{
+		"origin": "AllPlay Ent.id",
+		"channel_name": "AllPlay Entertainment",
+		"channel_id": "AllPlayEnt.id"
+	},
+	{
 		"origin": "AlQuran Kareem.id",
 		"channel_name": "AlQuran Kareem",
 		"channel_id": "AlQuranKareem.id"
@@ -98,6 +103,11 @@
 		"origin": "Chinese Drama.id",
 		"channel_name": "Chinese Drama",
 		"channel_id": "ChineseDrama.id"
+	},
+	{
+		"origin": "Cinema World.id",
+		"channel_name": "Cinema World",
+		"channel_id": "Cinemaworld.id"
 	},
 	{
 		"origin": "Citra Dangdut.id",
@@ -205,6 +215,11 @@
 		"channel_id": "France24English.fr.id"
 	},
 	{
+		"origin": "FunPlanet.id",
+		"channel_name": "Fun Planet",
+		"channel_id": "FunPlanet.id"
+	},
+	{
 		"origin": "GTV",
 		"channel_name": "GTV",
 		"channel_id": "GTV.id"
@@ -255,11 +270,6 @@
 		"channel_id": "IDX.id"
 	},
 	{
-		"origin": "IndiKids",
-		"channel_name": "Fun Planet",
-		"channel_id": "FunPlanet.id"
-	},
-	{
 		"origin": "Indonesiana TV.id",
 		"channel_name": "Indonesiana TV",
 		"channel_id": "IndonesianaTV.id"
@@ -280,77 +290,98 @@
 		"channel_id": "JakTV.id"
 	},
 	{
+		"origin": "Jawa Pos TV.id",
+		"channel_name": "Jawa Pos TV",
+		"channel_id": "JawaPosTV.id"
+	},
+	{
 		"origin": "JTV.id",
 		"channel_name": "JTV",
 		"channel_id": "JTV.id"
 	},
 	{
-		"origin": "KBS World",
+		"origin": "KBS World.id",
 		"channel_name": "KBS World",
 		"channel_id": "KBSWorld.id"
 	},
 	{
-		"origin": "Kompas TV",
+		"origin": "Kix.id",
+		"channel_name": "KIX",
+		"channel_id": "KIX.id"
+	},
+	{
+		"origin": "Kompas TV.id",
 		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
 	},
 	{
-		"origin": "Kplus",
+		"origin": "Kplus.id",
 		"channel_name": "Kplus",
 		"channel_id": "KPlus.sg"
 	},
 	{
-		"origin": "Metro TV",
+		"origin": "Lifetime.id",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "Lingua.id",
+		"channel_name": "Lingua",
+		"channel_id": "Lingua.id"
+	},
+	{
+		"origin": "Love Nature.id",
+		"channel_name": "Love Nature",
+		"channel_id": "LoveNature.id"
+	},
+	{
+		"origin": "Metro TV.id",
 		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
 	{
-		"origin": "MNC",
-		"channel_name": "MNCTV",
-		"channel_id": "MNCTV.id"
+		"origin": "Maxstream.id",
+		"channel_name": "Maxstream",
+		"channel_id": "Maxstream.id"
 	},
+	
 	{
-		"origin": "MNC News",
-		"channel_name": "SindoNews TV",
-		"channel_id": "SindoNews.id"
-	},
-	{
-		"origin": "MQTV",
+		"origin": "MQTV.id",
 		"channel_name": "MQTV",
 		"channel_id": "MQTV.id"
 	},
 	{
-		"origin": "MTATV",
+		"origin": "MTATV.id",
 		"channel_name": "MTATV",
 		"channel_id": "MTATV.id"
 	},
 	{
-		"origin": "Muhammadiyah TV",
+		"origin": "Muhammadiyah TV.id",
 		"channel_name": "tvMu",
 		"channel_id": "tvMu.id"
 	},
 	{
-		"origin": "MUI TV",
+		"origin": "MUI TV.id",
 		"channel_name": "MUI TV",
 		"channel_id": "TVMUI.id"
 	},
 	{
-		"origin": "My Family",
-		"channel_name": "My Family",
-		"channel_id": "MyFamily.id"
+		"origin": "Musik Indonesia.id",
+		"channel_name": "Musik Indonesia",
+		"channel_id": "MusikIndonesia.id"
 	},
 	{
-		"origin": "MyKidz",
+		"origin": "MyKidz.id",
 		"channel_name": "My Kidz",
 		"channel_id": "MyKids.id"
 	},
 	{
-		"origin": "NBA",
+		"origin": "NBA.id",
 		"channel_name": "NBA TV",
 		"channel_id": "NBATV.id"
 	},
 	{
-		"origin": "Net.",
+		"origin": "Net..id",
 		"channel_name": "NET.",
 		"channel_id": "NET.id"
 	},
@@ -390,37 +421,42 @@
 		"channel_id": "RRINet.id"
 	},
 	{
-		"origin": "SCTV",
+		"origin": "SINDO News TV.id",
+		"channel_name": "SindoNews TV",
+		"channel_id": "SindoNews.id"
+	},
+	{
+		"origin": "SCTV.id",
 		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
 	{
-		"origin": "SEA Today",
+		"origin": "SEA Today.id",
 		"channel_name": "SEA Today",
 		"channel_id": "SEAToday.id"
 	},
 	{
-		"origin": "Tawaf TV",
+		"origin": "Tawaf TV.id",
 		"channel_name": "Tawaf TV",
 		"channel_id": "TawafTV.id"
 	},
 	{
-		"origin": "Thrill",
+		"origin": "Thrill.id",
 		"channel_name": "Thrill",
 		"channel_id": "Thrill.id"
 	},
 	{
-		"origin": "TLC",
+		"origin": "TLC.id",
 		"channel_name": "TLC (id)",
 		"channel_id": "TLC.id"
 	},
 	{
-		"origin": "Trans7",
+		"origin": "Trans7.id",
 		"channel_name": "Trans 7",
 		"channel_id": "Trans7.id"
 	},
 	{
-		"origin": "TransTV",
+		"origin": "TransTV.id",
 		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
@@ -430,37 +466,32 @@
 		"channel_id": "TRTWorld.tr.id"
 	},
 	{
-		"origin": "TV One",
+		"origin": "TV One.id",
 		"channel_name": "tvOne",
 		"channel_id": "tvOne.id"
 	},
 	{
-		"origin": "TV9 NU",
+		"origin": "TV9 NU.id",
 		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
 	},
 	{
-		"origin": "TVRI",
+		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional",
 		"channel_id": "TVRINasional.id"
 	},
 	{
-		"origin": "UChannel",
+		"origin": "UChannel.id",
 		"channel_name": "U-Channel",
 		"channel_id": "UChannel.id"
 	},
 	{
-		"origin": "UseePrime",
-		"channel_name": "AllPlay Entertainment",
-		"channel_id": "AllPlayEnt.id"
-	},
-	{
-		"origin": "Warner",
+		"origin": "Warner.id",
 		"channel_name": "Warner TV",
-		"channel_id": "warnertv.id"
+		"channel_id": "Warner.id"
 	},
 	{
-		"origin": "ZBioskop",
+		"origin": "ZBioskop.id",
 		"channel_name": "Zee Bioskop",
 		"channel_id": "ZeeBioskop.in.id"
 	}
