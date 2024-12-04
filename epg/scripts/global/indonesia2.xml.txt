@@ -10,6 +10,11 @@ Bali TV.id;Bali TV.id
 Bandung TV.id;Bandung TV.id
 BBC Earth.id;BBC Earth.id
 BBC World news.id;BBC World news.id
+beIN SPORTS 2.id;beIN SPORTS 2.id
+beIN SPORTS 3.id;beIN SPORTS 3.id
+beIN SPORTS 4.id;beIN SPORTS 4.id
+beIN SPORTS 5.id;beIN SPORTS 5.id
+beIN SPORTS.id;beIN SPORTS.id
 Bloomberg.id;Bloomberg.id
 BTV.id;BTV.id
 Cbeebies.id;Cbeebies.id
@@ -19,7 +24,6 @@ Celestial Movies.id;Celestial Movies.id
 CGTN Documentary.id;CGTN Documentary.id
 CGTN.id;CGTN.id
 Channel News Asia.id;Channel News Asia.id
-CINEMA WORLD.id;CINEMA WORLD.id
 Cinemachi Action.id;Cinemachi Action.id
 Cinemachi Kids.id;Cinemachi Kids.id
 Cinemachi Max.id;Cinemachi Max.id
@@ -31,7 +35,6 @@ DAAI TV.id;DAAI TV.id
 DENS Food Channel.id;DENS Food Channel.id
 DENS Showbizz Channel.id;DENS Showbizz Channel.id
 DENSPLAY Channel.id;DENSPLAY Channel.id
-Drama.id;Drama.id
 Dream Works.id;Dream Works.id
 DW.id;DW.id
 Entertainment.id;Entertainment.id
@@ -39,13 +42,14 @@ EURONEWS.id;EURONEWS.id
 EWTN.id;EWTN.id
 Fight Sports.id;Fight Sports.id
 FMN.id;FMN.id
+Food Travel.id;Food Travel.id
 FOX News.id;FOX News.id
 France 24.id;France 24.id
 GALAXY PREMIUM.id;GALAXY PREMIUM.id
 GALAXY.id;GALAXY.id
 Global Trekker.id;Global Trekker.id
-GTV Malaysia.id;GTV Malaysia.id
 GTV.id;GTV.id
+Hanacaraka TV.id;Hanacaraka TV.id
 History.id;History.id
 Hits Movies.id;Hits Movies.id
 Hits.id;Hits.id
@@ -63,8 +67,8 @@ LIFE.id;LIFE.id
 Lifetime.id;Lifetime.id
 Love Nature.id;Love Nature.id
 Metro TV.id;Metro TV.id
-MNCTV Malaysia.id;MNCTV Malaysia.id
 MNCTV.id;MNCTV.id
+Moonbug.id;Moonbug.id
 MTV 90s.id;MTV 90s.id
 MTV Live.id;MTV Live.id
 Music TV.id;Music TV.id
@@ -78,11 +82,9 @@ NHK World Premium.id;NHK World Premium.id
 NHK.id;NHK.id
 Nick Jr.id;Nick Jr.id
 Nick.id;Nick.id
-OK TV.id;OK TV.id
-Okezone TV.id;Okezone TV.id
 One.id;One.id
 Outdoor Channel.id;Outdoor Channel.id
-RCTI Malaysia.id;RCTI Malaysia.id
+R+ LIVE.id;R+ LIVE.id
 RCTI.id;RCTI.id
 Reformed 21.id;Reformed 21.id
 Rock Action.id;Rock Action.id
@@ -94,8 +96,6 @@ Shanghai Dragon.id;Shanghai Dragon.id
 SindoNews.id;SindoNews.id
 Soccer Channel.id;Soccer Channel.id
 Sportstars 2.id;Sportstars 2.id
-Sportstars 3.id;Sportstars 3.id
-Sportstars 4.id;Sportstars 4.id
 Sportstars.id;Sportstars.id
 SpoTV 1.id;SpoTV 1.id
 SpoTV 2.id;SpoTV 2.id
@@ -114,6 +114,8 @@ TVRI.id;TVRI.id
 V+ LIVE 2.id;V+ LIVE 2.id
 V+ LIVE 3.id;V+ LIVE 3.id
 V+ LIVE 4.id;V+ LIVE 4.id
+V+ LIVE 5.id;V+ LIVE 5.id
+V+ LIVE.id;V+ LIVE.id
 V+ Sports.id;V+ Sports.id
 Vision Prime.id;Vision Prime.id
 Xing kong TV.id;Xing kong TV.id
