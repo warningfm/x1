@@ -190,6 +190,11 @@
 		"channel_id": "FashionTV.id"
 	},
 	{
+		"origin": "Fight Sport.id",
+		"channel_name": "Fight Sports",
+		"channel_id": "FightSports.id"
+	},
+	{
 		"origin": "Flik.id",
 		"channel_name": "Flik",
 		"channel_id": "Flik.id"
@@ -205,42 +210,47 @@
 		"channel_id": "GTV.id"
 	},
 	{
-		"origin": "HGTV",
+		"origin": "HGTV.id",
 		"channel_name": "HGTV",
 		"channel_id": "HGTV.id"
 	},
 	{
-		"origin": "History",
+		"origin": "History.id",
 		"channel_name": "History",
 		"channel_id": "History.id"
 	},
 	{
-		"origin": "Hits",
+		"origin": "Hits.id",
 		"channel_name": "HITS",
 		"channel_id": "HITS.id"
 	},
 	{
-		"origin": "HIts Movie",
+		"origin": "HIts Movie.id",
 		"channel_name": "Hits Movies",
 		"channel_id": "HITSMovies.id"
 	},
 	{
-		"origin": "HITS Now",
+		"origin": "HITS Now.id",
 		"channel_name": "HITS Now",
 		"channel_id": "HITSNow.id"
 	},
 	{
-		"origin": "Horee",
+		"origin": "Horee.id",
 		"channel_name": "Horee",
 		"channel_id": "Horee.id"
 	},
 	{
-		"origin": "Horizon Sports",
+		"origin": "Horizon Sports.id",
 		"channel_name": "Horizon Sports",
 		"channel_id": "HorizonSports.us.id"
 	},
 	{
-		"origin": "IDX",
+		"origin": "IDTV.id",
+		"channel_name": "IDTV",
+		"channel_id": "IDTV.id"
+	},
+	{
+		"origin": "IDX.id",
 		"channel_name": "IDX",
 		"channel_id": "IDX.id"
 	},
@@ -250,27 +260,27 @@
 		"channel_id": "FunPlanet.id"
 	},
 	{
-		"origin": "Indonesiana TV",
+		"origin": "Indonesiana TV.id",
 		"channel_name": "Indonesiana TV",
 		"channel_id": "IndonesianaTV.id"
 	},
 	{
-		"origin": "Indosiar",
+		"origin": "Indosiar.id",
 		"channel_name": "Indosiar",
 		"channel_id": "Indosiar.id"
 	},
 	{
-		"origin": "iNews",
+		"origin": "iNews.id",
 		"channel_name": "iNews",
 		"channel_id": "iNews.id"
 	},
 	{
-		"origin": "JakTV",
+		"origin": "JakTV.id",
 		"channel_name": "Jak TV",
 		"channel_id": "JakTV.id"
 	},
 	{
-		"origin": "JTV",
+		"origin": "JTV.id",
 		"channel_name": "JTV",
 		"channel_id": "JTV.id"
 	},
