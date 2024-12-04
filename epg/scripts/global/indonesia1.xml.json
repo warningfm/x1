@@ -26,6 +26,11 @@
 	},
 	{
 		"origin": "Bein 2.id",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beinSports2.id"
+	},
+	{
+		"origin": "Bein 3.id",
 		"channel_name": "beIN Sports 3",
 		"channel_id": "beinSports3.id"
 	},
