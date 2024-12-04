@@ -55,6 +55,7 @@ Global Trekker - [Channel 201].id;Global Trekker - [Channel 201].id
 Global Trekker HD - [Channel 462].id;Global Trekker HD - [Channel 462].id
 GTV - [Channel 81].id;GTV - [Channel 81].id
 GTV HD - [Channel 431].id;GTV HD - [Channel 431].id
+Hanacaraka TV - [Channel 90].id;Hanacaraka TV - [Channel 90].id
 History - [Channel 206].id;History - [Channel 206].id
 HITS - [Channel 160].id;HITS - [Channel 160].id
 HITS MOVIES - [Channel 11].id;HITS MOVIES - [Channel 11].id
@@ -94,7 +95,6 @@ NHK World Premium - [Channel 354].id;NHK World Premium - [Channel 354].id
 Nick Jr. HD - [Channel 472].id;Nick Jr. HD - [Channel 472].id
 Nickelodeon - [Channel 49].id;Nickelodeon - [Channel 49].id
 Nickelodeon Jr - [Channel 37].id;Nickelodeon Jr - [Channel 37].id
-Okezone TV - [Channel 90].id;Okezone TV - [Channel 90].id
 ONE - [Channel 164].id;ONE - [Channel 164].id
 ONE HD - [Channel 445].id;ONE HD - [Channel 445].id
 Outdoor Channel - [Channel 202].id;Outdoor Channel - [Channel 202].id
