@@ -95,6 +95,11 @@
 		"channel_id": "Bloomberg.id"
 	},
 	{
+		"origin": "Cbeebies.id",
+		"channel_name": "CBeebies HD",
+		"channel_id": "Cbeebies.id"
+	},
+	{
 		"origin": "Celestial Movies.id",
 		"channel_name": "Celestial Movies",
 		"channel_id": "CelestialMovies.id"
@@ -108,11 +113,6 @@
 		"origin": "CGTN.id",
 		"channel_name": "CGTN",
 		"channel_id": "CGTN.id"
-	},
-	{
-		"origin": "Cbeebies.id",
-		"channel_name": "CBeebies HD",
-		"channel_id": "Cbeebies.id"
 	},
 	{
 		"origin": "Celebrities TV.id",
