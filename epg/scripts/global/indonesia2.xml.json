@@ -145,9 +145,9 @@
 		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "CINEMA WORLD.id",
-		"channel_name": "Cinema World",
-		"channel_id": "Cinemaworld.id"
+		"origin": "Cinemachi Max.id",
+		"channel_name": "Cinemachi Max",
+		"channel_id": "CinemachiMax.id"
 	},
 	{
 		"origin": "Cinemachi Action.id",
@@ -240,14 +240,14 @@
 		"channel_id": "GTV.id"
 	},
 	{
-		"origin": "GTV Malaysia.id",
-		"channel_name": "GTVᴴᴰ",
-		"channel_id": "GTV.my.id"
-	},
-	{
 		"origin": "Global Trekker.id",
 		"channel_name": "Global Trekker",
 		"channel_id": "GlobalTrekker.id"
+	},
+	{
+		"origin": "Hanacaraka TV.id",
+		"channel_name": "Hanacaraka TV",
+		"channel_id": "HanacarakaTV.id"
 	},
 	{
 		"origin": "History.id",
