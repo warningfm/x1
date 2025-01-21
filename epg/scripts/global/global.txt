@@ -73,8 +73,11 @@ https://www.open-epg.com/files/uaepremium2.xml
 uaepremium3.xml
 https://www.open-epg.com/files/uaepremium3.xml
 
-unitedkingdom.xml
-https://www.open-epg.com/files/unitedkingdom.xml
+unitedkingdom1.xml
+https://www.open-epg.com/files/unitedkingdom1.xml
+
+unitedkingdom2.xml
+https://www.open-epg.com/files/unitedkingdom2.xml
 
 unitedstates1.xml
 https://www.open-epg.com/files/unitedstates1.xml
