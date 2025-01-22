@@ -76,8 +76,8 @@
 	},
 	{
 		"origin": "CCTV4 HD.my",
-		"channel_name": "MY: CCTV-4",
-		"channel_id": "CCTV4Asia.cn.my"
+		"channel_name": "CCTV-4",
+		"channel_id": "CCTV4.id"
 	},
 	{
 		"origin": "Celestial Movies",
@@ -120,9 +120,9 @@
 		"channel_id": "NTV7.my"
 	},
 	{
-		"origin": "Dreamworks HD",
-		"channel_name": "MY: DreamWorks Channel",
-		"channel_id": "DreamWorksChannelAsia.us.my"
+		"origin": "Dreamworks.my",
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "Dunia Sinema HD",
@@ -135,9 +135,9 @@
 		"channel_id": "DWEnglish.de.my"
 	},
 	{
-		"origin": "Euronews",
-		"channel_name": "MY: EuroNews English",
-		"channel_id": "EuroNewsEnglish.fr.my"
+		"origin": "EUROSPORT.my",
+		"channel_name": "Eurosport",
+		"channel_id": "Eurosport.id"
 	},
 	{
 		"origin": "France 24",
@@ -170,9 +170,9 @@
 		"channel_id": "KPlus.sg"
 	},
 	{
-		"origin": "Love Nature HD",
-		"channel_name": "MY: Love Nature",
-		"channel_id": "LoveNature.ca.my"
+		"origin": "Love Nature HD.my",
+		"channel_name": "Love Nature",
+		"channel_id": "LoveNature.id"
 	},
 	{
 		"origin": "Luxe.TV HD",
@@ -181,8 +181,8 @@
 	},
 	{
 		"origin": "Moonbug.my",
-		"channel_name": "Moonbug Kids",
-		"channel_id": "MoonbugKids.us"
+		"channel_name": "Moonbug",
+		"channel_id": "Moonbug.us"
 	},
 	{
 		"origin": "MTV Live",
@@ -260,14 +260,14 @@
 		"channel_id": "SonyYAY.in.my"
 	},
 	{
-		"origin": "SPOTV",
-		"channel_name": "MY: SPOTV",
-		"channel_id": "SPOTV.kr.my"
+		"origin": "SPOTV.my",
+		"channel_name": SPOTV",
+		"channel_id": "SPOTV.id"
 	},
 	{
-		"origin": "SPOTV2",
-		"channel_name": "MY: SPOTV 2",
-		"channel_id": "SPOTV2.kr.my"
+		"origin": "SPOTV2.my",
+		"channel_name": "SPOTV 2",
+		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "Travel Channel HD",
@@ -280,13 +280,13 @@
 		"channel_id": "TVAlHijrah.my"
 	},
 	{
-		"origin": "TV1",
-		"channel_name": "MY: TV1",
+		"origin": "TV 1.my",
+		"channel_name": "TV1",
 		"channel_id": "TV1.my"
 	},
 	{
-		"origin": "TV2",
-		"channel_name": "MY: TV2",
+		"origin": "TV 2.my",
+		"channel_name": "TV2",
 		"channel_id": "TV2.my"
 	},
 	{
@@ -300,14 +300,14 @@
 		"channel_id": "TV9.my"
 	},
 	{
-		"origin": "tvN HD",
-		"channel_name": "MY: tvN",
-		"channel_id": "tvNAsia.hk.my"
+		"origin": "tvN.my",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
 	},
 	{
-		"origin": "tvN Movies HD",
-		"channel_name": "MY: tvN Movies",
-		"channel_id": "tvNMoviesAsia.hk.my"
+		"origin": "tvN Movies.my",
+		"channel_name": "TVN Movies",
+		"channel_id": "tvNMovies.id"
 	},
 	{
 		"origin": "unifi Sports 1",
