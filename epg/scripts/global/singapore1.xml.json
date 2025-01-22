@@ -571,7 +571,7 @@
 	{
 		"origin": "Lifetime (HD).sg",
 		"channel_name": "Lifetime",
-		"channel_id": "LifetimeAsia.us.sg"
+		"channel_id": "Lifetime.id"
 	},
 	{
 		"origin": "maa movies.sg",
@@ -746,12 +746,12 @@
 	{
 		"origin": "SPOTV (HD).sg",
 		"channel_name": "SPOTV",
-		"channel_id": "SPOTV.krg.sg"
+		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "SPOTV 2 (HD).sg",
 		"channel_name": "SPOTV 2",
-		"channel_id": "SPOTV2.kr.sg"
+		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "Star Chinese Channel HD",
@@ -845,8 +845,8 @@
 	},
 	{
 		"origin": "TLC (HD).sg",
-		"channel_name": "TLC",
-		"channel_id": "TLCSoutheastAsia.sg"
+		"channel_name": "TLC (id)",
+		"channel_id": "TLC.id"
 	},
 	{
 		"origin": "TRACE Sports Stars HD.sg",
@@ -886,12 +886,12 @@
 	{
 		"origin": "tvN HD (Malay).sg",
 		"channel_name": "tvN Malaysia",
-		"channel_id": "tvNAsia.my.sg"
+		"channel_id": "tvNAsia.hk"
 	},
 	{
 		"origin": "tvN HD (Mandarin).sg",
 		"channel_name": "tvN",
-		"channel_id": "tvNAsia.hk.sg"
+		"channel_id": "tvNAsia.hk"
 	},
 	{
 		"origin": "Vannathirai (HD).sg",
