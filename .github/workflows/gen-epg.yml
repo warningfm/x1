@@ -29,7 +29,7 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="khano.nng.cloudns.us" --gen-url="khano.nng.cloudns.us"
           mv -v guide.xml.gz ..
           cd ../..
       - name: commit
