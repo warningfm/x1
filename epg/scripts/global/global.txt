@@ -135,3 +135,9 @@ https://xmltv.tvkaista.net/guides/firstmedia.com.xml
 
 cubmu.xml
 https://s7.mbahnunungonline.net/cubmu.xml
+
+cubmu.com.xml
+https://xmltv.tvkaista.net/guides/cubmu.com.xml
+
+dens.tv.xml
+https://xmltv.tvkaista.net/guides/dens.tv.xml
