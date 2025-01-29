@@ -130,5 +130,8 @@ https://raw.githubusercontent.com/warningfm/v2/refs/heads/cloud/visionplus.id.xm
 firstmedia.xml
 https://s7.mbahnunungonline.net/firstmedia.xml
 
+firstmedia.com.xml
+https://xmltv.tvkaista.net/guides/firstmedia.com.xml
+
 cubmu.xml
 https://s7.mbahnunungonline.net/cubmu.xml
