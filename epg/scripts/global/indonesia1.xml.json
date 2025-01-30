@@ -151,12 +151,12 @@
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTV",
+		"channel_name": "RTV (dn)",
 		"channel_id": "RTV.id"
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV HD",
+		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
 	{
