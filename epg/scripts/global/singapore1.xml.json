@@ -279,11 +279,6 @@
 		"channel_id": "CTIAsia.tw.sg"
 	},
 	{
-		"origin": "CuriosityStream HD",
-		"channel_name": "Curiosity",
-		"channel_id": "CuriosityStreamHD.us.sg"
-	},
-	{
 		"origin": "Discovery Asia (HD).sg",
 		"channel_name": "Discovery Asia",
 		"channel_id": "DiscoveryAsia.sg"
@@ -830,7 +825,7 @@
 	},
 	{
 		"origin": "TLC (HD).sg",
-		"channel_name": "TLC (id)",
+		"channel_name": "TLC Asia",
 		"channel_id": "TLC.id"
 	},
 	{
