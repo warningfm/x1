@@ -130,7 +130,7 @@
 		"channel_id": "NBATV.id"
 	},
 	{
-		"origin": "NET TV",
+		"origin": "NET.id",
 		"channel_name": "NET.",
 		"channel_id": "NET.id"
 	},
@@ -141,8 +141,13 @@
 	},
 	{
 		"origin": "NusantaraTV.id",
-		"channel_name": "Nusantara TVᴴᴰ",
+		"channel_name": "NusantaraTV",
 		"channel_id": "NTV.id"
+	},
+        {
+		"origin": "Rajawali TV.id",
+		"channel_name": "RTVᴴᴰ",
+		"channel_id": "RTV.id"
 	},
 	{
 		"origin": "Premier League TV.id",
@@ -163,11 +168,6 @@
 		"origin": "ROCKEntertainment.sg",
 		"channel_name": "Rock Entertainment",
 		"channel_id": "RockEntertainment.id"
-	},
-	{
-		"origin": "RTV.id",
-		"channel_name": "RTVᴴᴰ",
-		"channel_id": "RTV.id"
 	},
 	{
 		"origin": "SCTV.id",
