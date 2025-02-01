@@ -201,8 +201,8 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne",
-		"channel_id": "tvOne.id"
+		"channel_name": "tvOne HD",
+		"channel_id": "tvOne.ind"
 	},
 	{
 		"origin": "TVRINasional.id",

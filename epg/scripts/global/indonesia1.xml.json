@@ -186,17 +186,12 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne",
-		"channel_id": "tvOne.id"
+		"channel_name": "tvOne HD",
+		"channel_id": "tvOne.ind"
 	},
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
 		"channel_id": "TVRI.id"
-	},
-	{
-		"origin": "Zee Bioskop",
-		"channel_name": "Zee Bioskop",
-		"channel_id": "ZeeBioskop.id"
 	}
 ]
