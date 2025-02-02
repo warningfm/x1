@@ -16,8 +16,8 @@
 	},
 	{
 		"origin": "ANTV.id",
-		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_name": "ANTV ᴴᴰ",
+		"channel_id": "ANTV.ind"
 	},
 	{
 		"origin": "Bein 1.id",
@@ -176,7 +176,7 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7 HD",
+		"channel_name": "Trans 7 ᴴᴰ",
 		"channel_id": "Trans7.ind"
 	},
 	{
@@ -192,6 +192,6 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.id"
+		"channel_id": "TVRI.ind"
 	}
 ]
