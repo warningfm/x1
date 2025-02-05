@@ -28,23 +28,17 @@ https://www.open-epg.com/files/singapore3.xml
 malaysia2.xml
 https://www.open-epg.com/files/malaysia2.xml
 
-aqfindonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+astro_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
+
+unifi_epg.xml
+https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 starhubtvplus.com.xml
 https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
-
-rtmklik.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-
-astro_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
-
-unifi_epg.xml
-https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
 australiaepg.xml
 https://i.mjh.nz/au/all/epg.xml
@@ -72,9 +66,6 @@ https://i.mjh.nz/Singtel/epg.xml
 
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
-
-hgtv_goepg.xml
-https://i.mjh.nz/hgtv_go/epg.xml
 
 france1.xml
 https://www.open-epg.com/files/france1.xml
@@ -132,6 +123,7 @@ https://xmltv.tvkaista.net/guides/vidio.com.xml
 
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/ndihometv.com.xml
 
 visionplus.id.xml
 https://xmltv.tvkaista.net/guides/visionplus.id.xml
@@ -144,7 +136,6 @@ https://xmltv.tvkaista.net/guides/cubmu.com.xml
 
 dens.tv.xml
 https://xmltv.tvkaista.net/guides/dens.tv.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/dens.tv.xml
 
 mncvision.id.xml
 https://xmltv.tvkaista.net/guides/mncvision.id.xml
