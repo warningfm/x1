@@ -126,7 +126,9 @@ https://xmltv.tvkaista.net/guides/vidio.com.xml
 
 indihometv.com.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/ndihometv.com.xml
+
+indihometv.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 
 visionplus.id.xml
 https://xmltv.tvkaista.net/guides/visionplus.id.xml
