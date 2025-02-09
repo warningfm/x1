@@ -222,7 +222,7 @@
 	{
 		"origin": "Indosiar.id",
 		"channel_name": "Indosiarᴴᴰ",
-		"channel_id": "Indosiar.my.id"
+		"channel_id": "Indosiar.idn"
 	},
 	{
 		"origin": "iNews.id",
@@ -256,8 +256,8 @@
 	},
         {
 		"origin": "Moji.id",
-		"channel_name": "MOJI",
-		"channel_id": "Moji.my.id"
+		"channel_name": "MOJIᴴᴰ",
+		"channel_id": "Moji.idn"
 	},
 	{
 		"origin": "NBA.id",
@@ -292,7 +292,7 @@
 	{
 		"origin": "SCTV.id",
 		"channel_name": "SCTVᴴᴰ",
-		"channel_id": "SCTV.my.id"
+		"channel_id": "SCTV.idn"
 	},
 	{
 		"origin": "Shenzen.id",
@@ -301,28 +301,18 @@
 	},
 	{
 		"origin": "SPOTV 2.id",
-		"channel_name": "SPOTV 2 HG",
+		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV.id",
-		"channel_name": "SPOTV HG",
+		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "StarGold.in",
 		"channel_name": "Star Gold",
 		"channel_id": "StarGold.in"
-	},
-	{
-		"origin": "",
-		"channel_name": "",
-		"channel_id": "TawafTV.id"
-	},
-	{
-		"origin": "",
-		"channel_name": "",
-		"channel_id": ""
 	},
 	{
 		"origin": "TLCSoutheastAsia.sg",

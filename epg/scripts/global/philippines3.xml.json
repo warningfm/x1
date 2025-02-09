@@ -51,13 +51,13 @@
 	},
 	{
 		"origin": "CARTOONITO.ph",
-		"channel_name": "Cartoonito (HD)",
+		"channel_name": "Cartoonito ᴴᴰ",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
 		"origin": "CELESTIAL CLASSIC MOVIES.ph",
-		"channel_name": "Celestial Movies",
-		"channel_id": "CelestialMovies.id"
+		"channel_name": "Celestial Classic Movies",
+		"channel_id": "CCM.id"
 	},
 	{
 		"origin": "CGTN Documentary.id",
@@ -96,7 +96,7 @@
 	},
 	{
 		"origin": "DISCOVERY ASIA.ph",
-		"channel_name": "Discovery Asia",
+		"channel_name": "Discovery Asia HD",
 		"channel_id": "DiscoveryAsia.id"
 	},
 	{
