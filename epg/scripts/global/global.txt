@@ -122,7 +122,7 @@ starhubtvplus.com.xml
 https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
 cubmu.com.xml
-https://xmltv.tvkaista.net/guides/cubmu.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/cubmu.com.xml
 
 vidio.com.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
