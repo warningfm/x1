@@ -97,6 +97,9 @@ https://www.open-epg.com/files/unitedkingdom1.xml
 unitedkingdom2.xml
 https://www.open-epg.com/files/unitedkingdom2.xml
 
+unitedkingdom5.xml
+https://www.open-epg.com/files/unitedkingdom5.xml
+
 unitedstates1.xml
 https://www.open-epg.com/files/unitedstates1.xml
 
