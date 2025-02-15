@@ -11,8 +11,8 @@
 	},
 	{
 		"origin": "ANTV.id",
-		"channel_name": "ANTV ᴴᴰ",
-		"channel_id": "ANTV.my.id"
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
 	},
 	{
 		"origin": "beINSports1.id",
@@ -31,7 +31,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV ᴴᴰ",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -111,7 +111,7 @@
 	},
 	{
 		"origin": "MetroTV.id",
-		"channel_name": "Metro TV ᴴᴰ",
+		"channel_name": "MetroTV",
 		"channel_id": "MetroTV.my.id"
 	},
 	{
@@ -186,8 +186,8 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans7 ᴴᴰ",
-		"channel_id": "Trans7.ind"
+		"channel_name": "Trans7",
+		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "tvNAsia.hk",
