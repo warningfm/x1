@@ -411,18 +411,18 @@
 	},
 	{
 		"origin": "My Cinema - [Channel 16].id",
-		"channel_name": "My Cinema (v+)",
-		"channel_id": "MyCinema.idn"
+		"channel_name": "My Cinema",
+		"channel_id": "MyCinema.id"
 	},
 	{
 		"origin": "My Cinema Asia - [Channel 17].id",
-		"channel_name": "My Cinema Asia (v+)",
-		"channel_id": "MyCinemaAsia.idn"
+		"channel_name": "My Cinema Asia",
+		"channel_id": "MyCinemaAsia.id"
 	},
 	{
 		"origin": "My Family - [Channel 15].id",
-		"channel_name": "My Family Channel (v+)",
-		"channel_id": "MyFamilyChannel.idn"
+		"channel_name": "My Family Channel",
+		"channel_id": "MyFamilyChannel.id"
 	},
 	{
 		"origin": "My Kidz - [Channel 50].id",
@@ -437,12 +437,12 @@
 	{
 		"origin": "NHK World - [Channel 355].id",
 		"channel_name": "NHK World Japan",
-		"channel_id": "NHKWorldJapan.jp.id"
+		"channel_id": "NHKWorldJapan.jp"
 	},
 	{
 		"origin": "NHK World Premium - [Channel 354].id",
 		"channel_name": "NHK World Premium",
-		"channel_id": "NHKWorldPremium.jp.id"
+		"channel_id": "NHKWorldPremium.jp"
 	},
 	{
 		"origin": "Nick Jr. HD - [Channel 472].id",
@@ -466,12 +466,12 @@
 	},
         {
 		"origin": "Outdoor Channel - [Channel 202].id",
-		"channel_name": "Outdoor Channel HD",
+		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
 		"origin": "Outdoor channel HD - [Channel 460].id",
-		"channel_name": "Outdoor Channel HD",
+		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.id"
 	},
         {

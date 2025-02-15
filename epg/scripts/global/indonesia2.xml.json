@@ -411,7 +411,7 @@
 	},
 	{
 		"origin": "Outdoor Channel.id",
-		"channel_name": "Outdoor Channel HD",
+		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
@@ -580,5 +580,3 @@
 		"channel_id": "ZooMoo.id"
 	}
 ]
-
-	
