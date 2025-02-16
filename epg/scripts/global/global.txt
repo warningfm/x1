@@ -67,6 +67,9 @@ https://www.open-epg.com/files/india4.xml
 Singtelepg.xml
 https://i.mjh.nz/Singtel/epg.xml
 
+Stirr/all.xml
+https://i.mjh.nz/Stirr/all.xml
+
 SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
