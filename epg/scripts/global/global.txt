@@ -137,4 +137,4 @@ indihometv.com.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 
 firstmedia.com.xml
-https://xmltv.tvkaista.net/guides/firstmedia.com.xml
+https://raw.githubusercontent.com/warningfm/v2/cloud/firstmedia.com.xml
