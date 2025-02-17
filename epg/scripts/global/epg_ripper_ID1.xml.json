@@ -285,7 +285,7 @@
 		"channel_id": "NET.id"
 	},
 	{
-		"origin": "News Asia.id",
+		"origin": "News.Asia.id",
 		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
 	},
@@ -294,15 +294,40 @@
 		"channel_name": "NusantaraTV",
 		"channel_id": "NTV.id"
 	},
-	{
-		"origin": "Premier League TV.id",
-		"channel_name": "Premier League TV",
-		"channel_id": "PremierLeagueTV.id"
+        {
+		"origin": "Outdoor.Channel.id",
+		"channel_name": "Outdoor Channel",
+		"channel_id": "OutdoorChannel.id"
 	},
 	{
-		"origin": "RANS Channel.id",
-		"channel_name": "RANS Channel",
-		"channel_id": "RansChannel.id"
+		"origin": "Outdoor.channel.HD.id",
+		"channel_name": "Outdoor Channel",
+		"channel_id": "OutdoorChannel.id"
+	},
+        {
+		"origin": "ONE.id",
+		"channel_name": "ONE HD",
+		"channel_id": "One.id"
+	},
+	{
+		"origin": "ONE.HD.id",
+		"channel_name": "ONE HD",
+		"channel_id": "One.id"
+	},
+	{
+		"origin": "Rajawali.TV.id",
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
+	},
+        {
+		"origin": "RCTI.id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
+	},
+	{
+		"origin": "RCTI.HD.id",
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
 	},
 	{
 		"origin": "Rock.Action.id",
