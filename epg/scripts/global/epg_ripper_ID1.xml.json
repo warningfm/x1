@@ -9,7 +9,7 @@
 		"channel_name": "Ajwa TV",
 		"channel_id": "AjwaTV.id"
 	},
-  {
+        {
 		"origin": "Al.Jazeera.English.id",
 		"channel_name": "Al Jazeera English",
 		"channel_id": "AlJazeeraEnglish.id"
@@ -24,27 +24,27 @@
 		"channel_name": "AlQuran Kareem",
 		"channel_id": "AlQuranKareem.id"
 	},
-  {
+        {
 		"origin": "Animal.Planet.HD.id",
 		"channel_name": "Animal Planet",
 		"channel_id": "AnimalPlanet.id"
 	},
-  {
+        {
 		"origin": "Animax.id",
 		"channel_name": "Animax HD",
 		"channel_id": "AnimaxAsia.id"
 	},
-  {
+        {
 		"origin": "Aniplus.id",
 		"channel_name": "Aniplus",
 		"channel_id": "Aniplus.id"
 	},
-  {
+        {
 		"origin": "Antara.id",
 		"channel_name": "Antara TV",
 		"channel_id": "AntaraTV.id"
 	},
-  {
+        {
 		"origin": "ANTV.id",
 		"channel_name": "ANTV",
 		"channel_id": "ANTV.id"
@@ -55,54 +55,149 @@
 		"channel_id": "ArirangTV.id"
 	},
 	{
-		"origin": "Bein 1.id",
+		"origin": "Asian.Food.Network.HD.id",
+		"channel_name": "Asian Food Network",
+		"channel_id": "AsianFoodNetwork.sg"
+	},
+	{
+		"origin": "Asian.Food.Network.id",
+		"channel_name": "Asian Food Network",
+		"channel_id": "AsianFoodNetwork.sg"
+	},
+	{
+		"origin": "Bein.1.id",
 		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beinSports1.id"
 	},
 	{
-		"origin": "Bein 2.id",
+		"origin": "Bein.2.id",
 		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beinSports2.id"
 	},
 	{
-		"origin": "Bein 3.id",
+		"origin": "Bein.3.id",
 		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV ᴴᴰ",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
-		"origin": "Champions TV 1.id",
+		"origin": "Champions.TV.1.id",
 		"channel_name": "Champions TV 1",
 		"channel_id": "ChampionsTV1.id"
 	},
 	{
-		"origin": "Champions TV 2.id",
+		"origin": "Champions.TV.2.id",
 		"channel_name": "Champions TV 2",
 		"channel_id": "ChampionsTV2.id"
 	},
 	{
-		"origin": "Champions TV 3.id",
+		"origin": "Champions.TV.3.id",
 		"channel_name": "Champions TV 3",
 		"channel_id": "ChampionsTV3.id"
 	},
 	{
-		"origin": "Champions TV 5.id",
+		"origin": "Champions.TV.5.id",
 		"channel_name": "Champions TV 5",
 		"channel_id": "ChampionsTV5.id"
 	},
 	{
-		"origin": "Champions TV 6.id",
-		"channel_name": "Champions TV 6",
-		"channel_id": "ChampionsTV6.id"
+		"origin": "Channel.News.Asia.id",
+		"channel_name": "CNA HD",
+		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "DW English.id",
+		"origin": "Chinese.Drama.id",
+		"channel_name": "Chinese Drama",
+		"channel_id": "ChineseDrama.id"
+	},
+	{
+		"origin": "Cinema.World.id",
+		"channel_name": "CinemaWorld",
+		"channel_id": "Cinemaworld.id"
+	},
+	{
+		"origin": "Citra.Dangdut.id",
+		"channel_name": "Citra Dangdut",
+		"channel_id": "CitraDangdut.id"
+	},
+	{
+		"origin": "Citra.Drama.id",
+		"channel_name": "Citra Drama",
+		"channel_id": "CitraDrama.id"
+	},
+	{
+		"origin": "CNBC.Asia.id",
+		"channel_name": "CNBC Asia HD",
+		"channel_id": "CNBCAsia.id"
+	},
+	{
+		"origin": "CNBC.Indonesia.id",
+		"channel_name": "CNBC Indonesia",
+		"channel_id": "CNBCIndonesia.id"
+	},
+	{
+		"origin": "CNN.Indonesia.id",
+		"channel_name": "CNN Indonesia",
+		"channel_id": "CNNIndonesia.id"
+	},
+	{
+		"origin": "CNN.International.HD.id",
+		"channel_name": "CNN International",
+		"channel_id": "CNNInternational.id"
+	},
+	{
+		"origin": "Crime.Investigation.id",
+		"channel_name": "Crime Investigation",
+		"channel_id": "CrimePlusInvestigation.id"
+	},
+	{
+		"origin": "Curiosity.id",
+		"channel_name": "Curiosity",
+		"channel_id": "Curiosity.id"
+	},
+	{
+		"origin": "Dreamworks.id",
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
+	},
+	{
+		"origin": "Daai.TV.id",
+		"channel_name": "DAAI TV",
+		"channel_id": "DAAITV.id"
+	},
+	{
+		"origin": "DW.(English).id",
 		"channel_name": "DW (English)",
 		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "Da.Vinci.Learning.id",
+		"channel_name": "Da Vinci Learning",
+		"channel_id": "DaVinciLearning.sg"
+	},
+	{
+		"origin": "Discovery.Asia.id",
+		"channel_name": "Discovery Asia HD",
+		"channel_id": "DiscoveryAsia.id"
+	},
+	{
+		"origin": "Discovery.Channel.HD.id",
+		"channel_name": "Discovery Channel",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "Dunia.anak.id",
+		"channel_name": "Dunia anak",
+		"channel_id": "DuniaAnak.id"
+	},
+	{
+		"origin": "Dunia.Lain.id",
+		"channel_name": "Dunia Lain",
+		"channel_id": "DuniaLain.id"
 	},
 	{
 		"origin": "Horee.id",
@@ -110,9 +205,9 @@
 		"channel_id": "Horee.id"
 	},
 	{
-		"origin": "Indosiar.id",
+		"origin": "Indosiar.HD.id",
 		"channel_name": "Indosiar HD",
-		"channel_id": "Indosiar.my.id"
+		"channel_id": "Indosiar.id"
 	},
 	{
 		"origin": "Jaktv.id",
@@ -125,22 +220,27 @@
 		"channel_id": "JTV.id"
 	},
 	{
-		"origin": "Kompas TV.id",
+		"origin": "Jawa.Pos.TV.id",
+		"channel_name": "Jawa Pos TV",
+		"channel_id": "JawaPosTV.id"
+	},
+	{
+		"origin": "Kompas.TV.id",
 		"channel_name": "Kompas TV",
 		"channel_id": "KompasTV.id"
 	},
 	{
-		"origin": "Makkah TV.id",
+		"origin": "Makkah.TV.id",
 		"channel_name": "Makkah TV",
 		"channel_id": "MakkahTV.id"
 	},
 	{
-		"origin": "Mentari TV.id",
+		"origin": "Mentari.TV.id",
 		"channel_name": "Mentari TV",
 		"channel_id": "MentariTV.id"
 	},
 	{
-		"origin": "Metro TV.id",
+		"origin": "Metro.TV.id",
 		"channel_name": "MetroTV",
 		"channel_id": "MetroTV.my.id"
 	},
@@ -150,12 +250,12 @@
 		"channel_id": "Moji.id"
 	},
         {
-		"origin": "NBATV.us",
+		"origin": "NBA.TV.id",
 		"channel_name": "NBA TV",
 		"channel_id": "NBATV.us"
 	},
 	{
-		"origin": "NET TV.id",
+		"origin": "NET.TV.id",
 		"channel_name": "NET.",
 		"channel_id": "NET.id"
 	},
@@ -165,7 +265,7 @@
 		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "Nusantara TV.id",
+		"origin": "Nusantara.TV.id",
 		"channel_name": "NusantaraTV",
 		"channel_id": "NTV.id"
 	},
@@ -180,12 +280,12 @@
 		"channel_id": "RansChannel.id"
 	},
 	{
-		"origin": "Rock Action.id",
+		"origin": "Rock.Action.id",
 		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
 	},
 	{
-		"origin": "ROCK Entertainment.id",
+		"origin": "Rock.Entertainment.id",
 		"channel_name": "Rock Entertainment",
 		"channel_id": "RockEntertainment.id"
 	},
@@ -195,39 +295,44 @@
 		"channel_id": "RTV.id"
 	},
 	{
-		"origin": "SCTV.id",
+		"origin": "SCTV.HD.id",
 		"channel_name": "SCTV HD",
 		"channel_id": "SCTV.my.id"
 	},
 	{
-		"origin": "SPOTV 2.id",
+		"origin": "SPOTV.2.HD.id",
 		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "SPOTV.id",
+		"origin": "SPOTV.HD.id",
 		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
-		"origin": "TRANS TV.id",
+		"origin": "Trans.TV.id",
 		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
 	{
-		"origin": "Trans7.id",
+		"origin": "Trans.7.id",
 		"channel_name": "Trans7",
 		"channel_id": "Trans7.my.id"
 	},
 	{
-		"origin": "TVN.id",
+		"origin": "tvN.HD.id",
 		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{
-		"origin": "TVOne.id",
+		"origin": "tvOne.id",
 		"channel_name": "tvOne ᴴᴰ",
 		"channel_id": "tvOne.my.id"
+	},
+	{
+		"origin": "TV9.NU.id",
+		"channel_name": "TV9 Nusantara",
+		"channel_id": "TV9Nusantara.id"
 	},
 	{
 		"origin": "TVRI.id",
