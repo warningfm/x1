@@ -64,6 +64,11 @@
 		"channel_name": "Asian Food Network",
 		"channel_id": "AsianFoodNetwork.sg"
 	},
+        {
+		"origin": "AXN.HD.id",
+		"channel_name": "AXN Asia",
+		"channel_id": "AXN.id"
+	},
 	{
 		"origin": "Bein.1.id",
 		"channel_name": "beIN Sports 1 HD",
@@ -78,6 +83,51 @@
 		"origin": "Bein.3.id",
 		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
+	},
+        {
+		"origin": "Bioskop.Indonesia.id",
+		"channel_name": "Bioskop Indonesia",
+		"channel_id": "BioskopIndonesia.id"
+	},
+	{
+		"origin": "Cartoon.Network.id",
+		"channel_name": "Cartoon Network HD",
+		"channel_id": "CartoonNetwork.id"
+	},
+	{
+		"origin": "Cartoonito.id",
+		"channel_name": "Cartoonito ᴴᴰ",
+		"channel_id": "Cartoonito.sg"
+	},
+	{
+		"origin": "CCTV4.id",
+		"channel_name": "CCTV-4",
+		"channel_id": "CCTV4.id"
+	},
+        {
+		"origin": "CBeebies.id",
+		"channel_name": "CBeebies HD",
+		"channel_id": "Cbeebies.id"
+	},
+	{
+		"origin": "CCM.id",
+		"channel_name": "Celestial Classic Movies",
+		"channel_id": "CCM.id"
+	},
+	{
+		"origin": "Celestial.Movie.id",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
+	},
+        {
+		"origin": "CGTN.Documentary.id",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
+	},
+        {
+		"origin": "Bali.TV.id",
+		"channel_name": "Bali TV",
+		"channel_id": "BaliTV.id"
 	},
 	{
 		"origin": "BTV.id",
