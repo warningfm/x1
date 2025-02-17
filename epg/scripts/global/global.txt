@@ -139,5 +139,8 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 firstmedia.com.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/firstmedia.com.xml
 
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
 epg_ripper_MY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
