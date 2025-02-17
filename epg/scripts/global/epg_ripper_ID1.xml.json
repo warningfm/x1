@@ -205,7 +205,7 @@
 		"channel_id": "Horee.id"
 	},
 	{
-		"origin": "Indosiar.HD.id",
+		"origin": "Indosiar.id",
 		"channel_name": "Indosiar HD",
 		"channel_id": "Indosiar.id"
 	},
@@ -248,6 +248,31 @@
 		"origin": "Moji.id",
 		"channel_name": "MOJI",
 		"channel_id": "Moji.id"
+	},
+        {
+		"origin": "MQTV.id",
+		"channel_name": "MQTV",
+		"channel_id": "MQTV.id"
+	},
+	{
+		"origin": "MTATV.id",
+		"channel_name": "MTATV",
+		"channel_id": "MTATV.id"
+	},
+	{
+		"origin": "Muhammadiyah.TV.id",
+		"channel_name": "TVMU",
+		"channel_id": "TVMU.id"
+	},
+	{
+		"origin": "MUI.TV.id",
+		"channel_name": "MUI TV",
+		"channel_id": "TVMUI.id"
+	},
+	{
+		"origin": "Musik.Indonesia.id",
+		"channel_name": "Musik Indonesia",
+		"channel_id": "MusikIndonesia.id"
 	},
         {
 		"origin": "NBA.TV.id",
@@ -295,7 +320,7 @@
 		"channel_id": "RTV.id"
 	},
 	{
-		"origin": "SCTV.HD.id",
+		"origin": "SCTV.id",
 		"channel_name": "SCTV HD",
 		"channel_id": "SCTV.my.id"
 	},
