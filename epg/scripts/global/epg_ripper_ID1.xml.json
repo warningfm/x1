@@ -69,6 +69,36 @@
 		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
+        {
+		"origin": "Bali.TV.id",
+		"channel_name": "Bali TV",
+		"channel_id": "BaliTV.id"
+	},
+        {
+		"origin": "BeritaSatu.id",
+		"channel_name": "BeritaSatu",
+		"channel_id": "BeritaSatu.id"
+	},
+	{
+		"origin": "BTV.id",
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
+	},
+        {
+		"origin": "BBC.Earth.id",
+		"channel_name": "BBC Earth Asia",
+		"channel_id": "BBCEarth.id"
+	},
+        {
+		"origin": "BBC.Earth.HD.id",
+		"channel_name": "BBC Earth Asia",
+		"channel_id": "BBCEarth.id"
+	},
+        {
+		"origin": "BBC.World.News.id",
+		"channel_name": "BBC World News",
+		"channel_id": "BBCWorldNews.id"
+	},
 	{
 		"origin": "Bein.1.id",
 		"channel_name": "beIN Sports 1 HD",
@@ -88,6 +118,11 @@
 		"origin": "Bioskop.Indonesia.id",
 		"channel_name": "Bioskop Indonesia",
 		"channel_id": "BioskopIndonesia.id"
+	},
+        {
+		"origin": "Bloomberg.id",
+		"channel_name": "Bloomberg",
+		"channel_id": "Bloomberg.id"
 	},
 	{
 		"origin": "Cartoon.Network.id",
@@ -125,21 +160,6 @@
 		"channel_id": "CGTNDocumentary.id"
 	},
         {
-		"origin": "Bali.TV.id",
-		"channel_name": "Bali TV",
-		"channel_id": "BaliTV.id"
-	},
-        {
-		"origin": "BeritaSatu.id",
-		"channel_name": "BeritaSatu",
-		"channel_id": "BeritaSatu.id"
-	},
-	{
-		"origin": "BTV.id",
-		"channel_name": "BTV",
-		"channel_id": "BTV.id"
-	},
-	{
 		"origin": "Champions.TV.1.id",
 		"channel_name": "Champions TV 1",
 		"channel_id": "ChampionsTV1.id"
@@ -316,6 +336,11 @@
 	},
 	{
 		"origin": "GTV.HD.id",
+		"channel_name": "GTV",
+		"channel_id": "GTV.id"
+	},
+        {
+		"origin": "GTV.id",
 		"channel_name": "GTV",
 		"channel_id": "GTV.id"
 	},
@@ -644,13 +669,28 @@
 		"channel_name": "TLC Asia",
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
+        {
+		"origin": "TransTV.id",
+		"channel_name": "Trans TV",
+		"channel_id": "TransTV.id"
+	},
 	{
 		"origin": "Trans.TV.id",
 		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
+        {
+		"origin": "TRANS.TV.id",
+		"channel_name": "Trans TV",
+		"channel_id": "TransTV.id"
+	},
 	{
 		"origin": "Trans.7.id",
+		"channel_name": "Trans 7",
+		"channel_id": "Trans7.id"
+	},
+        {
+		"origin": "Trans7.id",
 		"channel_name": "Trans 7",
 		"channel_id": "Trans7.id"
 	},
@@ -681,7 +721,7 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional",
+		"channel_name": "TVRI",
 		"channel_id": "TVRI.id"
 	}
 ]
