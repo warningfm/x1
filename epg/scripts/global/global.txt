@@ -147,6 +147,3 @@ https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz
 
 epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
-
-epg_ripper_CH1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz
