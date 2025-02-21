@@ -45,7 +45,7 @@
 		"channel_id": "Bloomberg.id"
 	},
 	{
-		"origin": "CARTOON NETWORK HD.ph",
+		"origin": "Cartoon.Net.Hd.ph",
 		"channel_name": "Cartoon Network",
 		"channel_id": "CartoonNetwork.id"
 	},
@@ -65,7 +65,7 @@
 		"channel_id": "CCM.id"
 	},
 	{
-		"origin": "CINEMA WORLD HD.ph",
+		"origin": "CINEMAWORLD.ph",
 		"channel_name": "CinemaWorld",
 		"channel_id": "Cinemaworld.id"
 	},
@@ -75,12 +75,12 @@
 		"channel_id": "CNNInternational.id"
 	},
 	{
-		"origin": "CNN HD.ph",
+		"origin": "Cnn.Hd.ph",
 		"channel_name": "CNN International",
 		"channel_id": "CNNInternational.id"
 	},
 	{
-		"origin": "CRIME and INVESTIGATION HD.ph",
+		"origin": "Crime.Investigation.ph",
 		"channel_name": "Crime Investigation",
 		"channel_id": "CrimePlusInvestigation.id"
 	},
@@ -90,12 +90,12 @@
 		"channel_id": "DWEnglish.de"
 	},
 	{
-		"origin": "DISCOVERY ASIA.ph",
+		"origin": "DISCOVERYASIA.ph",
 		"channel_name": "Discovery Asia HD",
 		"channel_id": "DiscoveryAsia.id"
 	},
 	{
-		"origin": "DISCOVERY CHANNEL HD.ph",
+		"origin": "DISCOVERYCHANNEL.ph",
 		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.id"
 	},
@@ -110,14 +110,19 @@
 		"channel_id": "Eurosport.id"
 	},
 	{
-		"origin": "FOOD NETWORK HD.ph",
+		"origin": "Foodnetwork.Hd.ph",
 		"channel_name": "Food Network",
 		"channel_id": "FoodNetwork.uk"
 	},
 	{
-		"origin": "FOOD NETWORK.ph",
-		"channel_name": "Food Network",
-		"channel_id": "FoodNetwork.uk"
+		"origin": "Fashiontv.Hd.ph",
+		"channel_name": "FashionTV HD",
+		"channel_id": "FashionTVAsia.fr"
+	},
+	{
+		"origin": "Hgtv.Hd.ph",
+		"channel_name": "HGTV Asia",
+		"channel_id": "HGTV.id"
 	},
 	{
 		"origin": "HGTV.ph",
@@ -125,27 +130,22 @@
 		"channel_id": "HGTV.id"
 	},
 	{
-		"origin": "HGTV HD.ph",
-		"channel_name": "HGTV Asia",
-		"channel_id": "HGTV.id"
-	},
-	{
-		"origin": "HISTORY HD.ph",
+		"origin": "History.Hd.ph",
 		"channel_name": "History",
 		"channel_id": "History.id"
 	},
 	{
-		"origin": "KBS WORLD.ph",
+		"origin": "Kbs.World.ph",
 		"channel_name": "KBS World",
 		"channel_id": "KBSWorld.id"
 	},
 	{
-		"origin": "KIX HD.ph",
+		"origin": "Kix.Hd.ph",
 		"channel_name": "KIX",
 		"channel_id": "KIX.id"
 	},
 	{
-		"origin": "LIFETIME HD.ph",
+		"origin": "Lifetime.ph",
 		"channel_name": "Lifetime",
 		"channel_id": "Lifetime.id"
 	},
@@ -155,39 +155,44 @@
 		"channel_id": "Lifetime.id"
 	},
 	{
-		"origin": "LOVE NATURE HD.ph",
-		"channel_name": "Love Nature Asia",
-		"channel_id": "LoveNature.id"
+		"origin": "OUTDOORCHANNEL.ph",
+		"channel_name": "Outdoor Channel",
+		"channel_id": "OutdoorChannel.id"
+	},
+        {
+		"origin": "Onesports.ph",
+		"channel_name": "One Sports",
+		"channel_id": "Onesports.ph"
 	},
 	{
-		"origin": "ROCK ACTION HD.ph",
+		"origin": "Onesportsplus.Hd.ph",
+		"channel_name": "One Sports Plus",
+		"channel_id": "Onesportsplus.Hd.ph"
+	},
+	{
+		"origin": "ROCKACTION.ph",
 		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
 	},
 	{
-		"origin": "ROCK ENTERTAINMENT HD.ph",
+		"origin": "Rock.Entertainment.ph",
 		"channel_name": "Rock Entertainment",
 		"channel_id": "RockEntertainment.id"
 	},
 	{
-		"origin": "SPOTV 2 HD.ph",
+		"origin": "Spotv.Hd2.ph",
 		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "SPOTV HD.ph",
+		"origin": "Spotv.Hd.ph",
 		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
 	{
-		"origin": "SPOTV.ph",
-		"channel_name": "SPOTV HD",
-		"channel_id": "SPOTV.id"
-	},
-	{
-		"origin": "TLC HD.ph",
-		"channel_name": "TLC Asia",
-		"channel_id": "TLCSoutheastAsia.sg"
+		"origin": "SPORTSPLUS.ph",
+		"channel_name": "SPORTS PLUS",
+		"channel_id": "SPORTSPLUS.ph"
 	},
 	{
 		"origin": "TLC.ph",
@@ -195,7 +200,12 @@
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
-		"origin": "TRAVEL CHANNEL HD.ph",
+		"origin": "Tap.Sports.ph",
+		"channel_name": "Tap Sports",
+		"channel_id": "Tap.Sports.ph"
+	},
+	{
+		"origin": "Travel.Channel.ph",
 		"channel_name": "Travel Channel",
 		"channel_id": "TravelChannel.id"
 	},
