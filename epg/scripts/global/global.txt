@@ -91,11 +91,11 @@ https://www.open-epg.com/files/saudiarabia1.xml
 saudiarabia3.xml
 https://www.open-epg.com/files/saudiarabia3.xml
 
-uaepremium2.xml
-https://www.open-epg.com/files/uaepremium2.xml
+uae2.xml
+https://www.open-epg.com/files/uae2.xml
 
-uaepremium3.xml
-https://www.open-epg.com/files/uaepremium3.xml
+uae3.xml
+https://www.open-epg.com/files/uae3.xml
 
 unitedkingdom1.xml
 https://www.open-epg.com/files/unitedkingdom1.xml
