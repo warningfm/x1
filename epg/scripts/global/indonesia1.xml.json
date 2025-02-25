@@ -2,7 +2,7 @@
 	{
 		"origin": "ABC Australia.id",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABCAustralia.id"
+		"channel_id": "ABC.Australia.id"
 	},
 	{
 		"origin": "AJWA TV.id",
@@ -131,8 +131,8 @@
 	},
 	{
 		"origin": "Nusantara TV.id",
-		"channel_name": "NusantaraTV",
-		"channel_id": "NTV.id"
+		"channel_name": "Nusantara TV",
+		"channel_id": "Nusantara.TV.id"
 	},
 	{
 		"origin": "Premier League TV.id",
