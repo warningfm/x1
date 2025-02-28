@@ -51,8 +51,8 @@
 	},
 	{
 		"origin": "Garuda TV.id",
-		"channel_name": "Garuda TV ᴴᴰ",
-		"channel_id": "GarudaTV.my.id"
+		"channel_name": "Garuda TV",
+		"channel_id": "GarudaTV.id"
 	},
 	{
 		"origin": "GTV.id",
@@ -186,8 +186,8 @@
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV ᴴᴰ",
-		"channel_id": "SCTV.my.id"
+		"channel_name": "SCTV",
+		"channel_id": "SCTV.id"
 	},
 	{
 		"origin": "SEA Today.id",
