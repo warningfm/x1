@@ -49,6 +49,9 @@ https://www.open-epg.com/files/india4.xml
 india5.xml
 https://www.open-epg.com/files/india5.xml
 
+epg_ripper_DISTROTV1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz
+
 australiaepg.xml
 https://i.mjh.nz/au/all/epg.xml
 
