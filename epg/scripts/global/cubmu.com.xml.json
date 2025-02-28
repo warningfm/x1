@@ -171,7 +171,7 @@
 	},
 	{
 		"origin": "NET.id",
-		"channel_name": "NET.",
+		"channel_name": "MDTV",
 		"channel_id": "NET.id"
 	},
 	{
@@ -216,16 +216,16 @@
 	},
 	{
 		"origin": "TV9Nusantara.id",
-    "origin": "TV9",
+                "origin": "TV9",
 		"channel_name": "TV9 Nusantara",
 		"channel_id": "TV9Nusantara.id"
 	},
-  {
+        {
 		"origin": "TVMU.id",
 		"channel_name": "TVMU",
 		"channel_id": "TVMU.id"
 	},
-  {
+        {
 		"origin": "tvOne.id",
 		"channel_name": "tvOne",
 		"channel_id": "tvOne.id"

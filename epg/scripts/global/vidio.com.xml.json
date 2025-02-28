@@ -2,7 +2,7 @@
 	{
 		"origin": "ABCAustralia.au",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABC.Australia.id"
+		"channel_id": "ABCAustralia.id"
 	},
 	{
 		"origin": "ArirangWorld.kr",
@@ -126,7 +126,7 @@
 	},
 	{
 		"origin": "NET.id",
-		"channel_name": "MDTV",
+		"channel_name": "NET.",
 		"channel_id": "NET.id"
 	},
 	{
@@ -136,8 +136,8 @@
 	},
 	{
 		"origin": "NusantaraTV.id",
-		"channel_name": "Nusantara TV",
-		"channel_id": "Nusantara.TV.id"
+		"channel_name": "NusantaraTV",
+		"channel_id": "NTV.id"
 	},
         {
 		"origin": "Rajawali TV.id",
@@ -202,7 +202,7 @@
 	{
 		"origin": "TVRINasional.id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"channel_id": "TVRI.my.id"
 	},
 	{
 		"origin": "Zee Bioskop",
