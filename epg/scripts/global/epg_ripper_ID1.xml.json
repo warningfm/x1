@@ -552,7 +552,7 @@
 	{
 		"origin": "NET.TV.id",
 		"channel_name": "MDTV",
-		"channel_id": "NET.id"
+		"channel_id": "MDTV.id"
 	},
 	{
 		"origin": "News.Asia.id",

@@ -115,14 +115,14 @@
 		"channel_id": "Moji.id"
 	},
         {
-		"origin": "NBATV.us",
+		"origin": "NBA TV.id",
 		"channel_name": "NBA TV",
-		"channel_id": "NBATV.us"
+		"channel_id": "NBATV.id"
 	},
 	{
 		"origin": "NET TV.id",
 		"channel_name": "MDTV",
-		"channel_id": "NET.id"
+		"channel_id": "MDTV.id"
 	},
 	{
 		"origin": "News Asia.id",
