@@ -46,6 +46,9 @@ https://www.open-epg.com/files/india1.xml
 india4.xml
 https://www.open-epg.com/files/india4.xml
 
+india5.xml
+https://www.open-epg.com/files/india5.xml
+
 australiaepg.xml
 https://i.mjh.nz/au/all/epg.xml
 
