@@ -13,6 +13,9 @@ https://www.open-epg.com/files/indonesia3.xml
 indonesia4.xml
 https://www.open-epg.com/files/indonesia4.xml
 
+indonesia5.xml
+https://www.open-epg.com/files/indonesia5.xml
+
 philippines2.xml
 https://www.open-epg.com/files/philippines2.xml
 
@@ -132,9 +135,6 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
 
 firstmedia.com.xml
 https://raw.githubusercontent.com/warningfm/v2/cloud/firstmedia.com.xml
-
-indonesia5.xml
-https://www.open-epg.com/files/indonesia5.xml.gz
 
 epg_ripper_MY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
