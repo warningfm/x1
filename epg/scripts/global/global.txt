@@ -82,6 +82,9 @@ https://www.open-epg.com/files/france1.xml
 mexico2.xml
 https://www.open-epg.com/files/mexico2.xml
 
+russia3.xml
+https://www.open-epg.com/files/russia3.xml
+
 spain.xml
 https://www.open-epg.com/files/spain.xml
 
