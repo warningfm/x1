@@ -211,8 +211,8 @@
 	},
 	{
 		"origin": "IDTV.id",
-		"channel_name": "Berita Satu HD",
-		"channel_id": "IDTV.ind"
+		"channel_name": "BeritaSatu",
+		"channel_id": "BeritaSatu.id"
 	},
         {
 		"origin": "IMC.id",
@@ -266,8 +266,8 @@
 	},
 	{
 		"origin": "NET.id",
-		"channel_name": "NET.",
-		"channel_id": "NET.id"
+		"channel_name": "MDTV",
+		"channel_id": "MDTV.id"
 	},
 	{
 		"origin": "RajawaliTV.id",
@@ -347,7 +347,7 @@
 	{
 		"origin": "TVRINasional.id",
 		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRI.my.id"
+		"channel_id": "TVRINasional.id"
 	},
 	{
 		"origin": "TRTWorld.tr",
