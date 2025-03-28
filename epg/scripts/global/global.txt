@@ -16,6 +16,9 @@ https://www.open-epg.com/files/indonesia4.xml.gz
 indonesia5.xml
 https://www.open-epg.com/files/indonesia5.xml.gz
 
+indonesia6.xml.gz
+https://www.open-epg.com/files/indonesia6.xml.gz
+
 philippines2.xml
 https://www.open-epg.com/files/philippines2.xml
 
