@@ -171,3 +171,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 IPTV_tuner_epg.xml
 https://raw.githubusercontent.com/benmoose39/prince-epg-xml/master/IPTV_tuner_epg.xml
+
+rakuten-uk-epg
+https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
