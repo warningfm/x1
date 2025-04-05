@@ -177,7 +177,7 @@
 	{
 		"origin": "TRANS TV.id",
 		"channel_name": "TransTV",
-		"channel_id": "TransTV.id"
+		"channel_id": "TransTV.my.id"
 	},
 	{
 		"origin": "Trans7.id",
