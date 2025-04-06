@@ -91,8 +91,8 @@
 	},
 	{
 		"origin": "Kompas TV.id",
-		"channel_name": "Kompas TV",
-		"channel_id": "KompasTV.id"
+		"channel_name": "KompasTV",
+		"channel_id": "KompasTV.my.id"
 	},
 	{
 		"origin": "Makkah TV.id",
