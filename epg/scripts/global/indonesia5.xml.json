@@ -181,8 +181,8 @@
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTV",
-		"channel_id": "RTV.id"
+		"channel_name": "RTV 🇮🇩",
+		"channel_id": "RTV.my.id"
 	},
 	{
 		"origin": "SCTV.id",
@@ -211,13 +211,13 @@
 	},
 	{
 		"origin": "Trans TV.id",
-		"channel_name": "TransTV",
+		"channel_name": "Trans TV",
 		"channel_id": "TransTV.id"
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans7",
-		"channel_id": "Trans7.my.id"
+		"channel_name": "Trans 7",
+		"channel_id": "Trans7.id"
 	},
 	{
 		"origin": "tvN Movies.id",
