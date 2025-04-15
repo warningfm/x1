@@ -175,5 +175,5 @@ https://raw.githubusercontent.com/benmoose39/prince-epg-xml/master/IPTV_tuner_ep
 rakuten-uk-epg
 https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
-epg_ripper_PH1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz
+epg_ripper_PH2.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
