@@ -1,0 +1,197 @@
+[
+	{
+		"origin": "Al Jazeera Arabic.id",
+		"channel_name": "Al Jazeera Arabic",
+		"channel_id": "AlJazeera.qa"
+	},
+	{
+		"origin": "Al Jazeera English.id",
+		"channel_name": "Al Jazeera English",
+		"channel_id": "AlJazeeraEnglish.id"
+	},
+	{
+		"origin": "AlJazeera.qa",
+		"channel_name": "Al Jazeera Arabic",
+		"channel_id": "AlJazeera.qa"
+	},
+        {
+		"origin": "ANIPLUS HD.id",
+		"channel_name": "Aniplus",
+		"channel_id": "Aniplus.id"
+	},
+        {
+		"origin": "antv.id",
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
+	},
+        {
+		"origin": "Berita Satu.id",
+		"channel_name": "BeritaSatu",
+		"channel_id": "BeritaSatu.id"
+	},
+        {
+		"origin": "BTV.id",
+		"channel_name": "BTVᴴᴰ",
+		"channel_id": "BTV.id"
+	},
+	{
+		"origin": "Celestial Movies HD.id",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
+	},
+	{
+		"origin": "CGTN Documentary.id",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
+	},
+	{
+		"origin": "Channel Jowo.id",
+		"channel_name": "Channel Jowo",
+		"channel_id": "ChannelJowo.id"
+	},
+	{
+		"origin": "CNA.id",
+		"channel_name": "CNA HD",
+		"channel_id": "CNA.id"
+	},
+	{
+		"origin": "DAAI TV.id",
+		"channel_name": "DAAI TV",
+		"channel_id": "DAAITV.id"
+	},
+        {
+		"origin": "DensFood Channel.id",
+		"channel_name": "DENS Food Channel",
+		"channel_id": "DENSFoodChannel.id"
+	},
+        {
+		"origin": "DensLifeandStyle.id",
+		"channel_name": "DensLifeandStyle",
+		"channel_id": "DensLifeandStyle.id"
+	},
+	{
+		"origin": "DensShowBiz.id",
+		"channel_name": "DENS Showbiz Channel",
+		"channel_id": "DENSShowbizzChannel.id"
+	},
+	{
+		"origin": "DW-TV.id",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+	 {
+		"origin": "Elshinta TV.id",
+		"channel_name": "Elshinta TV",
+		"channel_id": "ElshintaTV.id"
+	},
+	{
+		"origin": "FIGHT SPORTS HD.id",
+		"channel_name": "Fight Sports",
+		"channel_id": "FightSports.us"
+	},
+	{
+		"origin": "France 24.id",
+		"channel_name": "France 24 English",
+		"channel_id": "France24English.fr.id"
+	},
+	{
+		"origin": "Jak tv.id",
+		"channel_name": "Jak TV",
+		"channel_id": "JakTV.id"
+	},
+	{
+		"origin": "KBS World.id",
+		"channel_name": "KBS World",
+		"channel_id": "KBSWorld.id"
+	},
+	{
+		"origin": "KIX HD.id",
+		"channel_name": "KIX",
+		"channel_id": "KIX.id"
+	},
+	{
+		"origin": "Kompas TV.id",
+		"channel_name": "Kompas TV",
+		"channel_id": "KompasTV.id"
+	},
+	{
+		"origin": "K-PLUS HD.id",
+		"channel_name": "KPlus",
+		"channel_id": "KPlus.sg"
+	},
+	{
+		"origin": "Magna Channel.id",
+		"channel_name": "Magna Channel",
+		"channel_id": "MagnaChannel.id"
+	},
+	{
+		"origin": "MDTV.id",
+		"channel_name": "MDTV",
+		"channel_id": "MDTV.id"
+	},
+	{
+		"origin": "Metro TV.id",
+		"channel_name": "Metro TV",
+		"channel_id": "MetroTV.id"
+	},
+        {
+		"origin": "RTV.id",
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
+	},
+	{
+		"origin": "ROCKExtreme.sg",
+		"channel_name": "Rock Action",
+		"channel_id": "RockAction.id"
+	},
+	{
+		"origin": "Thrill.id",
+		"channel_name": "Thrill",
+		"channel_id": "Thrill.id"
+	},
+	{
+		"origin": "TRT World.id",
+		"channel_name": "TRT World",
+		"channel_id": "TRT World.id"
+	},
+	{
+		"origin": "TV5MONDE ASIE.id",
+		"channel_name": "TV5 Monde",
+		"channel_id": "TV5MondeAsia.fr"
+	},
+	{
+		"origin": "tvN HD.id",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
+	},
+	{
+		"origin": "tvN Movies HD.id",
+		"channel_name": "tvN Movies",
+		"channel_id": "tvNMovies.id"
+	},
+	{
+		"origin": "TVRINasional.id",
+		"channel_name": "TVRI Nasional",
+		"channel_id": "TVRINasional.id"
+	},
+	{
+		"origin": "tvOne.id",
+		"channel_name": "tvOne",
+		"channel_id": "tvOne.id"
+	},
+	{
+		"origin": "TVRI Sport.id",
+		"channel_name": "TVRI Sport",
+		"channel_id": "TVRI Sport.id"
+	},
+        {
+		"origin": "WION.id",
+		"channel_name": "WION",
+		"channel_id": "WION.id"
+	},
+	{
+		"origin": "W-Sport.id",
+		"channel_name": "W-Sport",
+		"channel_id": "W-Sport.id"
+	}
+]
