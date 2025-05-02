@@ -1,13 +1,13 @@
 [
 	{
-		"origin": "ABC Australia.id",
-		"channel_name": "ABC Australia",
-		"channel_id": "ABC.Australia.id"
-	},
-	{
 		"origin": "AJWA TV.id",
 		"channel_name": "Ajwa TV",
 		"channel_id": "AjwaTV.id"
+	},
+	{
+		"origin": "Aljazeera.id",
+		"channel_name": "Aljazeera",
+		"channel_id": "Aljazeera.id"
 	},
         {
 		"origin": "ANTV.id",
@@ -34,10 +34,15 @@
 		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beinSports3.id"
 	},
+        {
+		"origin": "Berita Satu.id",
+		"channel_name": "BeritaSatu",
+		"channel_id": "BeritaSatu.id"
+	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV 🇮🇩",
-		"channel_id": "BTV.my.id"
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
 	},
 	{
 		"origin": "Champions TV 1.id",
@@ -65,9 +70,19 @@
 		"channel_id": "ChampionsTV6.id"
 	},
 	{
-		"origin": "DW English.id",
-		"channel_name": "DW (English)",
-		"channel_id": "DWEnglish.de"
+		"origin": "DAAI TV.id",
+		"channel_name": "DAAI TV",
+		"channel_id": "DAAITV.id"
+	},
+        {
+		"origin": "Garuda TV.id",
+		"channel_name": "Garuda TV",
+		"channel_id": "GarudaTV.id"
+	},
+        {
+		"origin": "GGS TV.id",
+		"channel_name": "GGS TV",
+		"channel_id": "GGSTV.id"
 	},
 	{
 		"origin": "Horee.id",
@@ -99,6 +114,11 @@
 		"channel_name": "Makkah TV",
 		"channel_id": "MakkahTV.id"
 	},
+        {
+		"origin": "MDTV.id",
+		"channel_name": "MDTV",
+		"channel_id": "MDTV.id"
+	},
 	{
 		"origin": "Mentari TV.id",
 		"channel_name": "Mentari TV",
@@ -120,11 +140,6 @@
 		"channel_id": "NBATV.id"
 	},
 	{
-		"origin": "NET TV.id",
-		"channel_name": "MDTV",
-		"channel_id": "MDTV.id"
-	},
-	{
 		"origin": "News Asia.id",
 		"channel_name": "CNA HD",
 		"channel_id": "CNA.id"
@@ -135,24 +150,9 @@
 		"channel_id": "Nusantara.TV.id"
 	},
 	{
-		"origin": "Premier League TV.id",
-		"channel_name": "Premier League TV",
-		"channel_id": "PremierLeagueTV.id"
-	},
-	{
-		"origin": "RANS Channel.id",
-		"channel_name": "RANS Channel",
-		"channel_id": "RansChannel.id"
-	},
-	{
 		"origin": "Rock Action.id",
 		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
-	},
-	{
-		"origin": "ROCK Entertainment.id",
-		"channel_name": "Rock Entertainment",
-		"channel_id": "RockEntertainment.id"
 	},
 	{
 		"origin": "RTV.id",
