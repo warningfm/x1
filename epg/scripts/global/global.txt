@@ -49,6 +49,9 @@ https://www.open-epg.com/files/hongkong1.xml
 india1.xml
 https://www.open-epg.com/files/india1.xml
 
+india2.xml
+https://www.open-epg.com/files/india2.xml
+
 india4.xml
 https://www.open-epg.com/files/india4.xml
 
