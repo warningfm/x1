@@ -200,9 +200,9 @@
 		"channel_id": "tvNMovies.id"
 	},
 	{
-		"origin": "TVRINasional.id",
-		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"origin": "TVRI.id",
+		"channel_name": "TVRI",
+		"channel_id": "TVRI.id"
 	},
 	{
 		"origin": "tvOne.id",
