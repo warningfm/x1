@@ -241,7 +241,7 @@
 	},
 	{
 		"origin": "GTV.id",
-		"channel_name": "GTV",
+		"channel_name": "GTV HD",
 		"channel_id": "GTV.id"
 	},
 	{
@@ -331,7 +331,7 @@
 	},
 	{
 		"origin": "MNCTV.id",
-		"channel_name": "MNCTV",
+		"channel_name": "MNCTV HD",
 		"channel_id": "MNCTV.id"
 	},
 	{
@@ -421,7 +421,7 @@
 	},
 	{
 		"origin": "RCTI.id",
-		"channel_name": "RCTI",
+		"channel_name": "RCTI HD",
 		"channel_id": "RCTI.id"
 	},
         {

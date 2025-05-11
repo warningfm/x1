@@ -496,18 +496,18 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_name": "Trans7 HD",
+		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "TransTV.id",
-		"channel_name": "Trans TV",
-		"channel_id": "TransTV.id"
+		"channel_name": "TransTV",
+		"channel_id": "TransTV.my.id"
 	},
 	{
 		"origin": "TV One.id",
-		"channel_name": "tvOne",
-		"channel_id": "tvOne.id"
+		"channel_name": "TVOne HD",
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TV9 NU.id",
@@ -526,7 +526,7 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional 🇮🇩",
+		"channel_name": "TVRI Nasional HD",
 		"channel_id": "TVRI.my.id"
 	},
 	{

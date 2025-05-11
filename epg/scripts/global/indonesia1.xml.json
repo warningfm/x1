@@ -156,7 +156,7 @@
 	},
 	{
 		"origin": "RTV.id",
-		"channel_name": "RTV 🇮🇩",
+		"channel_name": "RTV HD",
 		"channel_id": "RTV.my.id"
 	},
 	{
@@ -181,8 +181,8 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_name": "Trans7 HD",
+		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "TVN.id",
@@ -191,12 +191,12 @@
 	},
 	{
 		"origin": "TVOne.id",
-		"channel_name": "TVOne ᴴᴰ",
+		"channel_name": "TVOne HD",
 		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional 🇮🇩",
+		"channel_name": "TVRI Nasional HD",
 		"channel_id": "TVRI.my.id"
 	}
 ]
