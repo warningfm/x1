@@ -382,7 +382,7 @@
 	{
 		"origin": "Net TV.id",
 		"channel_name": "MDTV",
-		"channel_id": "NET.id"
+		"channel_id": "MDTV.id"
 	},
 	{
 		"origin": "NHK World Premium.id",
@@ -446,8 +446,8 @@
 	},
         {
 		"origin": "RTV.id",
-		"channel_name": "RTV HD",
-		"channel_id": "RTV.my.id"
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
 	},
         {
 		"origin": "SEA Today.id",
