@@ -124,8 +124,8 @@ https://www.open-epg.com/files/unitedstates1.xml
 unitedstates4.xml
 https://www.open-epg.com/files/unitedstates4.xml
 
-czech2.xml
-https://www.open-epg.com/files/czech2.xml
+czech3.xml
+https://www.open-epg.com/files/czech3.xml
 
 turkey1.xml
 https://www.open-epg.com/files/turkey1.xml
