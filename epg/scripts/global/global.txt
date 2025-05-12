@@ -136,18 +136,6 @@ https://www.open-epg.com/files/turkey2.xml
 thailand.xml
 https://www.open-epg.com/files/thailand.xml
 
-cubmu.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/cubmu.com.xml
-
-vidio.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/vidio.com.xml
-
-indihometv.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/indihometv.com.xml
-
-firstmedia.com.xml
-https://raw.githubusercontent.com/warningfm/v2/cloud/firstmedia.com.xml
-
 epg_ripper_MY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
 
