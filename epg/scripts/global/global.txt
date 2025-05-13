@@ -73,8 +73,8 @@ https://i.mjh.nz/nzau/epg.xml
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
-Singtelepg.xml
-https://i.mjh.nz/Singtel/epg.xml
+epg_ripper_SG1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz
 
 Stirr/all.xml
 https://i.mjh.nz/Stirr/all.xml
