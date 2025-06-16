@@ -130,6 +130,9 @@ https://www.open-epg.com/files/unitedstates1.xml
 unitedstates4.xml
 https://www.open-epg.com/files/unitedstates4.xml
 
+Plex/all.xml.gz
+https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz
+
 czech3.xml
 https://www.open-epg.com/files/czech3.xml
 
