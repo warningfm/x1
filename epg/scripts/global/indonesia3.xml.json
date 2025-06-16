@@ -475,6 +475,11 @@
 		"channel_id": "SPOTV.id"
 	},
 	{
+		"origin": "Studio Universal.id",
+		"channel_name": "Studio Universal",
+		"channel_id": "StudioUniversal.id"
+	},
+	{
 		"origin": "SONE.id",
 		"channel_name": "ONE HD",
 		"channel_id": "One.id"
