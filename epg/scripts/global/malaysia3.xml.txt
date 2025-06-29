@@ -1,0 +1,153 @@
+.my;.my
+.my;.my
+.my;.my
+.my;.my
+.my;.my
+.my;.my
+8TV.my;8TV.my
+ABC-Australia-HD.my;ABC Australia HD.my
+Adithya.my;Adithya.my
+AI-FM.my;AI FM.my
+Al-Hijrah.my;Al-Hijrah.my
+Al-Jazeera-English-HD.my;Al Jazeera English HD.my
+Arena-Bola.my;Arena Bola.my
+Arena-Bola-2.my;Arena Bola 2.my
+Asian-Food-Network-HD.my;Asian Food Network HD.my
+Astro-AEC.my;Astro AEC.my
+Astro-AOD.my;Astro AOD.my
+Astro-Arena.my;Astro Arena.my
+Astro-Arena-2.my;Astro Arena 2.my
+Astro-Aura.my;Astro Aura.my
+Astro-Awani-HD.my;Astro Awani HD.my
+Astro-Badminton.my;Astro Badminton.my
+Astro-Boo.my;Astro Boo.my
+Astro-Ceria.my;Astro Ceria.my
+Astro-Citra.my;Astro Citra.my
+Astro-Cricket.my;Astro Cricket.my
+Astro-Football.my;Astro Football.my
+Astro-Grandstand.my;Astro Grandstand.my
+Astro-Hua-Hee-Dai.my;Astro Hua Hee Dai.my
+Astro-Oasis.my;Astro Oasis.my
+Astro-Premier-League.my;Astro Premier League.my
+Astro-Premier-League-2.my;Astro Premier League 2.my
+Astro-Prima.my;Astro Prima.my
+Astro-QJ.my;Astro QJ.my
+Astro-Rania.my;Astro Rania.my
+Astro-Ria.my;Astro Ria.my
+Astro-Showcase.my;Astro Showcase.my
+Astro-Sports-Plus.my;Astro Sports Plus.my
+Astro-Sports-UHD.my;Astro Sports UHD.my
+Astro-Thangathirai.my;Astro Thangathirai.my
+Astro-Tutor-TV.my;Astro Tutor TV.my
+Astro-Vaanavil.my;Astro Vaanavil.my
+Astro-Vellithirai-HD.my;Astro Vellithirai HD.my
+Astro-Vinmeen.my;Astro Vinmeen.my
+ASYIK-FM.my;ASYIK FM.my
+AXN-HD.my;AXN HD.my
+BAYU.my;BAYU.my
+BBC-Brit-HD.my;BBC Brit HD.my
+BBC-Earth.my;BBC Earth.my
+BBC-First-HD.my;BBC First HD.my
+BBC-Lifestyle-HD.my;BBC Lifestyle HD.my
+BBC-News-HD.my;BBC News HD.my
+beIN-SPORTS-1.my;beIN SPORTS 1.my
+beIN-SPORTS-2.my;beIN SPORTS 2.my
+beIN-SPORTS-3.my;beIN SPORTS 3.my
+BERNAMA.my;BERNAMA.my
+Blippi-And-Friends.my;Blippi And Friends.my
+Bloomberg-TV-HD.my;Bloomberg TV HD.my
+Cartoon-Network-HD.my;Cartoon Network HD.my
+CBeebies.my;CBeebies.my
+CCTV4--HD.my;CCTV4  HD.my
+Celestial-Classic-Movies.my;Celestial Classic Movies.my
+Celestial-Movies-HD.my;Celestial Movies HD.my
+CGTN-HD.my;CGTN HD.my
+CINEMAX-HD.my;CINEMAX HD.my
+CLASSIC-ROCK.my;CLASSIC ROCK.my
+CNA-HD.my;CNA HD.my
+CNBC-Asia-HD.my;CNBC Asia HD.my
+CNN-HD.my;CNN HD.my
+Colors-Hindi-HD.my;Colors Hindi HD.my
+Colors-Tamil-HD.my;Colors Tamil HD.my
+Crime-And-Investigation-HD.my;Crime And Investigation HD.my
+CTI-Asia-HD.my;CTI Asia HD.my
+Discovery-Asia-HD.my;Discovery Asia HD.my
+Discovery-Channel-HD.my;Discovery Channel HD.my
+DW-English.my;DW English.my
+ERA-FM.my;ERA FM.my
+France24.my;France24.my
+Global-Trekker.my;Global Trekker.my
+GOLD.my;GOLD.my
+Golf-Channel.my;Golf Channel.my
+GOXUAN.my;GOXUAN.my
+HBO-Family.my;HBO Family.my
+HBO-HD.my;HBO HD.my
+HBO-Hits.my;HBO Hits.my
+Heroes.my;Heroes.my
+HGTV-HD.my;HGTV HD.my
+History-HD.my;History HD.my
+HITS-HD.my;HITS HD.my
+HITS-MOVIES-HD.my;HITS MOVIES HD.my
+HITS-NOW.my;HITS NOW.my
+HITZ-FM.my;HITZ FM.my
+INDIA-BEAT.my;INDIA BEAT.my
+iQIYI-HD.my;iQIYI HD.my
+JAZZ.my;JAZZ.my
+KBS-World-HD.my;KBS World HD.my
+KENYALANG.my;KENYALANG.my
+K-Plus-HD.my;K-Plus HD.my
+KTV.my;KTV.my
+Lifetime-HD.my;Lifetime HD.my
+LITE-FM.my;LITE FM.my
+Love-Nature.my;Love Nature.my
+Love-Nature-4K.my;Love Nature 4K.my
+MELODY-FM.my;MELODY FM.my
+MINNAL-FM.my;MINNAL FM.my
+MIX-FM.my;MIX FM.my
+Moonbug.my;Moonbug.my
+MTV-Live.my;MTV Live.my
+MY-FM.my;MY FM.my
+NAS-FM.my;NAS FM.my
+NHK-World-Premium.my;NHK World Premium.my
+Nickelodeon-HD.my;Nickelodeon HD.my
+Nick-Jr..my;Nick Jr..my
+NTV7.my;NTV7.my
+ONE-HD.my;ONE HD.my
+OPUS.my;OPUS.my
+OSAI.my;OSAI.my
+Phoenix-Chinese-Channel-HD.my;Phoenix Chinese Channel HD.my
+Phoenix-Info-News-HD.my;Phoenix Info News HD.my
+Premier-Sports-Rugby.my;Premier Sports Rugby.my
+SINAR-FM.my;SINAR FM.my
+Sky-News-HD.my;Sky News HD.my
+Smithsonian-Channel.my;Smithsonian Channel.my
+SPOTV.my;SPOTV.my
+SPOTV2.my;SPOTV2.my
+Star-Vijay-HD.my;Star Vijay HD.my
+Sun-Life.my;Sun Life.my
+Sun-Music-HD.my;Sun Music HD.my
+Sun-News.my;Sun News.my
+SUN-TV-HD.my;SUN TV HD.my
+THR-GEGAR.my;THR GEGAR.my
+THR-RAAGA.my;THR RAAGA.my
+TLC-HD.my;TLC HD.my
+TRAXX-FM.my;TRAXX FM.my
+TV1-HD.my;TV1 HD.my
+TV2-HD.my;TV2 HD.my
+TV3.my;TV3.my
+TV9.my;TV9.my
+TVB-Classic-HD.my;TVB Classic HD.my
+TVB-Entertainment-News-HD.my;TVB Entertainment News HD.my
+TVB-Jade.my;TVB Jade.my
+TVBS-Asia-HD.my;TVBS Asia HD.my
+TVB-Xing-He-HD.my;TVB Xing He HD.my
+tvN-HD.my;tvN HD.my
+tvN-Movies-HD.my;tvN Movies HD.my
+TV-Okey-HD.my;TV Okey HD.my
+TV-Sarawak.my;TV Sarawak.my
+V-FM.my;V FM.my
+WAI-FM.my;WAI FM.my
+W-Sport.my;W-Sport.my
+ZAYAN.my;ZAYAN.my
+Zee-Cinema.my;Zee Cinema.my
+Zee-Tamil-HD.my;Zee Tamil HD.my
