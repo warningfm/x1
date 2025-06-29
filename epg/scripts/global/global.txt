@@ -37,6 +37,9 @@ https://www.open-epg.com/files/singapore3.xml
 malaysia2.xml
 https://www.open-epg.com/files/malaysia2.xml
 
+malaysia3.xml
+https://www.open-epg.com/files/malaysia3.xml
+
 australia3.xml
 https://www.open-epg.com/files/australia3.xml
 
