@@ -84,20 +84,25 @@
 		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.id"
 	},
-	{
-		"origin": "BTV - [Channel 103].id",
-		"channel_name": "BTV ᴴᴰ",
-		"channel_id": "BTV.id"
-	},
-	{
-		"origin": "besmart - [Channel 112].id",
-		"channel_name": "beSmart",
-		"channel_id": "BeSmart.id"
-	},
-	{
+        {
 		"origin": "Bloomberg - [Channel 338].id",
 		"channel_name": "Bloomberg",
 		"channel_id": "Bloomberg.id"
+	},
+	{
+		"origin": "BTV - [Channel 103].id",
+		"channel_name": "BTV",
+		"channel_id": "BTV.id"
+	},
+	{
+		"origin": "BUDDY STARS - [Channel 9].id",
+		"channel_name": "Buddy Stars",
+		"channel_id": "BuddyStars.id"
+	},
+        {
+		"origin": "BUDDY STARS HD - [Channel 403].id",
+		"channel_name": "Buddy Stars HD",
+		"channel_id": "BuddyStarsHD.id"
 	},
 	{
 		"origin": "CBeebies - [Channel 41].id",
@@ -135,14 +140,14 @@
 		"channel_id": "CNA.id"
 	},
 	{
-		"origin": "CINEMACHI - [Channel 7].id",
-		"channel_name": "Cinemachi",
-		"channel_id": "Cinemachi.id"
+		"origin": "CINEEDGE - [Channel 8].id",
+		"channel_name": "Cineedge",
+		"channel_id": "Cineedge.id"
 	},
 	{
-		"origin": "CINEMACHI HD - [Channel 401].id",
-		"channel_name": "Cinemachi",
-		"channel_id": "Cinemachi.id"
+		"origin": "CINEEDGE HD - [Channel 402].id",
+		"channel_name": "Cineedge HD",
+		"channel_id": "CineedgeHD.id"
 	},
 	{
 		"origin": "CINEMACHI ACTION - [Channel 8].id",
@@ -267,7 +272,7 @@
 	{
 		"origin": "GTV HD - [Channel 431].id",
 		"channel_name": "GTV HD",
-		"channel_id": "GTV.id"
+		"channel_id": "GTVHD.id"
 	},
 	{
 		"origin": "History - [Channel 206].id",
@@ -386,8 +391,8 @@
 	},
 	{
 		"origin": "MNCTV HD - [Channel 432].id",
-		"channel_name": "MNCTV",
-		"channel_id": "MNCTV.id"
+		"channel_name": "MNCTV HD",
+		"channel_id": "MNCTVHD.id"
 	},
 	{
 		"origin": "MTV 90's - [Channel 149].id",
@@ -430,7 +435,7 @@
 		"channel_id": "MyKids.id"
 	},
 	{
-		"origin": "NET TV - [Channel 116].id",
+		"origin": "MDTV - [Channel 116].id",
 		"channel_name": "MDTV",
 		"channel_id": "Net.id"
 	},
@@ -501,8 +506,8 @@
 	},
 	{
 		"origin": "RCTI HD - [Channel 430].id",
-		"channel_name": "RCTI",
-		"channel_id": "RCTI.id"
+		"channel_name": "RCTI HD",
+		"channel_id": "RCTIHD.id"
 	},
 	{
 		"origin": "Rock Action - [Channel 248].id",
