@@ -19,11 +19,11 @@ https://www.open-epg.com/files/indonesia5.xml
 indonesia6.xml
 https://www.open-epg.com/files/indonesia6.xml
 
+philippines1.xml
+https://www.open-epg.com/files/philippines1.xml
+
 philippines2.xml
 https://www.open-epg.com/files/philippines2.xml
-
-philippines3.xml
-https://www.open-epg.com/files/philippines3.xml
 
 singapore1.xml
 https://www.open-epg.com/files/singapore1.xml
