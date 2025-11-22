@@ -89,7 +89,7 @@ SamsungTVPlusall.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
 Plex/all.xml.gz
-https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz
+https://i.mjh.nz/Plex/all.xml
 
 france1.xml
 https://www.open-epg.com/files/france1.xml
