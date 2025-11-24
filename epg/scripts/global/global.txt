@@ -1,23 +1,23 @@
 epg_ripper_ID1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
 
-indonesia1.xml
-https://www.open-epg.com/files/indonesia1.xml
-
-indonesia2.xml
-https://www.open-epg.com/files/indonesia2.xml
-
-indonesia3.xml
-https://www.open-epg.com/files/indonesia3.xml
-
-indonesia4.xml
-https://www.open-epg.com/files/indonesia4.xml
+indonesia6.xml
+https://www.open-epg.com/files/indonesia6.xml
 
 indonesia5.xml
 https://www.open-epg.com/files/indonesia5.xml
 
-indonesia6.xml
-https://www.open-epg.com/files/indonesia6.xml
+indonesia4.xml
+https://www.open-epg.com/files/indonesia4.xml
+
+indonesia3.xml
+https://www.open-epg.com/files/indonesia3.xml
+
+indonesia2.xml
+https://www.open-epg.com/files/indonesia2.xml
+
+indonesia1.xml
+https://www.open-epg.com/files/indonesia1.xml
 
 philippines1.xml
 https://www.open-epg.com/files/philippines1.xml
