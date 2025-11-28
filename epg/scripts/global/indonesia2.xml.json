@@ -381,8 +381,8 @@
 	},
 	{
 		"origin": "Net TV.id",
-		"channel_name": "MDTV",
-		"channel_id": "MDTV.id"
+		"channel_name": "MDTV HD",
+		"channel_id": "MDTV.my.id"
 	},
 	{
 		"origin": "NHK World Premium.id",

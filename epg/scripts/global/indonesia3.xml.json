@@ -396,8 +396,8 @@
 	},
 	{
 		"origin": "Net..id",
-		"channel_name": "MDTV",
-		"channel_id": "NET.id"
+		"channel_name": "MDTV HD",
+		"channel_id": "MDTV.my.id"
 	},
 	{
 		"origin": "News Asia",
