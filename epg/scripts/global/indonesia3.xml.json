@@ -281,8 +281,8 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.my.id"
 	},
 	{
 		"origin": "iNews.id",
@@ -346,8 +346,8 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV",
-		"channel_id": "MetroTV.id"
+		"channel_name": "MetroTV",
+		"channel_id": "MetroTV.my.id"
 	},
         {
 		"origin": "MOJI.id",
@@ -416,7 +416,7 @@
 	},
 	{
 		"origin": "Rajawali TV.id",
-		"channel_name": "RTV 🇮🇩",
+		"channel_name": "RTV HD",
 		"channel_id": "RTV.my.id"
 	},
 	{
@@ -446,8 +446,8 @@
 	},
 	{
 		"origin": "SCTV.id",
-		"channel_name": "SCTV",
-		"channel_id": "SCTV.id"
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.my.id"
 	},
 	{
 		"origin": "SEA Today.id",
@@ -486,8 +486,8 @@
 	},
 	{
 		"origin": "Tawaf TV.id",
-		"channel_name": "Tawaf TV",
-		"channel_id": "TawafTV.id"
+		"channel_name": "DMI TV",
+		"channel_id": "DMITV.id"
 	},
 	{
 		"origin": "Thrill.id",
