@@ -241,8 +241,8 @@
 	},
 	{
 		"origin": "GTV.id",
-		"channel_name": "GTV HD",
-		"channel_id": "GTV.HD.id"
+		"channel_name": "GTV",
+		"channel_id": "GTV.id"
 	},
 	{
 		"origin": "Global Trekker.id",
@@ -421,8 +421,8 @@
 	},
 	{
 		"origin": "RCTI.id",
-		"channel_name": "RCTI HD",
-		"channel_id": "RCTI.HD.id"
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
 	},
         {
 		"origin": "Reformed 21.id",
