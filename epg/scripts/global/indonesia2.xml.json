@@ -242,7 +242,7 @@
 	{
 		"origin": "GTV.id",
 		"channel_name": "GTV HD",
-		"channel_id": "GTV.id"
+		"channel_id": "GTV.HD.id"
 	},
 	{
 		"origin": "Global Trekker.id",
@@ -332,7 +332,7 @@
 	{
 		"origin": "MNCTV.id",
 		"channel_name": "MNCTV HD",
-		"channel_id": "MNCTV.id"
+		"channel_id": "MNCTV.HD.id"
 	},
 	{
 		"origin": "Moonbug.id",
@@ -422,7 +422,7 @@
 	{
 		"origin": "RCTI.id",
 		"channel_name": "RCTI HD",
-		"channel_id": "RCTI.id"
+		"channel_id": "RCTI.HD.id"
 	},
         {
 		"origin": "Reformed 21.id",

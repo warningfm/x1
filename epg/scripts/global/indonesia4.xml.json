@@ -272,7 +272,7 @@
 	{
 		"origin": "GTV HD - [Channel 431].id",
 		"channel_name": "GTV HD",
-		"channel_id": "GTVHD.id"
+		"channel_id": "GTV.HD.id"
 	},
 	{
 		"origin": "History - [Channel 206].id",
@@ -301,8 +301,8 @@
 	},
 	{
 		"origin": "IDX HD - [Channel 436].id",
-		"channel_name": "IDX",
-		"channel_id": "IDX.id"
+		"channel_name": "IDX HD",
+		"channel_id": "IDX.HD.id"
 	},
 	{
 		"origin": "IMC - [Channel 14].id",
