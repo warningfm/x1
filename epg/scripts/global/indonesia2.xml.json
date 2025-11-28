@@ -91,7 +91,7 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV ᴴᴰ",
+		"channel_name": "BTV",
 		"channel_id": "BTV.id"
 	},
 	{
@@ -501,8 +501,8 @@
 	},
 	{
 		"origin": "Tawaf.id",
-		"channel_name": "Tawaf TV",
-		"channel_id": "Tawaf.id"
+		"channel_name": "DMI TV",
+		"channel_id": "DMITV.id"
 	},
 	{
 		"origin": "Thrill.id",
