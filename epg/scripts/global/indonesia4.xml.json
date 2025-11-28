@@ -392,7 +392,7 @@
 	{
 		"origin": "MNCTV HD - [Channel 432].id",
 		"channel_name": "MNCTV HD",
-		"channel_id": "MNCTVHD.id"
+		"channel_id": "MNCTV.HD.id"
 	},
 	{
 		"origin": "MTV 90's - [Channel 149].id",
@@ -507,7 +507,7 @@
 	{
 		"origin": "RCTI HD - [Channel 430].id",
 		"channel_name": "RCTI HD",
-		"channel_id": "RCTIHD.id"
+		"channel_id": "RCTI.HD.id"
 	},
 	{
 		"origin": "Rock Action - [Channel 248].id",
