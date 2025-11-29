@@ -79,5 +79,3 @@ Tvup Prd.ph;Tvup Prd.ph
 Uaap Varsity.ph;Uaap Varsity.ph
 Viva.ph;Viva.ph
 Warnertv Hd.ph;Warnertv Hd.ph
-
-In total this list contains: 81 channels

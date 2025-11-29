@@ -1,0 +1,32 @@
+a2z Channel 11.ph;a2z Channel 11.ph
+ANC.ph;ANC.ph
+Animax.ph;Animax.ph
+AXN.ph;AXN.ph
+Celestial Movies Pinoy.ph;Celestial Movies Pinoy.ph
+Cinema One.ph;Cinema One.ph
+Cinemax.ph;Cinemax.ph
+CNN Philippines.ph;CNN Philippines.ph
+Crime Investigation.ph;Crime Investigation.ph
+GEM.ph;GEM.ph
+GMA.ph;GMA.ph
+GTV.ph;GTV.ph
+History.ph;History.ph
+IBC TV 13.ph;IBC TV 13.ph
+Jeepney TV.ph;Jeepney TV.ph
+Kapamilya Channel.ph;Kapamilya Channel.ph
+K-Movies Pinoy.ph;K-Movies Pinoy.ph
+Liga.ph;Liga.ph
+Metro Channel.ph;Metro Channel.ph
+MYX.ph;MYX.ph
+National Geographic.ph;National Geographic.ph
+Net 25.ph;Net 25.ph
+Nickelodeon.ph;Nickelodeon.ph
+PBO.ph;PBO.ph
+PTV.ph;PTV.ph
+Rock Entertainment.ph;Rock Entertainment.ph
+Rock Extreme.ph;Rock Extreme.ph
+Solar Flix.ph;Solar Flix.ph
+Tagalized Movie Channel.ph;Tagalized Movie Channel.ph
+Telenovela Channel.ph;Telenovela Channel.ph
+TV5.ph;TV5.ph
+VIVA Cinema.ph;VIVA Cinema.ph
