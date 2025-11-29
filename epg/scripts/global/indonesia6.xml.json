@@ -177,7 +177,7 @@
 	{
 		"origin": "TRT World.id",
 		"channel_name": "TRT World",
-		"channel_id": "TRT World.id"
+		"channel_id": "TRTWorld.tr.id"
 	},
 	{
 		"origin": "TV5MONDE ASIE.id",
@@ -207,7 +207,7 @@
 	{
 		"origin": "TVRI Sport.id",
 		"channel_name": "TVRI Sport",
-		"channel_id": "TVRI Sport.id"
+		"channel_id": "TVRISport.id"
 	},
         {
 		"origin": "WION.id",
