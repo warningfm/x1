@@ -1,16 +1,13 @@
 Al Jazeera Arabic.id;Al Jazeera Arabic.id
 Al Jazeera English.id;Al Jazeera English.id
 ANIPLUS HD.id;ANIPLUS HD.id
-antv.id;antv.id
 Berita Satu.id;Berita Satu.id
 BTV.id;BTV.id
-CCM (Celestial Classic MV).id;CCM (Celestial Classic MV).id
 CCTV-4.id;CCTV-4.id
-Celestial Movies HD.id;Celestial Movies HD.id
 CGTN Documentary.id;CGTN Documentary.id
 Channel Jowo.id;Channel Jowo.id
 CNA.id;CNA.id
-crema.tv.id;crema.tv.id
+Crema TV.id;Crema TV.id
 DAAI TV.id;DAAI TV.id
 Dance TV.id;Dance TV.id
 DensFood Channel.id;DensFood Channel.id
@@ -21,14 +18,11 @@ DensShowBiz.id;DensShowBiz.id
 DIM TV.id;DIM TV.id
 DW-TV.id;DW-TV.id
 Elshinta TV.id;Elshinta TV.id
-FIGHT SPORTS HD.id;FIGHT SPORTS HD.id
 France 24.id;France 24.id
 FREEDOM.id;FREEDOM.id
 Jak tv.id;Jak tv.id
 KBS Korea.id;KBS Korea.id
 KBS World.id;KBS World.id
-KIX HD.id;KIX HD.id
-Kompas TV.id;Kompas TV.id
 K-PLUS HD.id;K-PLUS HD.id
 Live Streaming 1.id;Live Streaming 1.id
 Magna Channel.id;Magna Channel.id
@@ -37,28 +31,28 @@ Metro TV.id;Metro TV.id
 Motorvision+.id;Motorvision+.id
 My Cinema Asia.id;My Cinema Asia.id
 My Cinema Europe HD.id;My Cinema Europe HD.id
-My Cinema HD.id;My Cinema HD.id
-My Family Channel.id;My Family Channel.id
 My Kidz HD.id;My Kidz HD.id
 NHK WORLD-JAPAN.id;NHK WORLD-JAPAN.id
 Nusantara TV (NTV).id;Nusantara TV (NTV).id
 Quran TV.id;Quran TV.id
-Ramadan Channel.id;Ramadan Channel.id
+Qwest TV.id;Qwest TV.id
 ROCK Action.id;ROCK Action.id
 ROCK Entertainment HD.id;ROCK Entertainment HD.id
 RodjaTV.id;RodjaTV.id
 RTV.id;RTV.id
+Russia Today (RT).id;Russia Today (RT).id
 Stingray Classica.id;Stingray Classica.id
 Sunna TV.id;Sunna TV.id
 TBN.id;TBN.id
-Thrill.id;Thrill.id
 TRT World.id;TRT World.id
 TV5MONDE ASIE.id;TV5MONDE ASIE.id
 TV5MONDE Style HD.id;TV5MONDE Style HD.id
 tvN HD.id;tvN HD.id
 tvN Movies HD.id;tvN Movies HD.id
-tvOne.id;tvOne.id
 TVRI Sport.id;TVRI Sport.id
 TVRI.id;TVRI.id
+wedosports.id;wedosports.id
+wedotvamor.id;wedotvamor.id
+wedotvbig-stories.id;wedotvbig-stories.id
+wedotvmovies.id;wedotvmovies.id
 WION.id;WION.id
-W-Sport.id;W-Sport.id
