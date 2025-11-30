@@ -118,11 +118,8 @@ https://www.open-epg.com/files/saudiarabia1.xml
 saudiarabia3.xml
 https://www.open-epg.com/files/saudiarabia3.xml
 
-uae2.xml
-https://www.open-epg.com/files/uae2.xml
-
-uae3.xml
-https://www.open-epg.com/files/uae3.xml
+uae6.xml
+https://www.open-epg.com/files/uae6.xml
 
 unitedkingdom1.xml
 https://www.open-epg.com/files/unitedkingdom1.xml

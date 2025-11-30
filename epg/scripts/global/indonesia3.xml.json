@@ -291,8 +291,8 @@
 	},
 	{
 		"origin": "JakTV.id",
-		"channel_name": "Jak TV",
-		"channel_id": "JakTV.id"
+		"channel_name": "JakTV",
+		"channel_id": "JakTV.my.id"
 	},
 	{
 		"origin": "Jawa Pos TV.id",
