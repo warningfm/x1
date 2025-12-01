@@ -12,7 +12,7 @@
         {
 		"origin": "ANTV.id",
 		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_id": "ANTV.my.id"
 	},
 	{
 		"origin": "Arirang.id",
@@ -181,12 +181,12 @@
 	},
 	{
 		"origin": "TRANS TV.id",
-		"channel_name": "TransTV",
+		"channel_name": "TRANSTV",
 		"channel_id": "TransTV.my.id"
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans7 HD",
+		"channel_name": "TRANS 7 HD",
 		"channel_id": "Trans7.my.id"
 	},
 	{
@@ -202,6 +202,6 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.my.id"
+		"channel_id": "TVRINasional.id"
 	}
 ]

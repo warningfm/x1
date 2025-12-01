@@ -47,7 +47,7 @@
 	{
 		"origin": "ANTV.id",
 		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_id": "ANTV.my.id"
 	},
 	{
 		"origin": "Animal Planet.id",
@@ -66,8 +66,8 @@
 	},
 	{
 		"origin": "Bali TV.id",
-		"channel_name": "Bali TV",
-		"channel_id": "BaliTV.id"
+		"channel_name": "BaliTV",
+		"channel_id": "BaliTV.my.id"
 	},
 	{
 		"origin": "BTV.id",
@@ -501,12 +501,12 @@
 	},
 	{
 		"origin": "Trans7.id",
-		"channel_name": "Trans7 HD",
+		"channel_name": "TRANS 7 HD",
 		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "TransTV.id",
-		"channel_name": "TransTV",
+		"channel_name": "TRANSTV",
 		"channel_id": "TransTV.my.id"
 	},
 	{
@@ -532,7 +532,7 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRI.my.id"
+		"channel_id": "TVRINasional.id"
 	},
 	{
 		"origin": "UChannel.id",

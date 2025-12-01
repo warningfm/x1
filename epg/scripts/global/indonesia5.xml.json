@@ -1,8 +1,8 @@
 [
 	{
 		"origin": "ANTV.id",
-		"channel_name": "ANTV ᴴᴰ",
-		"channel_id": "ANTV.idn"
+		"channel_name": "antv ᴴᴰ",
+		"channel_id": "antv.idn"
 	},
 	{
 		"origin": "AXN.id",
@@ -126,7 +126,7 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV HD",
+		"channel_name": "METRO TV HD",
 		"channel_id": "MetroTV.my.id"
 	},
 	{
@@ -236,7 +236,7 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional",
+		"channel_name": "TVRI Nasional HD",
 		"channel_id": "TVRINasional.id"
 	},
 	{
