@@ -11,13 +11,13 @@
 	},
 	{
 		"origin": "ANIMALPLANET.ph",
-		"channel_name": "Animal Planet",
-		"channel_id": "AnimalPlanet.id"
+		"channel_name": "Animal Planet ᴴᴰ",
+		"channel_id": "AnimalPlanet.ph"
 	},
 	{
 		"origin": "Animal.Planet.ph",
-		"channel_name": "Animal Planet",
-		"channel_id": "AnimalPlanet.id"
+		"channel_name": "Animal Planet ᴴᴰ",
+		"channel_id": "AnimalPlanet.ph"
 	},
 	{
 		"origin": "ANIMAX.ph",
@@ -91,7 +91,7 @@
 	},
 	{
 		"origin": "DISCOVERYASIA.ph",
-		"channel_name": "Discovery Asia HD",
+		"channel_name": "Discovery Asia",
 		"channel_id": "DiscoveryAsia.id"
 	},
 	{
@@ -106,8 +106,8 @@
 	},
 	{
 		"origin": "EUROSPORT HD.ph",
-		"channel_name": "Eurosport",
-		"channel_id": "Eurosport.id"
+		"channel_name": "Eurosport ᴴᴰ",
+		"channel_id": "Eurosport.ph"
 	},
 	{
 		"origin": "Foodnetwork.Hd.ph",
@@ -121,13 +121,13 @@
 	},
 	{
 		"origin": "Hgtv.Hd.ph",
-		"channel_name": "HGTV Asia",
-		"channel_id": "HGTV.id"
+		"channel_name": "HGTV Asia ᴴᴰ",
+		"channel_id": "HGTV.ph"
 	},
 	{
 		"origin": "HGTV.ph",
-		"channel_name": "HGTV Asia",
-		"channel_id": "HGTV.id"
+		"channel_name": "HGTV Asia ᴴᴰ",
+		"channel_id": "HGTV.ph"
 	},
 	{
 		"origin": "History.Hd.ph",
@@ -136,8 +136,8 @@
 	},
 	{
 		"origin": "Kbs.World.ph",
-		"channel_name": "KBS World",
-		"channel_id": "KBSWorld.id"
+		"channel_name": "KBS World ᴴᴰ",
+		"channel_id": "KBSWorld.ph"
 	},
 	{
 		"origin": "Kix.Hd.ph",
@@ -146,13 +146,13 @@
 	},
 	{
 		"origin": "Lifetime.ph",
-		"channel_name": "Lifetime",
-		"channel_id": "Lifetime.id"
+		"channel_name": "Lifetime ᴴᴰ",
+		"channel_id": "Lifetime.ph"
 	},
 	{
 		"origin": "LIFETIME.ph",
-		"channel_name": "Lifetime",
-		"channel_id": "Lifetime.id"
+		"channel_name": "Lifetime ᴴᴰ",
+		"channel_id": "Lifetime.ph"
 	},
 	{
 		"origin": "OUTDOORCHANNEL.ph",
