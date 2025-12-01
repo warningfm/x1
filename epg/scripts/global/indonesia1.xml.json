@@ -71,8 +71,8 @@
 	},
 	{
 		"origin": "DAAI TV.id",
-		"channel_name": "DAAI TV",
-		"channel_id": "DAAITV.id"
+		"channel_name": "DAAITV",
+		"channel_id": "DAAITV.my.id"
 	},
         {
 		"origin": "Garuda TV.id",
@@ -202,6 +202,6 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRINasional.id"
+		"channel_id": "TVRINasional.my.id"
 	}
 ]

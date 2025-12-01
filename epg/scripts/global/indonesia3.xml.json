@@ -161,8 +161,8 @@
 	},
 	{
 		"origin": "Daai TV.id",
-		"channel_name": "DAAI TV",
-		"channel_id": "DAAITV.id"
+		"channel_name": "DAAITV",
+		"channel_id": "DAAITV.my.id"
 	},
 	{
 		"origin": "DW (English).id",
@@ -450,11 +450,6 @@
 		"channel_id": "SCTV.my.id"
 	},
 	{
-		"origin": "SEA Today.id",
-		"channel_name": "SEA Today",
-		"channel_id": "SEAToday.id"
-	},
-	{
 		"origin": "Seru!.id",
 		"channel_name": "Seru!",
 		"channel_id": "Seru!.id"
@@ -532,7 +527,7 @@
 	{
 		"origin": "TVRI.id",
 		"channel_name": "TVRI Nasional HD",
-		"channel_id": "TVRINasional.id"
+		"channel_id": "TVRINasional.my.id"
 	},
 	{
 		"origin": "UChannel.id",

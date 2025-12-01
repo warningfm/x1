@@ -21,8 +21,8 @@
 	},
 	{
 		"origin": "ANTV - [Channel 115].id",
-		"channel_name": "ANTV",
-		"channel_id": "ANTV.id"
+		"channel_name": "antv ᴴᴰ",
+		"channel_id": "antv.idn"
 	},
 	{
 		"origin": "Arirang - [Channel 351].id",
@@ -136,7 +136,7 @@
 	},
 	{
 		"origin": "Channel News Asia - [Channel 330].id",
-		"channel_name": "CNA HD",
+		"channel_name": "CNA",
 		"channel_id": "CNA.id"
 	},
 	{
