@@ -22,7 +22,7 @@
 	{
 		"origin": "Arirang.id",
 		"channel_name": "Arirang TV",
-		"channel_id": "ArirangTV.kr"
+		"channel_id": "ArirangTV.id"
 	},
 	{
 		"origin": "Asian Food Network.id",
@@ -126,7 +126,7 @@
 	},
 	{
 		"origin": "CNBC Asia.id",
-		"channel_name": "CNBC Asia HD",
+		"channel_name": "CNBC Asia",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
@@ -281,7 +281,7 @@
 	},
 	{
 		"origin": "Indosiar.id",
-		"channel_name": "Indosiar HD",
+		"channel_name": "INDOSIAR HD",
 		"channel_id": "Indosiar.my.id"
 	},
 	{
@@ -291,7 +291,7 @@
 	},
 	{
 		"origin": "JakTV.id",
-		"channel_name": "JakTV",
+		"channel_name": "JAKTV",
 		"channel_id": "JakTV.my.id"
 	},
 	{
@@ -316,8 +316,8 @@
 	},
 	{
 		"origin": "Kompas TV.id",
-		"channel_name": "Kompas TV",
-		"channel_id": "KompasTV.id"
+		"channel_name": "KOMPAS TV HD",
+		"channel_id": "KompasTV.my.id"
 	},
 	{
 		"origin": "Kplus.id",
@@ -346,7 +346,7 @@
 	},
 	{
 		"origin": "Metro TV.id",
-		"channel_name": "Metro TV HD",
+		"channel_name": "METRO TV HD",
 		"channel_id": "MetroTV.my.id"
 	},
         {
