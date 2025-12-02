@@ -591,8 +591,8 @@
 	},
 	{
 		"origin": "Rajawali.TV.id",
-		"channel_name": "RTV",
-		"channel_id": "RTV.id"
+		"channel_name": "RTV HD",
+		"channel_id": "RTV.my.id"
 	},
         {
 		"origin": "RCTI.id",
@@ -651,8 +651,8 @@
 	},
         {
 		"origin": "Tawaf.TV.id",
-		"channel_name": "Tawaf TV",
-		"channel_id": "TawafTV.id"
+		"channel_name": "DMI TV",
+		"channel_id": "DMI.id"
 	},
 	{
 		"origin": "Thrill.id",
@@ -671,7 +671,7 @@
 	},
         {
 		"origin": "TransTV.id",
-		"channel_name": "Trans TV",
+		"channel_name": "TransTV",
 		"channel_id": "TransTV.id"
 	},
 	{
@@ -711,8 +711,8 @@
 	},
         {
 		"origin": "TV.One.id",
-		"channel_name": "tvOne",
-		"channel_id": "TVOne.id"
+		"channel_name": "TVOne HD",
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TV9.NU.id",
@@ -721,8 +721,8 @@
 	},
 	{
 		"origin": "TVRI.id",
-		"channel_name": "TVRI Nasional",
-		"channel_id": "TVRINasional.id"
+		"channel_name": "TVRI N",
+		"channel_id": "TVRIN.id"
 	},
 	{
 		"origin": "Vision.Prime.id",
