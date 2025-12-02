@@ -9,22 +9,22 @@
 		"channel_name": "Al Jazeera English",
 		"channel_id": "AlJazeeraEnglish.id"
 	},
-        {
+    {
 		"origin": "ANIPLUS HD.id",
 		"channel_name": "Aniplus",
 		"channel_id": "Aniplus.id"
 	},
-        {
+    {
 		"origin": "antv.id",
 		"channel_name": "ANTV",
 		"channel_id": "ANTV.id"
 	},
-        {
+    {
 		"origin": "Berita Satu.id",
 		"channel_name": "BeritaSatu",
 		"channel_id": "BeritaSatu.id"
 	},
-        {
+    {
 		"origin": "BTV.id",
 		"channel_name": "BTV ᴴᴰ",
 		"channel_id": "BTV.id"
@@ -54,12 +54,12 @@
 		"channel_name": "DAAI TV",
 		"channel_id": "DAAITV.id"
 	},
-        {
+    {
 		"origin": "DensFood Channel.id",
 		"channel_name": "DENS Food Channel",
 		"channel_id": "DENSFoodChannel.id"
 	},
-        {
+    {
 		"origin": "DensLifeandStyle.id",
 		"channel_name": "DensLifeandStyle",
 		"channel_id": "DensLifeandStyle.id"
@@ -74,7 +74,7 @@
 		"channel_name": "DW (English)",
 		"channel_id": "DWEnglish.de"
 	},
-	 {
+	{
 		"origin": "Elshinta TV.id",
 		"channel_name": "Elshinta TV",
 		"channel_id": "ElshintaTV.id"
@@ -129,27 +129,27 @@
 		"channel_name": "Metro TV",
 		"channel_id": "MetroTV.id"
 	},
-        {
+    {
 		"origin": "My Cinema Asia.id",
 		"channel_name": "My Cinema Asia",
 		"channel_id": "MyCinemaAsia.id"
 	},
-        {
+    {
 		"origin": "My Cinema Europe HD.id",
 		"channel_name": "My Cinema Europe",
 		"channel_id": "MyCinemaEuropeHD.id"
 	},
-        {
+    {
 		"origin": "My Kidz HD.id",
 		"channel_name": "My Kidz",
 		"channel_id": "MyKidz.id"
 	},
-        {
+    {
 		"origin": "Nusantara TV (NTV).id",
 		"channel_name": "Nusantara TV (NTV)",
 		"channel_id": "NusantaraTV(NTV).id"
 	},
-        {
+    {
 		"origin": "RTV.id",
 		"channel_name": "RTV",
 		"channel_id": "RTV.id"
@@ -199,7 +199,7 @@
 		"channel_name": "TVRI Sport",
 		"channel_id": "TVRISport.id"
 	},
-        {
+    {
 		"origin": "WION.id",
 		"channel_name": "WION",
 		"channel_id": "WION.id"
