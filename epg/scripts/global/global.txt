@@ -145,8 +145,8 @@ https://www.open-epg.com/files/turkey1.xml
 turkey2.xml
 https://www.open-epg.com/files/turkey2.xml
 
-thailand.xml
-https://www.open-epg.com/files/thailand.xml
+thailand1.xml
+https://www.open-epg.com/files/thailand1.xml
 
 epg_ripper_MY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
@@ -162,9 +162,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 rtmklik.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-
-sooka.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
 
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
