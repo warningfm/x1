@@ -118,6 +118,9 @@ https://www.open-epg.com/files/saudiarabia1.xml
 saudiarabia3.xml
 https://www.open-epg.com/files/saudiarabia3.xml
 
+epg_ripper_AE1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_AE1.xml.gz
+
 uae6.xml
 https://www.open-epg.com/files/uae6.xml
 
