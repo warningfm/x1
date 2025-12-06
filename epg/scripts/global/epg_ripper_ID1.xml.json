@@ -451,8 +451,8 @@
 	},
 	{
 		"origin": "Metro.TV.id",
-		"channel_name": "Metro TV",
-		"channel_id": "MetroTV.id"
+		"channel_name": "Metro TV HD",
+		"channel_id": "MetroTV.my.id"
 	},
         {
 		"origin": "MNCTV.HD.id",
@@ -562,7 +562,7 @@
 	{
 		"origin": "Nusantara.TV.id",
 		"channel_name": "NusantaraTV",
-		"channel_id": "NTV.id"
+		"channel_id": "Nusantara.TV.id"
 	},
         {
 		"origin": "Outdoor.Channel.id",
@@ -594,6 +594,11 @@
 		"channel_name": "RTV HD",
 		"channel_id": "RTV.my.id"
 	},
+        {
+		"origin": "RTV.id",
+		"channel_name": "RTV HD",
+		"channel_id": "RTV.my.id"
+	},   
         {
 		"origin": "RCTI.id",
 		"channel_name": "RCTI",
@@ -628,6 +633,11 @@
 		"origin": "SCTV.HD.id",
 		"channel_name": "SCTV*",
 		"channel_id": "SCTV.idn"
+	},
+        {
+		"origin": "Sindo.News.TV.id",
+		"channel_name": "Sindo News TV*",
+		"channel_id": "SindoNewsTV.id"
 	},
 	{
 		"origin": "SPOTV.2.HD.id",
@@ -701,8 +711,8 @@
 	},
         {
 		"origin": "tvOne.id",
-		"channel_name": "tvOne",
-		"channel_id": "TVOne.id"
+		"channel_name": "TVOne HD",
+		"channel_id": "tvOne.my.id"
 	},
 	{
 		"origin": "TVOne.id",
