@@ -1,3 +1,5 @@
+-- epg_ripper_ID1 --
+
 ABC.Australia.id
 AJWA.TV.id
 Al.Jazeera.English.id
@@ -32,6 +34,7 @@ beIN.Sports.3.HD.id
 beIN.Sports.3.id
 beIN.SPORTS.4.id
 beIN.SPORTS.5.id
+Berita.Satu.id
 BeritaSatu.id
 Bioskop.Indonesia.id
 Bloomberg.id
@@ -55,6 +58,7 @@ Champions.TV.1.id
 Champions.TV.2.id
 Champions.TV.3.id
 Champions.TV.5.id
+Champions.TV.6.id
 Channel.News.Asia.id
 Chinese.Drama.id
 CINEEDGE.HD.id
@@ -85,6 +89,7 @@ DW.(English).id
 DW.English.id
 Eat.&amp;.Go.id
 Entertainment.id
+Euro.News.id
 Euronews.id
 EURONEWS.id
 FashionTV.id
@@ -111,7 +116,6 @@ HBO.HD.id
 HBO.Hits.HD.id
 HBO.Signature.HD.id
 HGTV.id
-Hip.Hip.Horee!.id
 History.id
 Hits.id
 HITS.id
@@ -129,6 +133,7 @@ Indosiar.id
 iNews.HD.id
 iNews.id
 Insert.id
+Jak.tv.id
 Jaktv.id
 JakTV.id
 JAKTV.id
@@ -148,6 +153,7 @@ Love.Nature.HD.id
 Love.Nature.id
 Makkah.TV.id
 Maxstream.id
+MDTV.id
 Mentari.TV.id
 Metro.TV.id
 MNCTV.HD.id
@@ -236,7 +242,6 @@ Tech.Storm.id
 The.Learning.Channel.HD.-.TLC.id
 Thrill.id
 TLC.id
-Trans.7.id
 Trans7.id
 Trans.TV.id
 TRANS.TV.id
@@ -255,7 +260,6 @@ tvOne.id
 TVOne.id
 TVRI.id
 UChannel.id
-U-Channel.TV.id
 UNIQUES.HD.id
 UNIQUES.id
 Vision.Prime.HD.id
