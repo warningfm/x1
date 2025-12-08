@@ -26,8 +26,8 @@
 	},
 	{
 		"origin": "BTV.id",
-		"channel_name": "BTV",
-		"channel_id": "BTV.id"
+		"channel_name": "BTV HD",
+		"channel_id": "BTV.my.id"
 	},
 	{
 		"origin": "Cinemax.id",
