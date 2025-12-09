@@ -276,12 +276,12 @@
 	},
 	{
 		"origin": "ONE HD (Malay).sg",
-		"channel_name": "ONE HD",
+		"channel_name": "ONE",
 		"channel_id": "OneTVAsia.my.sg"
 	},
 	{
 		"origin": "ONE HD.s",
-		"channel_name": "ONE HD",
+		"channel_name": "ONE",
 		"channel_id": "OneTVAsia.sg"
 	},
 	{
@@ -326,7 +326,7 @@
 	},
 	{
 		"origin": "SPOTV2.sg",
-		"channel_name": "SPOTV 2 HD",
+		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
         {

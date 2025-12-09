@@ -21,12 +21,12 @@
 	},
 	{
 		"origin": "Bein 1.id",
-		"channel_name": "beIN Sports 1 HD",
+		"channel_name": "beIN Sports 1",
 		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "Bein 2.id",
-		"channel_name": "beIN Sports 2 HD",
+		"channel_name": "beIN Sports 2",
 		"channel_id": "beinSports2.id"
 	},
 	{
@@ -171,7 +171,7 @@
 	},
 	{
 		"origin": "SPOTV 2.id",
-		"channel_name": "SPOTV 2 HD",
+		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{

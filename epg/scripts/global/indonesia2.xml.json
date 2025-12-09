@@ -406,7 +406,7 @@
 	},
         {
 		"origin": "One.id",
-		"channel_name": "ONE HD",
+		"channel_name": "ONE",
 		"channel_id": "One.id"
 	},
 	{
@@ -421,8 +421,8 @@
 	},
 	{
 		"origin": "RCTI.id",
-		"channel_name": "RCTI ᴴᴰ",
-		"channel_id": "RCTI.idv"
+		"channel_name": "RCTI",
+		"channel_id": "RCTI.id"
 	},
         {
 		"origin": "Reformed 21.id",
@@ -496,7 +496,7 @@
 	},
 	{
 		"origin": "SpoTV 2.id",
-		"channel_name": "SPOTV 2 HD",
+		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{

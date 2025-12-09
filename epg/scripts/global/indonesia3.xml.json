@@ -41,7 +41,7 @@
 	},
         {
 		"origin": "Animax.id",
-		"channel_name": "Animax HD",
+		"channel_name": "Animax",
 		"channel_id": "AnimaxAsia.id"
 	},
 	{
@@ -51,7 +51,7 @@
 	},
 	{
 		"origin": "Animal Planet.id",
-		"channel_name": "Animal Planet",
+		"channel_name": "Animal Planet HD",
 		"channel_id": "AnimalPlanet.id"
 	},
 	{
@@ -86,7 +86,7 @@
 	},
 	{
 		"origin": "Cartoonito.id",
-		"channel_name": "Cartoonito HD",
+		"channel_name": "Cartoonito",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
@@ -461,7 +461,7 @@
 	},
 	{
 		"origin": "SPOTV 2.id",
-		"channel_name": "SPOTV 2 HD",
+		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{

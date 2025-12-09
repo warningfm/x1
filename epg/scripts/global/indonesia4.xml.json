@@ -106,7 +106,7 @@
 	},
 	{
 		"origin": "CBeebies - [Channel 41].id",
-		"channel_name": "CBeebies HD",
+		"channel_name": "CBeebies",
 		"channel_id": "Cbeebies.id"
 	},
 	{
@@ -436,8 +436,8 @@
 	},
 	{
 		"origin": "MDTV - [Channel 116].id",
-		"channel_name": "MDTV",
-		"channel_id": "Net.id"
+		"channel_name": "MDTV HD",
+		"channel_id": "MDTV.my.id"
 	},
 	{
 		"origin": "NHK World - [Channel 355].id",
@@ -481,12 +481,12 @@
 	},
         {
 		"origin": "ONE - [Channel 164].id",
-		"channel_name": "ONE HD",
+		"channel_name": "ONE",
 		"channel_id": "One.id"
 	},
 	{
 		"origin": "ONE HD - [Channel 445].id",
-		"channel_name": "ONE HD",
+		"channel_name": "ONE",
 		"channel_id": "One.id"
 	},
 	{
@@ -596,12 +596,12 @@
 	},
 	{
 		"origin": "SPOTV 2 - [Channel 308].id",
-		"channel_name": "SPOTV 2 HD",
+		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
 		"origin": "SPOTV 2 HD - [Channel 428].id",
-		"channel_name": "SPOTV 2 HD",
+		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
 	{
@@ -616,8 +616,8 @@
 	},
 	{
 		"origin": "Trans 7 - [Channel 110].id",
-		"channel_name": "Trans 7",
-		"channel_id": "Trans7.id"
+		"channel_name": "Trans 7 HD",
+		"channel_id": "Trans7.my.id"
 	},
 	{
 		"origin": "Trans TV - [Channel 87].id",
@@ -631,7 +631,7 @@
 	},
 	{
 		"origin": "tvN HD - [Channel 446].id",
-		"channel_name": "tvN HD",
+		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{

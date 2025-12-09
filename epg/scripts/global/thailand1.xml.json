@@ -21,12 +21,12 @@
 	},
 	{
 		"origin": "beIN SPORTS 1.th",
-		"channel_name": "beIN Sports 1 HD",
+		"channel_name": "beIN Sports 1",
 		"channel_id": "beinSports1.id"
 	},
 	{
 		"origin": "beIN SPORTS 2.th",
-		"channel_name": "beIN Sports 2 HD",
+		"channel_name": "beIN Sports 2",
 		"channel_id": "beinSports2.id"
 	},
 	{
@@ -36,12 +36,12 @@
 	},
 	{
 		"origin": "Cartoon Network.th",
-		"channel_name": "Cartoon Network",
+		"channel_name": "Cartoon Network HD",
 		"channel_id": "CartoonNetwork.id"
 	},
 	{
 		"origin": "Cartoonito.th",
-		"channel_name": "Cartoonito HD",
+		"channel_name": "Cartoonito",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
