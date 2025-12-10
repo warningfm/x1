@@ -175,6 +175,9 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 astro_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml
 
+sooka.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
+
 unifi_epg.xml
 https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml
 
