@@ -47,11 +47,11 @@
 	{
 		"origin": "ANTV.id",
 		"channel_name": "ANTV",
-		"channel_id": "ANTV.my.id"
+		"channel_id": "ANTV.id"
 	},
 	{
 		"origin": "Animal Planet.id",
-		"channel_name": "Animal Planet HD",
+		"channel_name": "Animal Planet",
 		"channel_id": "AnimalPlanet.id"
 	},
 	{
