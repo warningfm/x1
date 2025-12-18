@@ -94,8 +94,11 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 Plex/all.xml.gz
 https://i.mjh.nz/Plex/all.xml
 
-epg_ripper_PLEX1.xml
+epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
+
+epg_ripper_RAKUTEN1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz
 
 france1.xml
 https://www.open-epg.com/files/france1.xml
