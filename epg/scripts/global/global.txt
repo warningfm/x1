@@ -100,8 +100,8 @@ https://i.mjh.nz/Plex/all.xml
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 
-epg_ripper_RAKUTEN1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz
+rakuten-uk-epg
+https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
 france1.xml
 https://www.open-epg.com/files/france1.xml
@@ -201,9 +201,6 @@ https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
 
 IPTV_tuner_epg.xml
 https://raw.githubusercontent.com/benmoose39/prince-epg-xml/master/IPTV_tuner_epg.xml
-
-rakuten-uk-epg
-https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
 indonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
