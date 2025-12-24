@@ -604,6 +604,16 @@
 		"channel_name": "SPOTV2 HD",
 		"channel_id": "SPOTV2.id"
 	},
+        {
+		"origin": "Studio Universal - [Channel 26].id",
+		"channel_name": "Studio Universal",
+		"channel_id": "StudioUniversal.id"
+	},
+        {
+		"origin": "Studio Universal HD - [Channel 406].id",
+		"channel_name": "Studio Universal HD",
+		"channel_id": "StudioUniversalHD.id"
+	},
 	{
 		"origin": "Tawaf TV - [Channel 105].id",
 		"channel_name": "Tawaf TV",
