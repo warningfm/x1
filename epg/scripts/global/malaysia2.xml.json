@@ -1,6 +1,6 @@
 [
 	{
-		"origin": "ASTRO AWANI.my",
+		"origin": "Astro Awani HD.my",
 		"channel_name": "Astro Awani",
 		"channel_id": "AstroAwani.my"
 	},
@@ -25,7 +25,7 @@
 		"channel_id": "BBCLifestyleAsia.uk"
 	},
 	{
-		"origin": "beIN SPORTS.my",
+		"origin": "beIN SPORTS 1.my",
 		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.id"
 	},
@@ -50,18 +50,18 @@
 		"channel_id": "CCTV4.id"
 	},
 	{
-		"origin": "CGTN HD.my",
-		"channel_name": "CGTN",
-		"channel_id": "CGTN.id"
+		"origin": "CGTN Documentary.my",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
 	},
 	{
 		"origin": "CNA HD.my",
-		"channel_name": "CNA HD",
+		"channel_name": "Channel NewsAsia",
 		"channel_id": "CNA.id"
 	},
 	{
 		"origin": "Drama Hebat.my",
-		"channel_name": "Drama Hebat HD",
+		"channel_name": "Drama Hebat",
 		"channel_id": "DramaHebat.my"
 	},
 	{
@@ -76,7 +76,7 @@
 	},
 	{
 		"origin": "Filem Mantap.my",
-		"channel_name": "Filem Mantap HD",
+		"channel_name": "Filem Mantap",
 		"channel_id": "FilemMantap.my"
 	},
 	{
