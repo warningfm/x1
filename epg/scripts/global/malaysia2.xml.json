@@ -100,12 +100,12 @@
 		"channel_id": "HITSMovies.id"
 	},
 	{
-		"origin": "KPLUS.my",
+		"origin": "K Plus HD.my",
 		"channel_name": "KPlus",
 		"channel_id": "KPlus.sg"
 	},
 	{
-		"origin": "Love Nature HD.my",
+		"origin": "Love Nature.my",
 		"channel_name": "Love Nature Asia",
 		"channel_id": "LoveNature.id"
 	},
@@ -130,22 +130,22 @@
 		"channel_id": "SPOTV2.id"
 	},
 	{
-		"origin": "TV 1.my",
+		"origin": "TV1 HD.my",
 		"channel_name": "TV1",
 		"channel_id": "TV1.my"
 	},
 	{
-		"origin": "TV 2.my",
+		"origin": "TV2 HD.my",
 		"channel_name": "TV2",
 		"channel_id": "TV2.my"
 	},
 	{
-		"origin": "tvN.my",
+		"origin": "tvN HD.my",
 		"channel_name": "tvN",
 		"channel_id": "tvN.id"
 	},
 	{
-		"origin": "tvN Movies.my",
+		"origin": "tvN Movies HD.my",
 		"channel_name": "TVN Movies",
 		"channel_id": "tvNMovies.id"
 	},
