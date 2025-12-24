@@ -21,8 +21,8 @@
 	},
 	{
 		"origin": "ANTV - [Channel 115].id",
-		"channel_name": "antv ᴴᴰ",
-		"channel_id": "antv.idn"
+		"channel_name": "ANTV",
+		"channel_id": "ANTV.id"
 	},
 	{
 		"origin": "Arirang - [Channel 351].id",
@@ -316,8 +316,8 @@
 	},
 	{
 		"origin": "Indosiar HD - [Channel 438].id",
-		"channel_name": "Indosiar",
-		"channel_id": "Indosiar.id"
+		"channel_name": "Indosiar HD",
+		"channel_id": "Indosiar.HD.id"
 	},
 	{
 		"origin": "iNews - [Channel 83].id",
@@ -376,8 +376,8 @@
 	},
 	{
 		"origin": "Moonbug - [Channel 40].id",
-		"channel_name": "Moonbug",
-		"channel_id": "Moonbug.id"
+		"channel_name": "Moonbug Kids",
+		"channel_id": "MoonbugKids.us"
 	},
 	{
 		"origin": "Miao Mi - [Channel 38].id",
@@ -525,9 +525,9 @@
 		"channel_id": "SCTV.id"
 	},
 	{
-		"origin": "SEA TODAY - [Channel 336].id",
-		"channel_name": "SEA Today",
-		"channel_id": "SEAToday.id"
+		"origin": "SCTV HD - [Channel 437].id;SCTV HD - [Channel 437].id",
+		"channel_name": "SCTV HD",
+		"channel_id": "SCTV.HD.id"
 	},
 	{
 		"origin": "Sindo News TV - [Channel 84].id",
@@ -616,8 +616,8 @@
 	},
 	{
 		"origin": "Tawaf TV - [Channel 105].id",
-		"channel_name": "Tawaf TV",
-		"channel_id": "TawafTV.id"
+		"channel_name": "DMI TV",
+		"channel_id": "DMITV.id"
 	},
 	{
 		"origin": "Thrill - [Channel 19].id",
