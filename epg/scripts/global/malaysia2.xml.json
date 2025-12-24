@@ -149,9 +149,14 @@
 		"channel_name": "TVN Movies",
 		"channel_id": "tvNMovies.id"
 	},
-	{
+        {
 		"origin": "W-Sport.my",
 		"channel_name": "W-Sport",
 		"channel_id": "W-Sport.my"
+	},
+	{
+		"origin": "YRF music.my",
+		"channel_name": "YRF Music",
+		"channel_id": "YRF.Music.distro"
 	}
 ]
