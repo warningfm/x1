@@ -50,19 +50,9 @@
 		"channel_id": "CCTV4.id"
 	},
 	{
-		"origin": "CARTOONITO.ph",
-		"channel_name": "Cartoonito",
-		"channel_id": "Cartoonito.sg"
-	},
-	{
-		"origin": "CELESTIAL CLASSIC MOVIES.ph",
-		"channel_name": "Celestial Classic Movies",
-		"channel_id": "CCM.id"
-	},
-	{
-		"origin": "CINEMA WORLD HD.ph",
-		"channel_name": "Cinema World",
-		"channel_id": "Cinema.World.id"
+		"origin": "Channelnews Asia.ph",
+		"channel_name": "Channel NewsAsia",
+		"channel_id": "ChannelNewsAsia.au"
 	},
 	{
 		"origin": "Cnn Hd.ph",
@@ -75,29 +65,14 @@
 		"channel_id": "CrimePlusInvestigation.id"
 	},
 	{
-		"origin": "DEUTSCHEWELLE.ph",
-		"channel_name": "DW (English)",
-		"channel_id": "DWEnglish.de"
-	},
-	{
-		"origin": "DISCOVERY ASIA.ph",
-		"channel_name": "Discovery Asia HD",
-		"channel_id": "DiscoveryAsia.id"
-	},
-	{
 		"origin": "Discovery.ph",
 		"channel_name": "Discovery Channel",
 		"channel_id": "DiscoveryChannel.id"
 	},
 	{
-		"origin": "EURONEWS.ph",
-		"channel_name": "EuroNews English",
-		"channel_id": "EuroNewsEnglish.id"
-	},
-	{
-		"origin": "EUROSPORT HD.ph",
-		"channel_name": "Eurosport",
-		"channel_id": "Eurosport.id"
+		"origin": "Dreamworks Hd.ph",
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
 	},
 	{
 		"origin": "Fashiontv Hd.ph",
@@ -140,19 +115,24 @@
 		"channel_id": "Lotusmacau.Prd.id"
 	},
 	{
-		"origin": "LOVE NATURE HD.ph",
-		"channel_name": "Love Nature Asia",
-		"channel_id": "LoveNature.id"
+		"origin": "Moonbug Kids.ph",
+		"channel_name": "Moonbug Kids",
+		"channel_id": "MoonbugKids.us"
 	},
 	{
-		"origin": "ROCK ACTION HD.ph",
+		"origin": "Blueant Extreme.ph",
 		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
 	},
 	{
-		"origin": "ROCK ENTERTAINMENT HD.ph",
-		"channel_name": "Rock Entertainment",
-		"channel_id": "RockEntertainment.id"
+		"origin": "Onesports.ph",
+		"channel_name": "Onesports",
+		"channel_id": "Onesports.ph"
+	},
+	{
+		"origin": "Onesportsplus Hd.ph",
+		"channel_name": "OneSports Plus",
+		"channel_id": "OnesportsplusHd.ph"
 	},
 	{
 		"origin": "Spotv Hd2.ph",
