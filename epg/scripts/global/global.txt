@@ -46,8 +46,23 @@ https://www.open-epg.com/files/malaysia2.xml
 malaysia3.xml
 https://www.open-epg.com/files/malaysia3.xml
 
-australia3.xml
-https://www.open-epg.com/files/australia3.xml
+thailand1.xml
+https://www.open-epg.com/files/thailand1.xml
+
+epg_ripper_MY1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
+
+epg_ripper_SG1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz
+
+epg_ripper_PH1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz
+
+epg_ripper_PH2.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
+
+epg_ripper_TH1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_TH1.xml.gz
 
 china.xml
 https://www.open-epg.com/files/china.xml
@@ -76,9 +91,6 @@ https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz
 epg_ripper_AU1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz
 
-epg_ripper_SG1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz
-
 australiaepg.xml
 https://i.mjh.nz/au/all/epg.xml
 
@@ -105,6 +117,9 @@ https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 
 rakuten-uk-epg
 https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
+
+australia3.xml
+https://www.open-epg.com/files/australia3.xml
 
 france1.xml
 https://www.open-epg.com/files/france1.xml
@@ -157,26 +172,11 @@ https://www.open-epg.com/files/turkey1.xml
 turkey2.xml
 https://www.open-epg.com/files/turkey2.xml
 
-thailand1.xml
-https://www.open-epg.com/files/thailand1.xml
-
-epg_ripper_MY1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
-
-epg_ripper_SG1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz
-
-epg_ripper_PH1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz
-
-epg_ripper_PH2.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
-
-epg_ripper_TH1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_TH1.xml.gz
-
 epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
+
+IPTV_tuner_epg.xml
+https://raw.githubusercontent.com/benmoose39/prince-epg-xml/master/IPTV_tuner_epg.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
@@ -198,6 +198,3 @@ https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml
 
 starhub.xml
 https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
-
-IPTV_tuner_epg.xml
-https://raw.githubusercontent.com/benmoose39/prince-epg-xml/master/IPTV_tuner_epg.xml
