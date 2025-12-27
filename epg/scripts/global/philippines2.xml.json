@@ -16,8 +16,8 @@
 	},
 	{
 		"origin": "Animax.ph",
-		"channel_name": "Animax HD",
-		"channel_id": "Animax.id"
+		"channel_name": "Animax",
+		"channel_id": "AnimaxAsia.id"
 	},
         {
 		"origin": "Arirang.ph",
@@ -124,6 +124,11 @@
 		"channel_name": "Rock Action",
 		"channel_id": "RockAction.id"
 	},
+        {
+		"origin": "Oneph.ph",
+		"channel_name": "ONE PH",
+		"channel_id": "Oneph.ph"
+	},
 	{
 		"origin": "Onesports.ph",
 		"channel_name": "Onesports",
@@ -143,6 +148,11 @@
 		"origin": "Spotv Hd.ph",
 		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
+	},
+        {
+		"origin": "Taptv.ph",
+		"channel_name": "TapTV",
+		"channel_id": "Taptv.ph"
 	},
 	{
 		"origin": "Tap Sports.ph",

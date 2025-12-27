@@ -129,6 +129,11 @@
 		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
 	},
+        {
+		"origin": "TV Okey HD.my",
+		"channel_name": "TV Okey HD",
+		"channel_id": "TVOkey.my"
+	},
 	{
 		"origin": "TV1 HD.my",
 		"channel_name": "TV1",

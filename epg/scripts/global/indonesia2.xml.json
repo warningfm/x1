@@ -21,7 +21,7 @@
 	},
 	{
 		"origin": "Animax.id",
-		"channel_name": "Animax HD",
+		"channel_name": "Animax",
 		"channel_id": "AnimaxAsia.id"
 	},
 	{
@@ -101,7 +101,7 @@
 	},
         {
 		"origin": "CCM.id",
-		"channel_name": "Celestial Classic Movies",
+		"channel_name": "CCM",
 		"channel_id": "CCM.id"
 	},
         {
