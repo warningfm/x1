@@ -111,7 +111,7 @@
 	},
 	{
 		"origin": "317",
-		"channel_name": "Cartoonito HD",
+		"channel_name": "Cartoonito",
 		"channel_id": "Cartoonito.id"
 	},
 	{
@@ -136,7 +136,7 @@
 	},
 	{
 		"origin": "437",
-		"channel_name": "HGTV HD",
+		"channel_name": "HGTV Asia",
 		"channel_id": "HGTV.id"
 	},
 	{
@@ -151,8 +151,8 @@
 	},
         {
 		"origin": "443",
-		"channel_name": "FashionTV HD",
-		"channel_id": "FashionTV.id"
+		"channel_name": "FashionTV Asia",
+		"channel_id": "FashionTVAsia.fr"
 	},
 	{
 		"origin": "724",
@@ -210,6 +210,11 @@
 		"channel_id": "Cinemax.id"
 	},
 	{
+		"origin": "115",
+		"channel_name": "Citra Entertainment",
+		"channel_id": "CitraEntertainment.id"
+	},
+        {
 		"origin": "707",
 		"channel_name": "CNBC HD",
 		"channel_id": "CNBC.HD.id"
@@ -255,6 +260,11 @@
 		"channel_id": "RockEntertainment.id"
 	},
         {
+		"origin": "131",
+		"channel_name": "Sony MAX",
+		"channel_id": "SonyMAX.in"
+	},
+        {
 		"origin": "209",
 		"channel_name": "SPOTV",
 		"channel_id": "SPOTV.id"
@@ -276,12 +286,12 @@
 	},
 	{
 		"origin": "811",
-		"channel_name": "NHK World Premium HD",
+		"channel_name": "NHK World Premium",
 		"channel_id": "NHKWorldPremium.jp"
 	},
 	{
 		"origin": "812",
-		"channel_name": "NHK WORLD - JAPAN HD",
+		"channel_name": "NHK World Japan",
 		"channel_id": "NHKWorldJapan.jp"
 	},
 	{
