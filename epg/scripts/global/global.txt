@@ -175,9 +175,6 @@ https://www.open-epg.com/files/turkey2.xml
 epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
 
-IPTV_tuner_epg.xml
-https://raw.githubusercontent.com/benmoose39/prince-epg-xml/master/IPTV_tuner_epg.xml
-
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
