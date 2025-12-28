@@ -150,16 +150,6 @@
 		"channel_id": "FightSports.us"
 	},
         {
-		"origin": "FOOD TRAVEL - [Channel 95].id",
-		"channel_name": "Food Travel",
-		"channel_id": "FoodTravel.id"
-	},
-	{
-		"origin": "FMN - [Channel 150].id",
-		"channel_name": "FMN",
-		"channel_id": "FMN.id"
-	},
-	{
 		"origin": "443",
 		"channel_name": "FashionTV HD",
 		"channel_id": "FashionTV.id"
