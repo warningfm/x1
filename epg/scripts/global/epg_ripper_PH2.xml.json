@@ -57,7 +57,7 @@
 	{
 		"origin": "CARTOONITO.ph",
 		"channel_name": "Cartoonito ᴴᴰ",
-		"channel_id": "Cartoonito.sg"
+		"channel_id": "Cartoonito.ph"
 	},
 	{
 		"origin": "CELESTIAL CLASSIC MOVIES.ph",
@@ -116,8 +116,8 @@
 	},
 	{
 		"origin": "Fashiontv.Hd.ph",
-		"channel_name": "FashionTV HD",
-		"channel_id": "FashionTVAsia.fr"
+		"channel_name": "FashionTV HD ᴴᴰ",
+		"channel_id": "FashionTVAsia.ph"
 	},
 	{
 		"origin": "Hgtv.Hd.ph",
@@ -161,13 +161,13 @@
 	},
         {
 		"origin": "Onesports.ph",
-		"channel_name": "One Sports",
+		"channel_name": "Onesports",
 		"channel_id": "Onesports.ph"
 	},
 	{
 		"origin": "Onesportsplus.Hd.ph",
-		"channel_name": "One Sports Plus",
-		"channel_id": "Onesportsplus.Hd.ph"
+		"channel_name": "OneSports Plus",
+		"channel_id": "OnesportsplusHd.ph"
 	},
 	{
 		"origin": "ROCKACTION.ph",
@@ -182,12 +182,12 @@
 	{
 		"origin": "Spotv.Hd2.ph",
 		"channel_name": "SPOTV 2 HD",
-		"channel_id": "SPOTV2.id"
+		"channel_id": "SPOTV2.ph"
 	},
 	{
 		"origin": "Spotv.Hd.ph",
 		"channel_name": "SPOTV HD",
-		"channel_id": "SPOTV.id"
+		"channel_id": "SPOTV.ph"
 	},
 	{
 		"origin": "SPORTSPLUS.ph",
