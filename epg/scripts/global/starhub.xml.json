@@ -1,0 +1,322 @@
+[
+	{
+		"origin": "101",
+		"channel_name": "Preview Channel",
+		"channel_id": "PreviewChannel.sg"
+	},
+	{
+		"origin": "102",
+		"channel_name": "Channel 5 HD",
+		"channel_id": "Channel5.sg"
+	},
+	{
+		"origin": "103",
+		"channel_name": "Channel 8 HD",
+		"channel_id": "Channel8.sg"
+	},
+	{
+		"origin": "104",
+		"channel_name": "Suria HD",
+		"channel_id": "Suria.my"
+	},
+	{
+		"origin": "105",
+		"channel_name": "Vasantham HD",
+		"channel_id": "Vasantham.sg"
+	},
+	{
+		"origin": "106",
+		"channel_name": "Channel News Asia HD",
+		"channel_id": "CNA.sg"
+	},
+	{
+		"origin": "107",
+		"channel_name": "Channel U HD",
+		"channel_id": "ChannelU.sg"
+	},
+	{
+		"origin": "511",
+		"channel_name": "AXN HD",
+		"channel_id": "AXN.id"
+	},
+	{
+		"origin": "407",
+		"channel_name": "BBC Earth Asia",
+		"channel_id": "BBCEarth.id"
+	},
+	{
+		"origin": "422",
+		"channel_name": "Discovery Channel",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "701",
+		"channel_name": "BBC News",
+		"channel_id": "BBCNews.id"
+	},
+	{
+		"origin": "432",
+		"channel_name": "BBC Lifestyle",
+		"channel_id": "BBCLifestyleAsia.uk"
+	},
+	{
+		"origin": "213",
+		"channel_name": "beIN Sports",
+		"channel_id": "beINSports.id"
+	},
+	{
+		"origin": "211",
+		"channel_name": "beIN Sports 2 HD",
+		"channel_id": "beINSports2.id"
+	},
+	{
+		"origin": "214",
+		"channel_name": "beIN Sports 3 HD",
+		"channel_id": "beINSports3.id"
+	},
+        {
+		"origin": "708",
+		"channel_name": "Bloomberg",
+		"channel_id": "Bloomberg.id"
+	},
+	{
+		"origin": "153",
+		"channel_name": "DW English HD",
+		"channel_id": "DWEnglish.de"
+	},
+	{
+		"origin": "447",
+		"channel_name": "ABC Australia",
+		"channel_id": "ABCAustralia.id"
+	},
+        {
+		"origin": "435",
+		"channel_name": "AFN",
+		"channel_id": "AsianFoodNetwork.sg"
+	},
+	{
+		"origin": "303",
+		"channel_name": "CBeebies",
+		"channel_id": "Cbeebies.id"
+	},
+	{
+		"origin": "316",
+		"channel_name": "Cartoon Network",
+		"channel_id": "CartoonNetwork.id"
+	},
+	{
+		"origin": "711",
+		"channel_name": "CNN HD",
+		"channel_id": "CNN.HD.id"
+	},
+	{
+		"origin": "317",
+		"channel_name": "Cartoonito HD",
+		"channel_id": "Cartoonito.id"
+	},
+	{
+		"origin": "722",
+		"channel_name": "CGTN",
+		"channel_id": "CGTN.id"
+	},
+	{
+		"origin": "801",
+		"channel_name": "CCTV-4",
+		"channel_id": "CCTV4.id"
+	},
+	{
+		"origin": "403",
+		"channel_name": "Crime Investigation",
+		"channel_id": "CrimePlusInvestigation.id"
+	},
+	{
+		"origin": "307",
+		"channel_name": "Dreamworks HD",
+		"channel_id": "DreamWorks.id"
+	},
+	{
+		"origin": "437",
+		"channel_name": "HGTV HD",
+		"channel_id": "HGTV.id"
+	},
+	{
+		"origin": "704",
+		"channel_name": "Euronews",
+		"channel_id": "Euronews.id"
+	},
+	{
+		"origin": "241",
+		"channel_name": "Fight Sports",
+		"channel_id": "FightSports.us"
+	},
+        {
+		"origin": "FOOD TRAVEL - [Channel 95].id",
+		"channel_name": "Food Travel",
+		"channel_id": "FoodTravel.id"
+	},
+	{
+		"origin": "FMN - [Channel 150].id",
+		"channel_name": "FMN",
+		"channel_id": "FMN.id"
+	},
+	{
+		"origin": "443",
+		"channel_name": "FashionTV HD",
+		"channel_id": "FashionTV.id"
+	},
+	{
+		"origin": "724",
+		"channel_name": "France 24 English",
+		"channel_id": "France24English.id"
+	},
+	{
+		"origin": "401",
+		"channel_name": "History",
+		"channel_id": "History.id"
+	},
+	{
+		"origin": "519",
+		"channel_name": "HITS",
+		"channel_id": "HITS.id"
+	},
+	{
+		"origin": "512",
+		"channel_name": "HITS Movies",
+		"channel_id": "HITSMovies.id"
+	},
+	{
+		"origin": "513",
+		"channel_name": "HITS Now",
+		"channel_id": "HITSNow.id"
+	},
+	{
+		"origin": "532",
+		"channel_name": "Animax HD",
+		"channel_id": "AnimaxAsia.id"
+	},
+	{
+		"origin": "601",
+		"channel_name": "HBO HD",
+		"channel_id": "HBO.id"
+	},
+	{
+		"origin": "603",
+		"channel_name": "HBO Signature HD",
+		"channel_id": "HBO.Signature.id"
+	},
+	{
+		"origin": "604",
+		"channel_name": "HBO Family HD",
+		"channel_id": "HBO.Family.id"
+	},
+	{
+		"origin": "605",
+		"channel_name": "HBO Hits HD",
+		"channel_id": "HBO.Hits.id"
+	},
+	{
+		"origin": "611",
+		"channel_name": "Cinemax HD",
+		"channel_id": "Cinemax.id"
+	},
+	{
+		"origin": "707",
+		"channel_name": "CNBC HD",
+		"channel_id": "CNBC.HD.id"
+	},
+	{
+		"origin": "704",
+		"channel_name": "Euronews HD",
+		"channel_id": "Euronews.HD.id"
+	},
+	{
+		"origin": "514",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "304",
+		"channel_name": "Nick Jr.",
+		"channel_id": "NickJr.id"
+	},
+	{
+		"origin": "314",
+		"channel_name": "Nickelodeon Asia HD",
+		"channel_id": "Nickelodeon.id"
+	},
+        {
+		"origin": "143",
+		"channel_name": "ANC",
+		"channel_id": "ANC.ph"
+	},
+        {
+		"origin": "144",
+		"channel_name": "The Filipino Channel HD",
+		"channel_id": "TFC.ph"
+	},
+	{
+		"origin": "145",
+		"channel_name": "Cinema One Global",
+		"channel_id": "Cinema.One.ph"
+	},
+        {
+		"origin": "509",
+		"channel_name": "Rock Entertainment",
+		"channel_id": "RockEntertainment.id"
+	},
+        {
+		"origin": "209",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "210",
+		"channel_name": "SPOTV2",
+		"channel_id": "SPOTV2.id"
+	},
+        {
+		"origin": "427",
+		"channel_name": "Travelxp HD",
+		"channel_id": "Travelxp.sg"
+	},
+	{
+		"origin": "824",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
+	},
+	{
+		"origin": "811",
+		"channel_name": "NHK World Premium HD",
+		"channel_id": "NHKWorldPremium.jp"
+	},
+	{
+		"origin": "812",
+		"channel_name": "NHK WORLD - JAPAN HD",
+		"channel_id": "NHKWorldJapan.jp"
+	},
+	{
+		"origin": "815",
+		"channel_name": "KBS World HD",
+		"channel_id": "KBSWorld.kr"
+	},
+	{
+		"origin": "817",
+		"channel_name": "Arirang TV HD",
+		"channel_id": "ArirangTV.kr"
+	},
+	{
+		"origin": "823",
+		"channel_name": "ONE HD",
+		"channel_id": "ONE.id"
+	},
+	{
+		"origin": "868",
+		"channel_name": "Celestial Movies HD",
+		"channel_id": "CelestialMovies.sg"
+	},
+	{
+		"origin": "869",
+		"channel_name": "CCM",
+		"channel_id": "CCM.id"
+	}
+]
