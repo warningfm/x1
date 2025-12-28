@@ -2,7 +2,7 @@
 	{
 		"origin": "ABC Australia.id",
 		"channel_name": "ABC Australia",
-		"channel_id": "ABC.Australia.id"
+		"channel_id": "ABCAustralia.id"
 	},
 	{
 		"origin": "Aljazeera.id",
@@ -81,7 +81,7 @@
 	},
 	{
 		"origin": "Cartoon Network.id",
-		"channel_name": "Cartoon Network HD",
+		"channel_name": "Cartoon Network",
 		"channel_id": "CartoonNetwork.id"
 	},
 	{
