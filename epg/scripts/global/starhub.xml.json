@@ -81,7 +81,7 @@
 	},
 	{
 		"origin": "153",
-		"channel_name": "DW English HD",
+		"channel_name": "DW (English)",
 		"channel_id": "DWEnglish.de"
 	},
 	{
@@ -106,8 +106,8 @@
 	},
 	{
 		"origin": "711",
-		"channel_name": "CNN HD",
-		"channel_id": "CNN.HD.id"
+		"channel_name": "CNN",
+		"channel_id": "CNNInternational.id"
 	},
 	{
 		"origin": "317",
@@ -236,7 +236,7 @@
 	},
 	{
 		"origin": "314",
-		"channel_name": "Nickelodeon Asia HD",
+		"channel_name": "Nickelodeon",
 		"channel_id": "Nickelodeon.id"
 	},
         {
