@@ -111,12 +111,12 @@
 	},
 	{
 		"origin": "CCM - [Channel 22].id",
-		"channel_name": "Celestial Classic Movies",
+		"channel_name": "CCM",
 		"channel_id": "CCM.id"
 	},
 	{
 		"origin": "Celestial Movies - [Channel 20].id",
-		"channel_name": "Celestial Movies",
+		"channel_name": "Celestial Movies [V+]",
 		"channel_id": "CelestialMovies.id"
 	},
 	{

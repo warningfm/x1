@@ -61,8 +61,8 @@
 	},
         {
 		"origin": "309.astro",
-		"channel_name": "Celestial Movies",
-		"channel_id": "CelestialMovies.id"
+		"channel_name": "Celestial Movies (HD)",
+		"channel_id": "CelestialMovies.sg"
 	},
         {
 		"origin": "321.astro",
@@ -116,7 +116,7 @@
 	},
 	{
 		"origin": "516.astro",
-		"channel_name": "CNBC HD",
+		"channel_name": "CNBC Asia",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
