@@ -1,0 +1,302 @@
+[
+	{
+		"origin": "AstroAwani",
+		"channel_name": "Astro Awani",
+		"channel_id": "AstroAwani.my"
+	},
+        {
+		"origin": "ABCAustralia",
+		"channel_name": "ABC Australia",
+		"channel_id": "ABCAustralia.id"
+	},
+        {
+		"origin": "AFN",
+		"channel_name": "AFN",
+		"channel_id": "AsianFoodNetwork.sg"
+	},
+        {
+		"origin": "Animax",
+		"channel_name": "Animax HD",
+		"channel_id": "AnimaxAsia.id"
+	},
+        {
+		"origin": "TVAlhijrah",
+		"channel_name": "Al-Hijrah",
+		"channel_id": "TVAlhijrah.my"
+	},
+	{
+		"origin": "AlJazeeraEnglish",
+		"channel_name": "Al Jazeera English",
+		"channel_id": "AlJazeeraEnglish.id"
+	},
+	{
+		"origin": "AXN",
+		"channel_name": "AXN Asia",
+		"channel_id": "AXN.id"
+	},
+	{
+		"origin": "BBCEarth",
+		"channel_name": "BBC Earth Asia",
+		"channel_id": "BBCEarth.id"
+	},
+	{
+		"origin": "BBCLifestyle",
+		"channel_name": "BBC Lifestyle",
+		"channel_id": "BBCLifestyleAsia.uk"
+	},
+        {
+		"origin": "BBCNews",
+		"channel_name": "BBC News",
+		"channel_id": "BBCNews.id"
+	},
+        {
+		"origin": "BERITARTM",
+		"channel_name": "Berita RTM",
+		"channel_id": "BeritaRTM.my"
+	},
+	{
+		"origin": "beINSports",
+		"channel_name": "beIN Sports",
+		"channel_id": "beINSports1.id"
+	},
+	{
+		"origin": "beINSports2",
+		"channel_name": "beIN Sports 2",
+		"channel_id": "beINSports2.id"
+	},
+	{
+		"origin": "beINSports3",
+		"channel_name": "beIN Sports 3",
+		"channel_id": "beINSports3.id"
+	},
+        {
+		"origin": "BernamaTV",
+		"channel_name": "Bernama",
+		"channel_id": "BernamaTV.my"
+	},
+        {
+		"origin": "BloombergTV",
+		"channel_name": "Bloomberg",
+		"channel_id": "Bloomberg.id"
+	},
+        {
+		"origin": "CartoonNetwork",
+		"channel_name": "Cartoon Network",
+		"channel_id": "CartoonNetwork.id"
+	},
+        {
+		"origin": "CelestialMovies",
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
+	},
+        {
+		"origin": "CNN",
+		"channel_name": "CNN",
+		"channel_id": "CNNInternational.id"
+	},
+        {
+		"origin": "CCM",
+		"channel_name": "CCM",
+		"channel_id": "CCM.id"
+	},
+	{
+		"origin": "CBeebies",
+		"channel_name": "CBeebies HD",
+		"channel_id": "Cbeebies.id"
+	},
+	{
+		"origin": "CCTV4",
+		"channel_name": "CCTV-4",
+		"channel_id": "CCTV4.id"
+	},
+	{
+		"origin": "CGTNDocumentary",
+		"channel_name": "CGTN Documentary",
+		"channel_id": "CGTNDocumentary.id"
+	},
+	{
+		"origin": "CNA",
+		"channel_name": "Channel NewsAsia",
+		"channel_id": "CNA.id"
+	},
+        {
+		"origin": "CrimeInvestigation",
+		"channel_name": "Crime Investigation",
+		"channel_id": "CrimePlusInvestigation.id"
+	},
+        {
+		"origin": "DW",
+		"channel_name": "DW (English)",
+		"channel_id": "DWEnglish.de"
+	},
+        {
+		"origin": "DiscoveryAsia",
+		"channel_name": "Discovery Asia",
+		"channel_id": "DiscoveryAsia.id"
+	},
+	{
+		"origin": "DiscoveryChannel",
+		"channel_name": "Discovery Channel",
+		"channel_id": "DiscoveryChannel.id"
+	},
+	{
+		"origin": "DramaHebat",
+		"channel_name": "Drama Hebat",
+		"channel_id": "DramaHebat.my"
+	},
+	{
+		"origin": "KBSWorld",
+		"channel_name": "KBS World HD",
+		"channel_id": "KBSWorld.kr"
+	},
+	{
+		"origin": "CNBCAsia",
+		"channel_name": "CNBC Asia",
+		"channel_id": "CNBCAsia.id"
+	},
+        {
+		"origin": "France24",
+		"channel_name": "France 24 English",
+		"channel_id": "France24English.fr.id"
+	},
+	{
+		"origin": "FilemMantap",
+		"channel_name": "Filem Mantap",
+		"channel_id": "FilemMantap.my"
+	},
+	{
+		"origin": "GTV.id",
+		"channel_name": "GTV",
+		"channel_id": "GTV.id"
+	},
+        {
+		"origin": "History",
+		"channel_name": "History",
+		"channel_id": "History.id"
+	},
+        {
+		"origin": "HGTV",
+		"channel_name": "HGTV Asia",
+		"channel_id": "HGTV.id"
+	},
+	{
+		"origin": "HITSNow",
+		"channel_name": "HITS Now",
+		"channel_id": "HITSNow.id"
+	},
+	{
+		"origin": "HITS",
+		"channel_name": "HITS",
+		"channel_id": "HITS.id"
+	},
+	{
+		"origin": "HITSMovies",
+		"channel_name": "Hits Movies",
+		"channel_id": "HITSMovies.id"
+	},
+        {
+		"origin": "HBO",
+		"channel_name": "HBO HD",
+		"channel_id": "HBO.id"
+	},
+	{
+		"origin": "HBOFamily",
+		"channel_name": "HBO Family HD",
+		"channel_id": "HBO.Family.id"
+	},
+	{
+		"origin": "HBOHits",
+		"channel_name": "HBO Hits HD",
+		"channel_id": "HBO.Hits.id"
+	},
+	{
+		"origin": "Cinemax",
+		"channel_name": "Cinemax HD",
+		"channel_id": "Cinemax.id"
+	},
+	{
+		"origin": "K-Plus",
+		"channel_name": "KPlus",
+		"channel_id": "KPlus.sg"
+	},
+        {
+		"origin": "Lifetime",
+		"channel_name": "Lifetime",
+		"channel_id": "Lifetime.id"
+	},
+	{
+		"origin": "LoveNature",
+		"channel_name": "Love Nature Asia",
+		"channel_id": "LoveNature.id"
+	},
+	{
+		"origin": "Moonbug",
+		"channel_name": "Moonbug",
+		"channel_id": "USBB11000015Q"
+	},
+	{
+		"origin": "ONE",
+		"channel_name": "ONE HD",
+		"channel_id": "OneTVAsia.sg"
+	},
+	{
+		"origin": "SPOTV",
+		"channel_name": "SPOTV",
+		"channel_id": "SPOTV.id"
+	},
+	{
+		"origin": "SPOTV2",
+		"channel_name": "SPOTV2",
+		"channel_id": "SPOTV2.id"
+	},
+        {
+		"origin": "OKEY",
+		"channel_name": "TV Okey HD",
+		"channel_id": "TVOkey.my"
+	},
+	{
+		"origin": "TV1",
+		"channel_name": "TV1 HD",
+		"channel_id": "TV1.my"
+	},
+	{
+		"origin": "TV2",
+		"channel_name": "TV2 HD",
+		"channel_id": "TV2.my"
+	},
+        {
+		"origin": "TV3",
+		"channel_name": "TV3",
+		"channel_id": "TV3.my"
+	},
+        {
+		"origin": "TV9",
+		"channel_name": "TV9",
+		"channel_id": "TV9.my"
+	},
+	{
+		"origin": "tvN",
+		"channel_name": "tvN",
+		"channel_id": "tvN.id"
+	},
+	{
+		"origin": "tvNMovies",
+		"channel_name": "TVN Movies",
+		"channel_id": "tvNMovies.id"
+	},
+        {
+		"origin": "TLC",
+		"channel_name": "TLC Asia",
+		"channel_id": "TLCSoutheastAsia.sg"
+	},
+        {
+		"origin": "W-Sport",
+		"channel_name": "W-Sport",
+		"channel_id": "W-Sport.my"
+	},
+	{
+		"origin": "VisionPrime.id",
+		"channel_name": "Vision Prime HD",
+		"channel_id": "VisionPrime.id"
+	}
+]
