@@ -1,3 +1,7 @@
+
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
 indonesia6.xml
 https://www.open-epg.com/files/indonesia6.xml
 
@@ -15,12 +19,6 @@ https://www.open-epg.com/files/indonesia2.xml
 
 indonesia1.xml
 https://www.open-epg.com/files/indonesia1.xml
-
-indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-
-epg_ripper_ID1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
 
 philippines1.xml
 https://www.open-epg.com/files/philippines1.xml
@@ -85,9 +83,6 @@ https://www.open-epg.com/files/india5.xml
 epg_ripper_IN1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
 
-epg_ripper_DISTROTV1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz
-
 epg_ripper_AU1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz
 
@@ -114,6 +109,9 @@ https://i.mjh.nz/Plex/all.xml
 
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
+
+epg_ripper_DISTROTV1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz
 
 rakuten-uk-epg
 https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
@@ -174,6 +172,9 @@ https://www.open-epg.com/files/turkey2.xml
 
 epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
+
+indonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
