@@ -216,7 +216,7 @@
 	},
         {
 		"origin": "707",
-		"channel_name": "CNBC HD",
+		"channel_name": "CNBC Asia",
 		"channel_id": "CNBCAsia.id"
 	},
 	{
@@ -311,8 +311,8 @@
 	},
 	{
 		"origin": "868",
-		"channel_name": "Celestial Movies HD",
-		"channel_id": "CelestialMovies.sg"
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
 	},
 	{
 		"origin": "869",

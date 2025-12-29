@@ -36,7 +36,7 @@
 	{
 		"origin": "Animal Planet (HD).sg",
 		"channel_name": "Animal Planet",
-		"channel_id": "AnimalPlanet.id"
+		"channel_id": "AnimalPlanet.sg"
 	},
 	{
 		"origin": "Animax (HD).sg",
@@ -106,27 +106,27 @@
 	{
 		"origin": "beIN SPORTS 2 (HD).sg",
 		"channel_name": "beIN Sports 2 HD",
-		"channel_id": "beINSports2.id"
+		"channel_id": "beINSports2.sg"
 	},
 	{
 		"origin": "beIN SPORTS 3 (HD).sg",
 		"channel_name": "beIN Sports 3 HD",
-		"channel_id": "beINSports3.id"
+		"channel_id": "beINSports3.sg"
 	},
 	{
 		"origin": "beIN SPORTS 4 (HD).sg",
 		"channel_name": "beIN Sports 4 HD",
-		"channel_id": "beINSports4.id"
+		"channel_id": "beINSports4.sg"
 	},
 	{
 		"origin": "beIN SPORTS 5 (HD).sg",
 		"channel_name": "beIN Sports 5 HD",
-		"channel_id": "beINSports5.id"
+		"channel_id": "beINSports5.sg"
 	},
 	{
 		"origin": "beIN SPORTS (HD).sg",
 		"channel_name": "beIN Sports 1 HD",
-		"channel_id": "beINSports1.id"
+		"channel_id": "beINSports1.sg"
 	},
 	{
 		"origin": "beIN SPORTS RUGBY HD.sg",
@@ -161,7 +161,7 @@
 	{
 		"origin": "CCM.sg",
 		"channel_name": "Celestial Classic Movies",
-		"channel_id": "CCM.id"
+		"channel_id": "CCM.sg"
 	},
 	{
 		"origin": "CCTV-4 (HD).sg",
@@ -175,8 +175,8 @@
 	},
 	{
 		"origin": "Celestial Movies (HD).sg",
-		"channel_name": "Celestial Movies",
-		"channel_id": "CelestialMovies.id"
+		"channel_name": "Celestial Movies (HD)",
+		"channel_id": "CelestialMovies.sg"
 	},
 	{
 		"origin": "CM+.sg",
@@ -280,12 +280,12 @@
 	},
 	{
 		"origin": "Discovery Asia (HD).sg",
-		"channel_name": "Discovery Asia HD",
+		"channel_name": "Discovery Asia (HD)",
 		"channel_id": "DiscoveryAsia.sg"
 	},
 	{
 		"origin": "Discovery Channel (HD).sg",
-		"channel_name": "Discovery Channel",
+		"channel_name": "Discovery Channel (HD)",
 		"channel_id": "DiscoveryChannel.sg"
 	},
 	{

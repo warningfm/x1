@@ -61,8 +61,8 @@
 	},
         {
 		"origin": "309.astro",
-		"channel_name": "Celestial Movies HD",
-		"channel_id": "CelestialMovies.sg"
+		"channel_name": "Celestial Movies",
+		"channel_id": "CelestialMovies.id"
 	},
         {
 		"origin": "321.astro",
@@ -96,7 +96,7 @@
 	},
         {
 		"origin": "553.astro",
-		"channel_name": "Discovery Asia HD",
+		"channel_name": "Discovery Asia",
 		"channel_id": "DiscoveryAsia.id"
 	},
 	{
@@ -191,12 +191,12 @@
 	},
         {
 		"origin": "103.astro",
-		"channel_name": "TV3",
-		"channel_id": "TV2.my"
+		"channel_name": "TV3 HD",
+		"channel_id": "TV3.my"
 	},
         {
 		"origin": "149.astro",
-		"channel_name": "TV9",
+		"channel_name": "TV9 HD",
 		"channel_id": "TV9.my"
 	},
 	{

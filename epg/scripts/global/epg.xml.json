@@ -251,7 +251,7 @@
 	},
         {
 		"origin": "OKEY",
-		"channel_name": "TV Okey HD",
+		"channel_name": "TV Okey",
 		"channel_id": "TVOkey.my"
 	},
 	{
@@ -266,12 +266,12 @@
 	},
         {
 		"origin": "TV3",
-		"channel_name": "TV3",
+		"channel_name": "TV3 HD",
 		"channel_id": "TV3.my"
 	},
         {
 		"origin": "TV9",
-		"channel_name": "TV9",
+		"channel_name": "TV9 HD",
 		"channel_id": "TV9.my"
 	},
 	{
