@@ -160,7 +160,7 @@
 	},
 	{
 		"origin": "CCM.sg",
-		"channel_name": "Celestial Classic Movies",
+		"channel_name": "CCM",
 		"channel_id": "CCM.sg"
 	},
 	{
@@ -226,7 +226,7 @@
 	{
 		"origin": "Cinema.One.Global.sg",
 		"channel_name": "Cinema One Global",
-		"channel_id": "CinemaOneGlobal.ph"
+		"channel_id": "Cinema.One.ph"
 	},
 	{
 		"origin": "CINEMAX.(HD).sg",
@@ -795,8 +795,8 @@
 	},
 	{
 		"origin": "The.Filipino.Channel.sg",
-		"channel_name": "The Filipino Channel",
-		"channel_id": "TheFilipinoChannel.ph.sg"
+		"channel_name": "The Filipino Channel HD",
+		"channel_id": "TFC.ph"
 	},
 	{
 		"origin": "Times.Now.sg",
