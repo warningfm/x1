@@ -1,6 +1,6 @@
 [
 	{
-		"origin": "(4K) mio Stadium OD.sg",
+		"origin": "(4K).mio.Stadium.OD.sg",
 		"channel_name": "mio Stadium OD",
 		"channel_id": "mioStadiumOD.sg"
 	},
@@ -10,12 +10,12 @@
 		"channel_id": "mioStadium.sg"
 	},
 	{
-		"origin": "(HD) Outdoor Channel.sg",
+		"origin": "(HD).Outdoor.Channel.sg",
 		"channel_name": "Outdoor Channel HD",
 		"channel_id": "OutdoorChannel.id"
 	},
 	{
-		"origin": "ABC Australia.sg",
+		"origin": "ABC.Australia.sg",
 		"channel_name": "ABC Australia",
 		"channel_id": "ABCAustralia.au.sg"
 	},
@@ -34,17 +34,17 @@
 		"channel_id": "AsianFoodNetwork.sg"
 	},
 	{
-		"origin": "Animal Planet (HD).sg",
-		"channel_name": "Animal Planet (HD)",
-		"channel_id": "AnimalPlanet.sg"
+		"origin": "Animal.Planet.(HD).sg",
+		"channel_name": "Animal Planet ᴴᴰ",
+		"channel_id": "AnimalPlanet.id"
 	},
 	{
-		"origin": "Animax (HD).sg",
+		"origin": "Animax.(HD).sg",
 		"channel_name": "Animax HD",
 		"channel_id": "Animax.id"
 	},
 	{
-		"origin": "ANIPLUS (HD).sg",
+		"origin": "ANIPLUS.HD.sg",
 		"channel_name": "Aniplus",
 		"channel_id": "Aniplus.id"
 	},
@@ -69,12 +69,12 @@
 		"channel_id": "AsianetMovies.in.sg"
 	},
 	{
-		"origin": "Astro Prima HD.sg",
+		"origin": "Astro.Prima.HD.sg",
 		"channel_name": "Astro Prima",
 		"channel_id": "AstroPrima.my.sg"
 	},
 	{
-		"origin": "Astro Ria HD.sg",
+		"origin": "Astro.Ria.HD.sg",
 		"channel_name": "Astro Ria",
 		"channel_id": "AstroRia.my.sg"
 	},
@@ -84,77 +84,77 @@
 		"channel_id": "AstroWarna.my.sg"
 	},
 	{
-		"origin": "AXN (HD).sg",
+		"origin": "AXN.(HD).sg",
 		"channel_name": "AXN Asia",
 		"channel_id": "AXN.id"
 	},
 	{
-		"origin": "BBC Earth (HD).sg",
+		"origin": "BBC.Earth.(HD).sg",
 		"channel_name": "BBC Earth Asia",
 		"channel_id": "BBCEarth.id"
 	},
 	{
-		"origin": "BBC Lifestyle (HD).sg",
+		"origin": "BBC.Lifestyle.(HD).sg",
 		"channel_name": "BBC Lifestyle",
 		"channel_id": "BBCLifestyleAsia.uk.sg"
 	},
 	{
-		"origin": "BBC News.sg",
-		"channel_name": "BBC World News",
-		"channel_id": "BBCWorldNews.id"
+		"origin": "BBC.News.sg",
+		"channel_name": "BBC News",
+		"channel_id": "BBCNews.id"
 	},
 	{
-		"origin": "beIN SPORTS 2 (HD).sg",
+		"origin": "beIN.SPORTS.2.(HD).sg",
 		"channel_name": "beIN Sports 2 HD",
 		"channel_id": "beINSports2.sg"
 	},
 	{
-		"origin": "beIN SPORTS 3 (HD).sg",
+		"origin": "beIN.SPORTS.3.(HD).sg",
 		"channel_name": "beIN Sports 3 HD",
 		"channel_id": "beINSports3.sg"
 	},
 	{
-		"origin": "beIN SPORTS 4 (HD).sg",
+		"origin": "beIN.SPORTS.4.(HD).sg",
 		"channel_name": "beIN Sports 4 HD",
 		"channel_id": "beINSports4.sg"
 	},
 	{
-		"origin": "beIN SPORTS 5 (HD).sg",
+		"origin": "beIN.SPORTS.5.(HD).sg",
 		"channel_name": "beIN Sports 5 HD",
 		"channel_id": "beINSports5.sg"
 	},
 	{
-		"origin": "beIN SPORTS (HD).sg",
+		"origin": "beIN.SPORTS.(HD).sg",
 		"channel_name": "beIN Sports 1 HD",
 		"channel_id": "beINSports1.sg"
 	},
 	{
-		"origin": "beIN SPORTS RUGBY HD.sg",
+		"origin": "beIN.SPORTS.RUGBY.HD.sg",
 		"channel_name": "beIN Sports Rugby",
 		"channel_id": "beINSportsRugby.qa.sg"
 	},
 	{
-		"origin": "Bloomberg Television (HD).sg",
+		"origin": "Bloomberg.Television.(HD).sg",
 		"channel_name": "Bloomberg",
 		"channel_id": "Bloomberg.id"
 	},
 	{
-		"origin": "BRTV International.sg",
+		"origin": "BRTV.International.sg",
 		"channel_name": "BRTV International",
 		"channel_id": "BRTVInternational.sg"
 	},
 	{
-		"origin": "Cartoonito (HD).sg",
-		"channel_name": "Cartoonito (HD)",
+		"origin": "Cartoonito.(HD).sg",
+		"channel_name": "Cartoonito",
 		"channel_id": "Cartoonito.sg"
 	},
 	{
-		"origin": "Cartoon Network (HD).sg",
+		"origin": "Cartoon.Network.(HD).sg",
 		"channel_name": "Cartoon Network (HD)",
 		"channel_id": "CartoonNetwork.sg"
 	},
 	{
-		"origin": "CBeebies (HD).sg",
+		"origin": "CBeebies.(HD).sg",
 		"channel_name": "CBeebies HD",
 		"channel_id": "Cbeebies.id"
 	},
@@ -164,17 +164,17 @@
 		"channel_id": "CCM.sg"
 	},
 	{
-		"origin": "CCTV-4 (HD).sg",
+		"origin": "CCTV-4.(HD).sg",
 		"channel_name": "CCTV-4",
 		"channel_id": "CCTV4.id"
 	},
 	{
-		"origin": "CCTV Entertainment.sg",
+		"origin": "CCTV.Entertainment.sg",
 		"channel_name": "CCTV Entertainment",
 		"channel_id": "CCTVEntertainment.cn.sg"
 	},
 	{
-		"origin": "Celestial Movies (HD).sg",
+		"origin": "Celestial.Movies.(HD).sg",
 		"channel_name": "Celestial Movies (HD)",
 		"channel_id": "CelestialMovies.sg"
 	},
@@ -794,23 +794,23 @@
 		"channel_id": "TestChannel996"
 	},
 	{
-		"origin": "The Filipino Channel.sg",
+		"origin": "The.Filipino.Channel.sg",
 		"channel_name": "The Filipino Channel",
 		"channel_id": "TheFilipinoChannel.ph.sg"
 	},
 	{
-		"origin": "Times Now.sg",
+		"origin": "Times.Now.sg",
 		"channel_name": "Times Now",
 		"channel_id": "TimesNow.sg"
 	},
 	{
-		"origin": "TLC (HD).sg",
+		"origin": "TLC.(HD).sg",
 		"channel_name": "TLC Asia",
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
 	{
-		"origin": "TRACE Sports Stars HD.sg",
-		"channel_name": "RACE Sports Stars HD",
+		"origin": "TRACE.Sports.Stars.HD.sg",
+		"channel_name": "TRACE Sport Stars",
 		"channel_id": "TRACESportsStars.sg"
 	},
 	{
@@ -889,7 +889,7 @@
 		"channel_id": "ZeeThirai.in"
 	},
 	{
-		"origin": "Zoom TV.sg",
+		"origin": "Zoom.TV.sg",
 		"channel_name": "Zoom TV",
 		"channel_id": "ZoomTV.in"
 	},
