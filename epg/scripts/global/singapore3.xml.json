@@ -47,27 +47,27 @@
 	{
 		"origin": "beIN Sports HD.sg",
 		"channel_name": "beIN Sports 1 HD",
-		"channel_id": "beINSports1.id"
+		"channel_id": "beINSports1.sg"
 	},
 	{
 		"origin": "beIN Sports 2 HD.sg",
 		"channel_name": "beIN Sports 2 HD",
-		"channel_id": "beINSports2.id"
+		"channel_id": "beINSports2.sg"
 	},
 	{
 		"origin": "beIN Sports 3.sg",
 		"channel_name": "beIN Sports 3 HD",
-		"channel_id": "beINSports3.id"
+		"channel_id": "beINSports3.sg"
 	},
 	{
 		"origin": "beIN Sports 4.sg",
 		"channel_name": "beIN Sports 4 HD",
-		"channel_id": "beINSports4.id"
+		"channel_id": "beINSports4.sg"
 	},
 	{
 		"origin": "beIN Sports 5.sg",
 		"channel_name": "beIN Sports 5 HD",
-		"channel_id": "beINSports5.id"
+		"channel_id": "beINSports5.sg"
 	},
 	{
 		"origin": "Bloomberg Television HD.sg",
