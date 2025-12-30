@@ -310,7 +310,7 @@
 	},
 	{
 		"origin": "EUROSPORT (HD).sg",
-		"channel_name": "EuroSport",
+		"channel_name": "EuroSport (HD)",
 		"channel_id": "EuroSportUK.uk.sg"
 	},
 	{
@@ -810,7 +810,7 @@
 	},
 	{
 		"origin": "TRACE Sports Stars HD.sg",
-		"channel_name": "RACE Sports Stars HD",
+		"channel_name": "TRACE Sport Stars",
 		"channel_id": "TRACESportsStars.sg"
 	},
 	{
