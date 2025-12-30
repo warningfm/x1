@@ -24,13 +24,13 @@
 		"channel_name": "ABS-CBN News Channel",
 		"channel_id": "ANC.ph.sg"
 	{
-		"origin": "Adithya TV.sg",
+		"origin": "Adithya.TV.sg",
 		"channel_name": "Adithya TV",
 		"channel_id": "AdithyaTV.in.sg"
 	},
 	{
-		"origin": "AFN (HD).sg",
-		"channel_name": "Asian Food Network",
+		"origin": "AFN.(HD).sg",
+		"channel_name": "AFN",
 		"channel_id": "AsianFoodNetwork.sg"
 	},
 	{
@@ -64,7 +64,7 @@
 		"channel_id": "Asianet.in.sg"
 	},
 	{
-		"origin": "Asianet Movies.sg",
+		"origin": "Asianet.Movies.sg",
 		"channel_name": "Asianet Movies",
 		"channel_id": "AsianetMovies.in.sg"
 	},
@@ -224,17 +224,17 @@
 		"channel_id": "ChannelTest.sg"
 	},
 	{
-		"origin": "Cinema One Global.sg",
+		"origin": "Cinema.One.Global.sg",
 		"channel_name": "Cinema One Global",
-		"channel_id": "CinemaOneGlobal.ph.sg"
+		"channel_id": "CinemaOneGlobal.ph"
 	},
 	{
-		"origin": "CINEMAX (HD).sg",
+		"origin": "CINEMAX.(HD).sg",
 		"channel_name": "Cinemax",
 		"channel_id": "CinemaxAsia.sg"
 	},
 	{
-		"origin": "Citra Drama (HD).sg",
+		"origin": "Citra.Drama.(HD).sg",
 		"channel_name": "Citra Drama",
 		"channel_id": "CitraDrama.id"
 	},
@@ -244,12 +244,12 @@
 		"channel_id": "CitraEntertainment.id"
 	},
 	{
-		"origin": "CNBC Asia.sg",
+		"origin": "CNBC.Asia.sg",
 		"channel_name": "CNBC Asia HD",
 		"channel_id": "CNBCAsia.sg"
 	},
 	{
-		"origin": "CNN International (HD).sg",
+		"origin": "CNN.International.(HD).sg",
 		"channel_name": "CNN International",
 		"channel_id": "CNNInternationalAsiaPacific.hk.sg"
 	},
@@ -259,52 +259,52 @@
 		"channel_id": "Colors.in.sg"
 	},
 	{
-		"origin": "Colors Tamil HD.sg",
+		"origin": "Colors.Tamil.HD.sg",
 		"channel_name": "Colors Tamil",
 		"channel_id": "ColorsTamil.in.sg"
 	},
 	{
-		"origin": "Cricket Plus.sg",
+		"origin": "Cricket.Plus.sg",
 		"channel_name": "Cricket Plus",
 		"channel_id": "CricketPlus.sg"
 	},
 	{
-		"origin": "Crime + Investigation™ (HD).sg",
+		"origin": "Crime.+.Investigationâ„¢.(HD).sg",
 		"channel_name": "Crime Investigation",
 		"channel_id": "CrimePlusInvestigationAsia.sg"
 	},
 	{
-		"origin": "CTI Asia (HD).sg",
+		"origin": "CTI.Asia.(HD).sg",
 		"channel_name": "CTI Asia",
 		"channel_id": "CTIAsia.tw.sg"
 	},
 	{
-		"origin": "Discovery Asia (HD).sg",
-		"channel_name": "Discovery Asia (HD)",
+		"origin": "Discovery.Asia.(HD).sg",
+		"channel_name": "Discovery Asia",
 		"channel_id": "DiscoveryAsia.sg"
 	},
 	{
-		"origin": "Discovery Channel (HD).sg",
+		"origin": "Discovery.Channel.(HD).sg",
 		"channel_name": "Discovery Channel (HD)",
 		"channel_id": "DiscoveryChannel.sg"
 	},
 	{
-		"origin": "Dragon TV Intl.sg",
+		"origin": "Dragon.TV.Intl.sg",
 		"channel_name": "Dragon TV",
 		"channel_id": "ShanghaiDragonTV.cn.sg"
 	},
 	{
-		"origin": "Drama Channel.sg",
+		"origin": "Drama.Channel.sg",
 		"channel_name": "Drama Channel",
 		"channel_id": "DramaChannel.id.sg"
 	},
 	{
-		"origin": "DreamWorks (HD).sg",
+		"origin": "DreamWorks.(HD).sg",
 		"channel_name": "Dreamworks HD",
 		"channel_id": "DreamWorks.id"
 	},
 	{
-		"origin": "Deutsche Welle (English).sg",
+		"origin": "Deutsche.Welle.(English).sg",
 		"channel_name": "DW (English)",
 		"channel_id": "DWEnglish.de"
 	},
@@ -879,12 +879,12 @@
 		"channel_id": "ZeeCinema.in"
 	},
 	{
-		"origin": "Zee Tamil.sg",
+		"origin": "Zee.Tamil.sg",
 		"channel_name": "Zee Tamil",
 		"channel_id": "ZeeTamil.in"
 	},
 	{
-		"origin": "Zee Thirai.sg",
+		"origin": "Zee.Thirai.sg",
 		"channel_name": "Zee Thirai",
 		"channel_id": "ZeeThirai.in"
 	},
@@ -894,8 +894,8 @@
 		"channel_id": "ZoomTV.in"
 	},
 	{
-		"origin": "Zee TV.sg",
-		"channel_name": "Zee TV",
+		"origin": "ZEE.TV.sg",
+		"channel_name": "Z TV",
 		"channel_id": "ZeeTV.in"
 	}
 ]
