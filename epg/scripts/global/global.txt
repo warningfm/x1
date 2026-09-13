@@ -5,9 +5,6 @@ https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 india.xml
 https://www.open-epg.com/files/india.xml
 
-epg_ripper_AU1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz
-
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
@@ -32,11 +29,11 @@ https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
 indonesia.xml
 https://www.open-epg.com/files/indonesia.xml
 
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
-
-rtmklik.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 
 sooka.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
