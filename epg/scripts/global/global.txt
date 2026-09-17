@@ -8,8 +8,8 @@ https://www.open-epg.com/files/india.xml
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
-Singtel/epg.xml
-https://i.mjh.nz/Singtel/epg.xml
+DStv/za.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
