@@ -37,11 +37,11 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 mewatch.xml
 https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml
 
+unifi_epg.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
+
 sooka.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
 
 starhub.xml
 https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
-
-unifi_epg.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
