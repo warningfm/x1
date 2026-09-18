@@ -2,8 +2,7 @@
 indonesia.guide.xml
 https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 
-starhub.xml
-https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
+
 
 india.xml
 https://www.open-epg.com/files/india.xml
@@ -18,13 +17,10 @@ us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
 SamsungTVPlus
-https://i.mjh.nz/SamsungTVPlus/all.xml
+https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
-
-rakuten-uk-epg
-https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
 vietnam1.xml
 https://www.open-epg.com/files/vietnam1.xml
@@ -38,11 +34,14 @@ https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
+mewatch.xml
+https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml
+
 sooka.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
 
+starhub.xml
+https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
+
 unifi_epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
-
-mewatch.xml
-https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml
