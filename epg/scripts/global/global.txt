@@ -2,6 +2,9 @@
 indonesia.guide.xml
 https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 
+starhub.xml
+https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
+
 india.xml
 https://www.open-epg.com/files/india.xml
 
@@ -9,7 +12,7 @@ i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
 DStv/za.xml
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml
+https://i.mjh.nz/DStv/za.xml.gz
 
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
@@ -23,8 +26,8 @@ https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 rakuten-uk-epg
 https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml
 
-epg_ripper_ALJAZEERA1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
+vietnam1.xml
+https://www.open-epg.com/files/vietnam1.xml
 
 indonesia.xml
 https://www.open-epg.com/files/indonesia.xml
@@ -43,6 +46,3 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
 
 mewatch.xml
 https://raw.githubusercontent.com/dbghelp/mewatch-EPG/main/mewatch.xml
-
-starhub.xml
-https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
