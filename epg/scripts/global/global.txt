@@ -13,9 +13,6 @@ https://i.mjh.nz/DStv/za.xml.gz
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
-epg_ripper_PLEX1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
-
 epg_ripper_PH2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
 
@@ -27,6 +24,9 @@ https://www.open-epg.com/files/indonesia.xml
 
 epg_ripper_ID1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
+epg_ripper_PLEX1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
