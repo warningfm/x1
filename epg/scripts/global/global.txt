@@ -13,6 +13,9 @@ https://i.mjh.nz/DStv/za.xml.gz
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
+nz/epg.xml.gz
+https://i.mjh.nz/nz/epg.xml.gz
+
 epg_ripper_PH2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
 
