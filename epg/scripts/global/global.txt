@@ -13,9 +13,6 @@ https://i.mjh.nz/DStv/za.xml.gz
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
-SamsungTVPlus
-https://i.mjh.nz/SamsungTVPlus/all.xml.gz
-
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 
@@ -45,3 +42,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
 
 starhub.xml
 https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
+
+SamsungTVPlus
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml
