@@ -19,6 +19,9 @@ https://i.mjh.nz/nz/epg.xml.gz
 epg_ripper_PH2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
 
+unitedkingdom.xml
+https://www.open-epg.com/files/unitedkingdom.xml
+
 vietnam1.xml
 https://www.open-epg.com/files/vietnam1.xml
 
