@@ -165,12 +165,12 @@
 		"channel_id": "DENSFoodChannel.id"
 	},
 	{
-		"origin": "DensShowbiz.id;Dens Showbiz.id",
+		"origin": "DensShowbiz.id",
 		"channel_name": "DENS Showbiz Channel",
 		"channel_id": "DENSShowbizzChannel.id"
 	},
     {
-		"origin": "Dreamworks.id;Dreamworks.id",
+		"origin": "Dreamworks.id",
 		"channel_name": "Dreamworks HD",
 		"channel_id": "DreamWorks.id"
 	},
@@ -330,12 +330,12 @@
 		"channel_id": "LoveNature.id"
 	},
     {
-		"origin": "MentariTV.id;Mentari TV.id",
+		"origin": "MentariTV.id",
 		"channel_name": "Mentari TV",
 		"channel_id": "MentariTV.id"
 	},
     {
-		"origin": "MetroTV.id;Metro TV.id",
+		"origin": "MetroTV.id",
 		"channel_name": "Metro TV HD",
 		"channel_id": "MetroTV.my.id"
 	},
