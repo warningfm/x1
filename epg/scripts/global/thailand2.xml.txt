@@ -1,0 +1,76 @@
+3BB Asian.th;3BB Asian.th
+3HD.th;3HD.th
+A'lure Channel.th;A'lure Channel.th
+Al Jazeera English HD.th;Al Jazeera English HD.th
+ALTV.th;ALTV.th
+AmarinTV HD.th;AmarinTV HD.th
+Animal Show.th;Animal Show.th
+Asian Food Network.th;Asian Food Network.th
+BBC News.th;BBC News.th
+Bloomberg.th;Bloomberg.th
+Boomerang (Thai).th;Boomerang (Thai).th
+Cartoon Network.th;Cartoon Network.th
+Cartoonito.th;Cartoonito.th
+CCTV 4.th;CCTV 4.th
+CGTN.th;CGTN.th
+CH7 HD.th;CH7 HD.th
+CH8.th;CH8.th
+Cinemax.th;Cinemax.th
+CNA.th;CNA.th
+CNN INTERNATIONNAL.th;CNN INTERNATIONNAL.th
+Discovery Channel.th;Discovery Channel.th
+DLTV 1.th;DLTV 1.th
+DLTV 10.th;DLTV 10.th
+DLTV 11.th;DLTV 11.th
+DLTV 12.th;DLTV 12.th
+DLTV 13.th;DLTV 13.th
+DLTV 14.th;DLTV 14.th
+DLTV 15.th;DLTV 15.th
+DLTV 2.th;DLTV 2.th
+DLTV 3.th;DLTV 3.th
+DLTV 4.th;DLTV 4.th
+DLTV 5.th;DLTV 5.th
+DLTV 6.th;DLTV 6.th
+DLTV 7.th;DLTV 7.th
+DLTV 8.th;DLTV 8.th
+DLTV 9.th;DLTV 9.th
+ETV.th;ETV.th
+EUROSPORT.th;EUROSPORT.th
+Food Network.th;Food Network.th
+GMM 25.th;GMM 25.th
+Golf Channel Thailand HD Plus.th;Golf Channel Thailand HD Plus.th
+HBO Family.th;HBO Family.th
+HBO Hits.th;HBO Hits.th
+HBO Signature.th;HBO Signature.th
+HBO.th;HBO.th
+Hunan TV HD.th;Hunan TV HD.th
+JKN 18.th;JKN 18.th
+Mangorn.th;Mangorn.th
+MCOT HD.th;MCOT HD.th
+MONO 29 Music Station.th;MONO 29 Music Station.th
+Mono29 Plus.th;Mono29 Plus.th
+MONOMAX SPORTS.th;MONOMAX SPORTS.th
+Nation TV.th;Nation TV.th
+NBT.th;NBT.th
+NHK WORLD-JAPAN.th;NHK WORLD-JAPAN.th
+Nick Jr..th;Nick Jr..th
+Nickelodeon.th;Nickelodeon.th
+ONE31 HD.th;ONE31 HD.th
+PPTV HD.th;PPTV HD.th
+Rock Action.th;Rock Action.th
+Rock Entertainment.th;Rock Entertainment.th
+RUSH Stories.th;RUSH Stories.th
+Samrujlok.th;Samrujlok.th
+T Sports 7.th;T Sports 7.th
+Thainess.th;Thainess.th
+ThaiPBS.th;ThaiPBS.th
+Thairath TV.th;Thairath TV.th
+TLC.th;TLC.th
+TNN16.th;TNN16.th
+TPTV.th;TPTV.th
+True4U.th;True4U.th
+TV5 HD.th;TV5 HD.th
+W-Sport.th;W-Sport.th
+Warner TV.th;Warner TV.th
+Workpoint.th;Workpoint.th
+Yunnan International.th;Yunnan International.th
