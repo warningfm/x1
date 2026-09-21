@@ -16,8 +16,8 @@ https://i.mjh.nz/PlutoTV/us.xml
 nz/epg.xml.gz
 https://i.mjh.nz/nz/epg.xml.gz
 
-epg_ripper_PH2.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz
+thailand2.xml
+https://www.open-epg.com/files/thailand2.xml
 
 unitedkingdom.xml
 https://www.open-epg.com/files/unitedkingdom.xml
