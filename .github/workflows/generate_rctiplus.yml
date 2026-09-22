@@ -9,8 +9,8 @@ on:
       - main
     paths:
       - '.github/workflows/generate_rctiplus.yml'
-      - 'generate_rctiplus.py'
-      - 'merge_playlists.py'
+      - 'script/generate_rctiplus.py'
+      - 'script/merge_playlists.py'
 
 permissions:
   contents: write
@@ -46,7 +46,7 @@ jobs:
       - name: Generate RCTI+ Playlists
         run: python generate_rctiplus.py
 
-      - name: Merge to vs1.m3u
+      - name: Merge to vs1.m3u8
         run: python merge_playlists.py
           
       - name: Commit and Push (Keep History Clean)
