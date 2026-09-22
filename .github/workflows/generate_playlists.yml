@@ -9,8 +9,8 @@ on:
       - main
     paths:
       - '.github/workflows/generate_playlists.yml'
-      - 'generate_playlists.py'
-      - 'requirements.txt'
+      - 'script/generate_playlists.py'
+      - 'script/requirements.txt'
 
 permissions:
   contents: write
