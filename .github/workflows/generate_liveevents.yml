@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
     paths:
       - '.github/workflows/generate_liveevents.yml'
       - 'generate_liveevents.py'
