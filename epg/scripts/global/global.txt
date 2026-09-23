@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 india.xml
 https://www.open-epg.com/files/india.xml
 
+in.xml.gz
+https://i.mjh.nz/SamsungTVPlus/in.xml.gz
+
 i.mjh.nz.xml
 https://i.mjh.nz/all/epg.xml
 
