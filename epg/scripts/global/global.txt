@@ -1,6 +1,9 @@
 indonesia.guide.xml
 https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+
 india.xml
 https://www.open-epg.com/files/india.xml
 
