@@ -549,12 +549,12 @@
 		"channel_name": "Outdoor Channel",
 		"channel_id": "OutdoorChannel.id"
 	},
-        {
+    {
 		"origin": "SONE.id",
 		"channel_name": "ONE HD",
 		"channel_id": "One.id"
 	},
-        {
+    {
 		"origin": "ONE.id",
 		"channel_name": "ONE HD",
 		"channel_id": "One.id"
@@ -571,8 +571,8 @@
 	},
     {
 		"origin": "RTV.id",
-		"channel_name": "RTV HD",
-		"channel_id": "RTV.my.id"
+		"channel_name": "RTV",
+		"channel_id": "RTV.id"
 	},   
     {
 		"origin": "RCTI.id",
@@ -676,8 +676,8 @@
 	},
  	{
 		"origin": "TVOne.id",
-		"channel_name": "tvOne HD",
-		"channel_id": "TVOne.id"
+		"channel_name": "TVOne HD",
+		"channel_id": "tvOne.my.id"
 	},
    	{
 		"origin": "TV9.NU.id",
