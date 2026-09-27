@@ -294,7 +294,7 @@
 		"channel_name": "Flik",
 		"channel_id": "Flik.id"
 	},
-        {
+    {
 		"origin": "Food.Travel.HD.id",
 		"channel_name": "Food Travel",
 		"channel_id": "FoodTravel.id"
@@ -314,7 +314,7 @@
 		"channel_name": "France 24 English",
 		"channel_id": "France24English.fr.id"
 	},
-        {
+    {
 		"origin": "Galaxy.id",
 		"channel_name": "Galaxy",
 		"channel_id": "Galaxy.id"
@@ -339,12 +339,12 @@
 		"channel_name": "GTV",
 		"channel_id": "GTV.id"
 	},
-        {
+    {
 		"origin": "GTV.id",
 		"channel_name": "GTV",
 		"channel_id": "GTV.id"
 	},
-        {
+    {
 		"origin": "Hanacaraka.TV.id",
 		"channel_name": "Hanacaraka TV",
 		"channel_id": "HanacarakaTV.id"
@@ -364,7 +364,7 @@
 		"channel_name": "Horee",
 		"channel_id": "Horee.id"
 	},
-        {
+    {
 		"origin": "HIts.Movie.id",
 		"channel_name": "Hits Movies",
 		"channel_id": "HitsMovies.id"
@@ -389,7 +389,7 @@
 		"channel_name": "iNews",
 		"channel_id": "iNews.id"
 	},
-        {
+    {
 		"origin": "Indosiar.HD.id",
 		"channel_name": "Indosiar*",
 		"channel_id": "Indosiar.id"
@@ -569,12 +569,12 @@
 		"channel_name": "RTV HD",
 		"channel_id": "RTV.my.id"
 	},
-        {
+    {
 		"origin": "RTV.id",
 		"channel_name": "RTV HD",
 		"channel_id": "RTV.my.id"
 	},   
-        {
+    {
 		"origin": "RCTI.id",
 		"channel_name": "RCTI",
 		"channel_id": "RCTI.id"
@@ -604,12 +604,12 @@
 		"channel_name": "SCTV",
 		"channel_id": "SCTV.id"
 	},
-        {
+    {
 		"origin": "SCTV.HD.id",
 		"channel_name": "SCTV*",
 		"channel_id": "SCTV.idn"
 	},
-        {
+    {
 		"origin": "Sindo.News.TV.id",
 		"channel_name": "Sindo News TV*",
 		"channel_id": "SindoNewsTV.id"
@@ -624,7 +624,7 @@
 		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
-        {
+    {
 		"origin": "SPOTV.2.id",
 		"channel_name": "SPOTV 2 HD",
 		"channel_id": "SPOTV2.id"
@@ -634,7 +634,7 @@
 		"channel_name": "SPOTV HD",
 		"channel_id": "SPOTV.id"
 	},
-        {
+    {
 		"origin": "Tawaf.TV.id",
 		"channel_name": "DMI TV",
 		"channel_id": "DMI.id"
@@ -644,12 +644,12 @@
 		"channel_name": "Thrill",
 		"channel_id": "Thrill.id"
 	},
-        {
+    {
 		"origin": "The.Learning.Channel.HD.-.TLC.id",
 		"channel_name": "TLC Asia",
 		"channel_id": "TLCSoutheastAsia.sg"
 	},
-        {
+    {
 		"origin": "TLC.id",
 		"channel_name": "TLC Asia",
 		"channel_id": "TLCSoutheastAsia.sg"
