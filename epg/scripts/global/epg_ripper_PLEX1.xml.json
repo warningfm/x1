@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "plex.tv.Action.Hollywood.Movies.plex",
+    "channel_name": "Action Hollywood Movies",
+    "channel_id": "Action.Hollywood.Movies.au"
+  },
+  {
+    "origin": "plex.tv.BBC.Earth.plex",
+    "channel_name": "BBC Earth",
+    "channel_id": "BBC.Earth.au"
+  },
+  {
+    "origin": "plex.tv.beIN.Sports.Xtra.en.EspaÃ±ol.plex",
+    "channel_name": "beIN Sports Xtra en Español",
+    "channel_id": "beIN.Sports.Xtra.en.EspaÃ±ol.au"
+  },
+  {
+    "origin": "plex.tv.beIN.SPORTS.XTRA.plex",
+    "channel_name": "beIN SPORTS Xtra",
+    "channel_id": "beIN.SPORTS.XTRA.au"
+  },
+  {
+    "origin": "plex.tv.Bloomberg.TV.plex",
+    "channel_name": "Bloomberg TV",
+    "channel_id": "Bloomberg.TV.au"
+  },
+  {
+    "origin": "plex.tv.CNN.Headlines.plex",
+    "channel_name": "CNN Headlines",
+    "channel_id": "CNN.Headlines.au"
+  },
+  {
+    "origin": "plex.tv.CNN.Originals.plex",
+    "channel_name": "CNN Originals",
+    "channel_id": "CNN.Originals.au"
+  },
+  {
+    "origin": "plex.tv.Curiosity.NOW.plex",
+    "channel_name": "Curiosity NOW",
+    "channel_id": "Curiosity.NOW.au"
+  },
+  {
+    "origin": "plex.tv.Discovery.Turbo.TV.plex",
+    "channel_name": "Discovery Turbo TV",
+    "channel_id": "Discovery.Turbo.TV.au"
+  },
+  {
+    "origin": "plex.tv.Euronews.plex",
+    "channel_name": "Euronews",
+    "channel_id": "Euronews.au"
+  },
+  {
+    "origin": "plex.tv.FashionTV.plex",
+    "channel_name": "FashionTV Original",
+    "channel_id": "plex.tv.FashionTV.plex"
+  },
+  {
+    "origin": "plex.tv.FOX.Sports.plex",
+    "channel_name": "FOX Sports",
+    "channel_id": "FOX.Sports.au"
+  }
+]
