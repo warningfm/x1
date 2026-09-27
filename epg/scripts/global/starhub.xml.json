@@ -149,7 +149,7 @@
 		"channel_name": "Fight Sports",
 		"channel_id": "FightSports.us"
 	},
-        {
+    {
 		"origin": "443",
 		"channel_name": "FashionTV Asia",
 		"channel_id": "FashionTVAsia.fr"
@@ -214,7 +214,7 @@
 		"channel_name": "Citra Entertainment",
 		"channel_id": "CitraEntertainment.id"
 	},
-        {
+    {
 		"origin": "707",
 		"channel_name": "CNBC Asia",
 		"channel_id": "CNBCAsia.id"
@@ -239,12 +239,12 @@
 		"channel_name": "Nickelodeon",
 		"channel_id": "Nickelodeon.id"
 	},
-        {
+    {
 		"origin": "143",
 		"channel_name": "ANC",
 		"channel_id": "ANC.ph"
 	},
-        {
+    {
 		"origin": "144",
 		"channel_name": "The Filipino Channel HD",
 		"channel_id": "TFC.ph"
@@ -254,27 +254,27 @@
 		"channel_name": "Cinema One Global",
 		"channel_id": "Cinema.One.ph"
 	},
-        {
+    {
 		"origin": "509",
 		"channel_name": "Rock Entertainment",
 		"channel_id": "RockEntertainment.id"
 	},
-        {
+    {
 		"origin": "131",
 		"channel_name": "Sony MAX",
 		"channel_id": "SonyMAX.in"
 	},
-        {
+    {
 		"origin": "209",
 		"channel_name": "SPOTV",
 		"channel_id": "SPOTV.id"
 	},
 	{
 		"origin": "210",
-		"channel_name": "SPOTV2",
+		"channel_name": "SPOTV 2",
 		"channel_id": "SPOTV2.id"
 	},
-        {
+    {
 		"origin": "427",
 		"channel_name": "Travelxp HD",
 		"channel_id": "Travelxp.sg"
