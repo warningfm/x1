@@ -1,9 +1,6 @@
 indonesia.guide.xml
 https://raw.githubusercontent.com/apistech/project/main/epgs/guide.xml
 
-epg_ripper_ID1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
-
 epg_ripper_IN1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
 
@@ -36,6 +33,9 @@ https://www.open-epg.com/files/vietnam1.xml
 
 indonesia.xml
 https://www.open-epg.com/files/indonesia.xml
+
+epg_ripper_ID1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
 
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
