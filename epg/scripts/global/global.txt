@@ -17,8 +17,8 @@ https://i.mjh.nz/DStv/za.xml.gz
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
-nz/epg.xml.gz
-https://i.mjh.nz/nz/epg.xml.gz
+nzau/epg.xml.gz
+https://i.mjh.nz/nzau/epg.xml.gz
 
 thailand2.xml
 https://www.open-epg.com/files/thailand2.xml
