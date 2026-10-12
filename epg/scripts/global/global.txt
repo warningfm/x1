@@ -5,6 +5,9 @@ https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
 india.xml
 https://www.open-epg.com/files/india.xml
 
+australia.xml.gz
+https://www.open-epg.com/files/australia.xml.gz
+
 in.xml.gz
 https://i.mjh.nz/SamsungTVPlus/in.xml.gz
 
