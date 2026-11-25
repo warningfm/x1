@@ -32,8 +32,8 @@ https://www.open-epg.com/files/thailand2.xml
 unitedkingdom.xml
 https://www.open-epg.com/files/unitedkingdom.xml
 
-vietnam1.xml
-https://www.open-epg.com/files/vietnam1.xml
+vietnam.xml
+https://www.open-epg.com/files/vietnam.xml
 
 indonesia.xml
 https://www.open-epg.com/files/indonesia.xml
