@@ -1,0 +1,111 @@
+3BBAsian.th;3BB Asian.th
+3HD.th;3HD.th
+7HD.th;7HD.th
+AFC.th;AFC.th
+ALureChannel.th;A'lure Channel.th
+AmarinTV.th;AmarinTV.th
+ARIRANG.th;ARIRANG.th
+AsianFoodNetwork.th;Asian Food Network.th
+AXN.th;AXN.th
+BBCLIFE.th;BBC LIFE.th
+BBCNEWS.th;BBC NEWS.th
+BEIN1.th;BEIN1.th
+BEIN2.th;BEIN2.th
+BEIN3.th;BEIN3.th
+Bloomberg.th;Bloomberg.th
+Boomerang.th;Boomerang.th
+CARTOONNET.th;CARTOON NET.th
+CCTV4.th;CCTV 4.th
+CELESTIAL.th;CELESTIAL.th
+CGTN.th;CGTN.th
+CH7.th;CH7.th
+CH8.th;CH8.th
+CI.th;CI.th
+Cinemax.th;Cinemax.th
+CNBC.th;CNBC.th
+CNN.th;CNN.th
+CNNINTERNATIONNAL.th;CNN INTERNATIONNAL.th
+DISCHDW.th;DISC HDW.th
+DiscoveryChannel.th;Discovery Channel.th
+DLTV1.th;DLTV 1.th
+DLTV10.th;DLTV 10.th
+DLTV11.th;DLTV 11.th
+DLTV12.th;DLTV 12.th
+DLTV13.th;DLTV 13.th
+DLTV14.th;DLTV 14.th
+DLTV15.th;DLTV 15.th
+DLTV2.th;DLTV 2.th
+DLTV3.th;DLTV 3.th
+DLTV4.th;DLTV 4.th
+DLTV9.th;DLTV 9.th
+DREAMWORKS.th;DREAMWORKS.th
+DWE.th;DWE.th
+ETV.th;ETV.th
+EUROSPORT.th;EUROSPORT.th
+FoodNetwork.th;Food Network.th
+FOODNW.th;FOOD NW.th
+GMM.th;GMM.th
+GMM25.th;GMM 25.th
+GOLFPLUS.th;GOLF PLUS.th
+HBO.th;HBO.th
+HBOFamily.th;HBO Family.th
+HBOHits.th;HBO Hits.th
+HBOSignature.th;HBO Signature.th
+HISTORY.th;HISTORY.th
+HunanTV.th;Hunan TV.th
+KBS.th;KBS.th
+LIFETIME.th;LIFETIME.th
+MCOT.th;MCOT.th
+MONO.th;MONO.th
+Mono29.th;Mono 29.th
+MONO29MusicStation.th;MONO 29 Music Station.th
+Mono29Plus.th;Mono29 Plus.th
+MONOMAXSPORTS.th;MONOMAX SPORTS.th
+NationTV.th;Nation TV.th
+NHKPREMIUM.th;NHK PREMIUM.th
+NICKJR.th;NICK JR.th
+ONE.th;ONE.th
+ONE31.th;ONE31.th
+PHOENIX.th;PHOENIX.th
+PPTV.th;PPTV.th
+REALITY.th;REALITY.th
+RockEntertainment.th;Rock Entertainment.th
+RTLENT.th;RTL ENT.th
+RUSHStories.th;RUSH Stories.th
+Samrujlok.th;Samrujlok.th
+SPOTV.th;SPOTV.th
+SPOTV2.th;SPOTV 2.th
+Thainess.th;Thainess.th
+ThaiPBS.th;ThaiPBS.th
+ThairathTV.th;Thairath TV.th
+TLC.th;TLC.th
+TNN16.th;TNN16.th
+TNN2.th;TNN2.th
+TNN24.th;TNN24.th
+TPTV.th;TPTV.th
+TRATH.th;TRATH.th
+TREXPLIFE.th;TR EXP LIFE.th
+TREXPSCI.th;TR EXP SCI.th
+TREXPWILD.th;TR EXP WILD.th
+TRFILM.th;TR FILM.th
+TRFILMASIA.th;TR FILM ASIA.th
+TRFILMHD2.th;TR FILM HD2.th
+TRMOVIEHITS.th;TR MOVIE HITS.th
+TRPLOOKPANYA.th;TR PLOOKPANYA.th
+TRSP5.th;TRSP5.th
+TRSP7.th;TRSP7.th
+TRSPARKPLAY.th;TR SPARK PLAY.th
+TRTENNIS.th;TR TENNIS.th
+TRTHAIFILM.th;TR THAI FILM.th
+True4U.th;True4U.th
+TRUESPORT1.th;TRUESPORT 1.th
+TRUESPORT2.th;TRUESPORT 2.th
+TRUESPORT3.th;TRUESPORT 3.th
+TRUESPORT4.th;TRUESPORT 4.th
+TRXZYTE.th;TR X-ZYTE.th
+TSports7.th;T Sports 7.th
+TV5.th;TV5.th
+WarnerTV.th;Warner TV.th
+WORKPOINT.th;WORKPOINT.th
+WSport.th;W-Sport.th
+YunnanInternational.th;Yunnan International.th
