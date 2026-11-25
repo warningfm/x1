@@ -8,6 +8,9 @@ https://www.open-epg.com/files/india.xml
 australia.xml.gz
 https://www.open-epg.com/files/australia.xml.gz
 
+philippines.xml
+https://www.open-epg.com/files/philippines.xml
+
 in.xml.gz
 https://i.mjh.nz/SamsungTVPlus/in.xml.gz
 
