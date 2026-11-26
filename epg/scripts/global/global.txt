@@ -20,6 +20,9 @@ https://i.mjh.nz/all/epg.xml
 DStv/za.xml
 https://i.mjh.nz/DStv/za.xml.gz
 
+singapore.xml
+https://www.open-epg.com/files/singapore.xml
+
 us.xml
 https://i.mjh.nz/PlutoTV/us.xml
 
@@ -41,6 +44,9 @@ https://www.open-epg.com/files/indonesia.xml
 epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 
+SamsungTVPlus
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml
+
 AqFad2811epg.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
@@ -58,6 +64,3 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml
 
 starhub.xml
 https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/main/starhub.xml
-
-SamsungTVPlus
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml
